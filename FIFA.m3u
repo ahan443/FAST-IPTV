@@ -1,0 +1,28 @@
+#EXTM3U
+#PLAYLIST: FIFA BDIX
+#EXTENC: UTF-8
+
+# Playlist Name: FIFA BDIX
+# Last Update: 08:30 PM 11-06-2026
+# Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
+# Website: https://fastiptv.page.gd
+
+
+
+#EXTINF:-1 tvg-id="Caze_TV" tvg-name="Caze TV" tvg-logo="https://i.ibb.co.com/9JJ04g9/1000284076.png" group-title="FIFA",Caze TV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://i.ibb.co.com/84smqMh1/1000283986.png" group-title="FIFA",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="T_sports" tvg-name="T Sports" tvg-logo="https://i.ibb.co.com/h1Wvy09C/1000283988.png" group-title="FIFA",T Sports
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Somoy_News" tvg-name="Somoy News" tvg-logo="https://i.ibb.co.com/kgJDdqKS/1000283987.png" group-title="FIFA",Somoy News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV_Sports" tvg-name="PTV Sports" tvg-logo="https://i.ibb.co.com/dsvVDJZs/1000284021.png" group-title="FIFA",PTV Sports
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
+
+#EXTINF:-1 tvg-id="TyC_Sport" tvg-name="TyC Sport 🇦🇷" tvg-logo="https://i.ibb.co.com/MkX6dK3X/tyc-sports.png" group-title="FIFA",TyC Sport 🇦🇷
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
