@@ -10,6 +10,9 @@
 #EXTINF:-1 tvg-id="Somoy" tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Z Bangla sonar" tvg-name="Z Bangla sonar" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Z Bangla sonar",Somoy
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
+
 #EXTINF:-1 tvg-id="Bein_Sports_1" tvg-name="Bein Sports 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Bein Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
