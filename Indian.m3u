@@ -11,7 +11,7 @@
 #EXTM3U
 
 # Bangla Entertainment
-#EXTINF:-1 tvg-id="ZeeBangla4K" tvg-name="Zee Bangla 4K" tvg-logo="" group-title="Bangla",Zee Bangla 4K
+#EXTINF:-1 tvg-id="ZeeBangla4K" tvg-name="Zee Bangla 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Zee_Bangla_HD_%282025%29.svg/revision/latest?cb=20250609091454" group-title="Bangla",Zee Bangla 4K
 http://starhub.pro/live/Anthony2/Anthony123/435.ts
 
 #EXTINF:-1 tvg-id="ColorsBangla4K" tvg-name="Colors Bangla 4K" tvg-logo="" group-title="Bangla",Colors Bangla 4K
