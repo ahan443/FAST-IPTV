@@ -1,4 +1,11 @@
 #EXTM3U
+
+# Playlist Name: Indian BDIX
+# Last Update: 01:09 PM 20-06-2026
+# Facebook Page: M3U World 4K
+# Website: https://fastiptvbackup.edgeone.app
+
+
 #EXTINF:-1 tvg-id="b76e4eb706e3f4d5a1cc27b07de14f09",Peace TV English HD
 http://119.156.228.231:9983/stream/channelid/927887031?ticket=22453962D0B47331AFA92B2783B096D3E567B769&profile=pass
 #EXTINF:-1 tvg-id="c84e50af925923cb811d9fde34a04686",Peace TV Urdu HD
