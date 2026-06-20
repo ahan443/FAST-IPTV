@@ -72,10 +72,10 @@ http://starhub.pro/live/Anthony2/Anthony123/113069.ts
 #EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="" group-title="Sports",PTV 4K
 http://starhub.pro/live/Anthony2/Anthony123/61674.ts
 
-#EXTINF:-1 tvg-id="StarSports14K" tvg-name="Star Sports 1 4K" tvg-logo="" group-title="Sports",Star Sports 1 4K
+#EXTINF:-1 tvg-id="StarSports14K" tvg-name="Star Sports 1 4K" tvg-logo="" group-title="Sports",Star Sports Select 1 4K
 http://starhub.pro/live/Anthony2/Anthony123/238.ts
 
-#EXTINF:-1 tvg-id="StarSports24K" tvg-name="Star Sports 2 4K" tvg-logo="" group-title="Sports",Star Sports 2 4K
+#EXTINF:-1 tvg-id="StarSports24K" tvg-name="Star Sports 2 4K" tvg-logo="" group-title="Sports",Star Sports select 2 4K
 http://starhub.pro/live/Anthony2/Anthony123/148801.ts
 
 #EXTINF:-1 tvg-id="SonyTen14K" tvg-name="Sony Ten 1 4K" tvg-logo="" group-title="Sports",Sony Ten 1 4K
@@ -90,10 +90,10 @@ http://starhub.pro/live/Anthony2/Anthony123/176.ts
 #EXTINF:-1 tvg-id="FoxCricket5014K" tvg-name="Fox Cricket 501 4K" tvg-logo="" group-title="Sports",Fox Cricket 501 4K
 http://starhub.pro/live/Anthony2/Anthony123/1856.ts
 
-#EXTINF:-1 tvg-id="SuperSport14K" tvg-name="SuperSport 1 4K" tvg-logo="" group-title="Sports",SuperSport 1 4K
+#EXTINF:-1 tvg-id="SuperSport14K" tvg-name="SuperSport 1 4K" tvg-logo="" group-title="Sports",Star Sports 1 4K
 http://starhub.pro/live/Anthony2/Anthony123/9397.ts
 
-#EXTINF:-1 tvg-id="SuperSport24K" tvg-name="SuperSport 2 4K" tvg-logo="" group-title="Sports",SuperSport 2 4K
+#EXTINF:-1 tvg-id="SuperSport24K" tvg-name="SuperSport 2 4K" tvg-logo="" group-title="Sports",Star Sports 2 4K
 http://starhub.pro/live/Anthony2/Anthony123/9398.ts
 
 # Lifestyle
