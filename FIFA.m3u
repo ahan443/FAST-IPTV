@@ -8,8 +8,11 @@
 # Website: https://fastiptvbackup.edgeone.app
 
 
-#EXTINF:-1 tvg-id="Fussball Tv" tvg-name="Fussball Tv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Fussball Tv
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1 tvg-id="Fussball Tv 1" tvg-name="Fussball Tv 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Fussball Tv 1
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742610.ts
+
+#EXTINF:-1 tvg-id="Fussball Tv 2" tvg-name="Fussball Tv 2" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Fussball Tv 2
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/742611.ts
 
 #EXTINF:-1 tvg-id="Somoy" tvg-name="Somoy" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
