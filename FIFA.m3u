@@ -3,7 +3,7 @@
 #EXTENC: UTF-8
 
 # Playlist Name: FIFA BDIX
-# Last Update: 05:09 PM 17-06-2026
+# Last Update: 05:09 PM 22-06-2026
 # Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
 # Website: https://fastiptvbackup.edgeone.app
 
@@ -19,6 +19,9 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Unite 8 Sports 1 HD" tvg-name="Unite 8 Sports 1 HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Unite 8 Sports 1 HD
 http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+
+#EXTINF:-1 tvg-id="TVP Sports" tvg-name="TVP Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",TVP Sports
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein_Sports_1 720p" tvg-name="Bein Sports 1 720p" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Bein Sports 1 720p
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
@@ -41,10 +44,10 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 #EXTINF:-1 tvg-id="S Football" tvg-name="S Football" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",S Football
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 
-#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sports",T Sports HD
+#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",T Sports HD
 http://starhub.pro/live/Anthony2/Anthony123/113069.ts
 
-#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sports",PTV 4K
+#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",PTV 4K
 http://starhub.pro/live/Anthony2/Anthony123/61674.ts
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",DAZN 1
