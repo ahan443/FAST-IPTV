@@ -64,3 +64,6 @@ http://186.33.40.97:8789/play/20
 
 #EXTINF:-1 tvg-id="D Sports" tvg-name="D Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",D Sports
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+
+#EXTINF:-1 tvg-id="Tudn Sports" tvg-name="Tudn Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Tudn Sports
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
