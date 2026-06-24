@@ -8,6 +8,10 @@
 # Website: https://fastiptvbackup.edgeone.app
 
 
+
+#EXTINF:-1 tvg-id="TVRI sport" tvg-name="TVRI sport" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",TVRI sport
+http://103.148.44.38:8000/play/a05u/index.m3u8
+
 #EXTINF:-1 tvg-id="Btv" tvg-name="Btv" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="FIFA",Btv
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
