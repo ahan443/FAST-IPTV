@@ -1,0 +1,101 @@
+#EXTM3U
+#PLAYLIST: Indian BDIX V2
+#EXTENC: UTF-8
+
+# Playlist Name: Indian BDIX V2
+# Last Update: 06:15 PM 20-06-2026
+# Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
+# Fb Page Name : M3U World 4K
+# This link are available freely on the internet . So, don't disturb me.
+
+#EXTM3U
+
+# Bangla Entertainment
+#EXTINF:-1 tvg-id="ZeeBangla4K" tvg-name="Zee Bangla 4K" tvg-logo="" group-title="Bangla",Zee Bangla 4K
+http://fastshare1.com:8080/live/931461266/374152877/98881.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="ColorsBangla4K" tvg-name="Colors Bangla 4K" tvg-logo="" group-title="Bangla",Colors Bangla 4K
+http://fastshare1.com:8080/live/931461266/374152877/98882.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="StarJalsa4K" tvg-name="Star Jalsa 4K" tvg-logo="" group-title="Bangla",Star Jalsa 4K
+http://fastshare1.com:8080/live/931461266/374152877/198.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="JalsaMovies4K" tvg-name="Jalsa Movies 4K" tvg-logo="" group-title="Bangla",Jalsa Movies 4K
+http://fastshare1.com:8080/live/931461266/374152877/425.ts?RKDYIPTV&token=rkdyiptv
+
+# Movies
+#EXTINF:-1 tvg-id="SonyMax4K" tvg-name="Sony Max 4K" tvg-logo="" group-title="Movies",Sony Max 4K
+http://fastshare1.com:8080/live/931461266/374152877/98857.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="AndPictures4K" tvg-name="& Pictures 4K" tvg-logo="" group-title="Movies",& Pictures 4K
+http://fastshare1.com:8080/live/931461266/374152877/231.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="StarGold4K" tvg-name="Star Gold 4K" tvg-logo="" group-title="Movies",Star Gold 4K
+http://fastshare1.com:8080/live/931461266/374152877/98858.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="StarGoldSelect4K" tvg-name="Star Gold Select 4K" tvg-logo="" group-title="Movies",Star Gold Select 4K
+http://fastshare1.com:8080/live/931461266/374152877/98859.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="ZeeCinema4K" tvg-name="Zee Cinema 4K" tvg-logo="" group-title="Movies",Zee Cinema 4K
+http://fastshare1.com:8080/live/931461266/374152877/98860.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="ColorsCineplex4K" tvg-name="Colors Cineplex 4K" tvg-logo="" group-title="Movies",Colors Cineplex 4K
+http://fastshare1.com:8080/live/931461266/374152877/98908.ts?RKDYIPTV&token=rkdyiptv
+
+# Documentary
+#EXTINF:-1 tvg-id="AnimalPlanet4K" tvg-name="Animal Planet 4K" tvg-logo="" group-title="Documentary",Animal Planet 4K
+http://fastshare1.com:8080/live/931461266/374152877/98873.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="HistoryTV184K" tvg-name="History TV18 4K" tvg-logo="" group-title="Documentary",History TV18 4K
+http://fastshare1.com:8080/live/931461266/374152877/98877.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="Discovery4K" tvg-name="Discovery 4K" tvg-logo="" group-title="Documentary",Discovery 4K
+http://fastshare1.com:8080/live/931461266/374152877/9393.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="NationalGeo4K" tvg-name="National Geographic 4K" tvg-logo="" group-title="Documentary",National Geographic 4K
+http://fastshare1.com:8080/live/931461266/374152877/98874.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="SonyBBCEarth4K" tvg-name="Sony BBC Earth 4K" tvg-logo="" group-title="Documentary",Sony BBC Earth 4K
+http://fastshare1.com:8080/live/931461266/374152877/98871.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="TravelXP4K" tvg-name="Travel XP 4K" tvg-logo="" group-title="Documentary",Travel XP 4K
+http://fastshare1.com:8080/live/931461266/374152877/1623.ts?RKDYIPTV&token=rkdyiptv
+
+# Kids
+#EXTINF:-1 tvg-id="Nick4K" tvg-name="Nick 4K" tvg-logo="" group-title="Kids",Nick 4K
+http://fastshare1.com:8080/live/931461266/374152877/98880.ts?RKDYIPTV&token=rkdyiptv
+
+# Sports
+#EXTINF:-1 tvg-id="TSportsHD" tvg-name="T Sports HD" tvg-logo="" group-title="Sports",T Sports HD
+http://fastshare1.com:8080/live/931461266/374152877/18452.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="PTV4K" tvg-name="PTV 4K" tvg-logo="" group-title="Sports",PTV 4K
+http://fastshare1.com:8080/live/931461266/374152877/89.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="StarSports14K" tvg-name="Star Sports 1 4K" tvg-logo="" group-title="Sports",Star Sports 1 4K
+http://fastshare1.com:8080/live/931461266/374152877/124281.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="StarSports24K" tvg-name="Star Sports 2 4K" tvg-logo="" group-title="Sports",Star Sports 2 4K
+http://fastshare1.com:8080/live/931461266/374152877/124284.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="SonyTen14K" tvg-name="Sony Ten 1 4K" tvg-logo="" group-title="Sports",Sony Ten 1 4K
+http://fastshare1.com:8080/live/931461266/374152877/154.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="SonyTen24K" tvg-name="Sony Ten 2 4K" tvg-logo="" group-title="Sports",Sony Ten 2 4K
+http://fastshare1.com:8080/live/931461266/374152877/31314.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="SonyTen54K" tvg-name="Sony Ten 5 4K" tvg-logo="" group-title="Sports",Sony Ten 5 4K
+http://fastshare1.com:8080/live/931461266/374152877/176.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="FoxCricket5014K" tvg-name="Fox Cricket 501 4K" tvg-logo="" group-title="Sports",Fox Cricket 501 4K
+http://fastshare1.com:8080/live/931461266/374152877/1856.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="Stat Sports select 1 4K" tvg-name="Stat Sports select 1 4K" tvg-logo="" group-title="Sports",Stat Sports select 1 4K
+http://fastshare1.com:8080/live/931461266/374152877/238.ts?RKDYIPTV&token=rkdyiptv
+
+#EXTINF:-1 tvg-id="Stat Sports select 2 4K" tvg-name="Stat Sports select 2 4K" tvg-logo="" group-title="Sports",Stat Sports select 2 4K
+http://fastshare1.com:8080/live/931461266/374152877/148801.ts?RKDYIPTV&token=rkdyiptv
+
+# Lifestyle
+#EXTINF:-1 tvg-id="ZeeZest4K" tvg-name="Zee Zest 4K" tvg-logo="" group-title="Lifestyle",Zee Zest 4K
+http://fastshare1.com:8080/live/931461266/374152877/380446.ts?RKDYIPTV&token=rkdyiptv
