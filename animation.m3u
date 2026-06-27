@@ -1,0 +1,20 @@
+# Facebook Page: https://www.facebook.com/profile.php?id=61590515402166
+# Fb Page Name : M3U World 4K
+# This link are available freely on the internet . So, don't disturb me.
+
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmftp.net/content-images/movies/posters//tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg" group-title="Animation",Swapped
+https://fmftp.net/api/stream/video/stream?type=movies&id=20871
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmftp.net/content-images/movies/posters//b3WeTp42eJSRuE4UZfyPCOJW4c.jpg" group-title="Animation",The Super Mario Galaxy Movie
+https://fmftp.net/api/stream/video/stream?type=movies&id=20856
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmftp.net/content-images/movies/posters//uEZAx4Rk42hv8bfrXC9pyQPWErw.jpg" group-title="Animation",The Land Of Sometimes
+https://fmftp.net/api/stream/video/stream?type=movies&id=20946
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmftp.net/content-images/movies/posters//xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg" group-title="Animation",Hoppers
+https://fmftp.net/api/stream/video/stream?type=movies&id=20842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmftp.net/content-images/movies/posters//wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg" group-title="Animation",GOAT
+https://fmftp.net/api/stream/video/stream?type=movies&id=20740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fmftp.net/content-images/movies/posters//fqsaRkgdltgVX2tsfGB14zxnkMO.jpg" group-title="Animation",Sierra Madre
+https://fmftp.net/api/stream/video/stream?type=movies&id=20822
