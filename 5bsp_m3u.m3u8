@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="zee-tv-sd" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment", Zee TV SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
+#EXTINF:-1 tvg-chno="2" tvg-id="Zee TV HD" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",Zee TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#EXTINF:-1 tvg-chno="3" tvg-id="zee-anmol" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment", Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/manifest.mpd
+#EXTINF:-1 tvg-chno="4" tvg-id="&TV HD" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+#EXTINF:1 tvg-chno="5" tvg-id="&TV SD" group-title="Entertainment" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",&TV SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#EXTINF:1 tvg-chno="6" tvg-id="&TV SD" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",&TV SD (Alt)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd
+#EXTINF:-1 tvg-chno="7" tvg-id="Big Magic" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Entertainment",Big Magic
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTINF:-1 tvg-chno="8" tvg-id="zee-cinema-sd" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies", Zee Cinema SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" tvg-chno="9" group-title="Movies",Zee Cinema HD
+#EXTVLCOPT:http-user-agent=Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
+#EXTINF:-1 tvg-chno="10" tvg-id="zee-bollywood" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies", Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
+#EXTINF:-1 tvg-chno="11" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies", Zee Anmol Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
+#EXTINF:-1 tvg-chno="12" tvg-id="Zee Classic" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies",Zee Classic
+https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-176|Referer=https://colorsportscreen.com/sfive/stream.m3u8?id=0-9-209
+#EXTINF:-1 tvg-chno="13" tvg-id="Zee Action" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies",Zee Action
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/main.mpd
+#EXTINF:-1 tvg-chno="14" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies", Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+#EXTINF:-1 tvg-chno="15" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies", Zee Talkies
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetalkies/default/manifest.mpd
+#EXTINF:-1 tvg-chno="16" tvg-id="&Pictures HD" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies", &pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#EXTINF:-1 tvg-chno="17" tvg-id="& Pictures SD" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies",&Pictures SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
+#EXTINF:-1 tvg-chno="18" tvg-id="English &Flix SD" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Movies",English &Flix SD PeoTV Go
+https://edge4-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.mpd
+#EXTINF:-1 tvg-chno="19" tvg-id="zee-kannada" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Regional", Zee Kannada HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeekannada/default/manifest.mpd
+#EXTINF:-1 tvg-chno="20" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Regional", Zee Telugu HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
+#EXTINF:-1 tvg-chno="21" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Regional", Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd
+#EXTINF:-1 tvg-chno="22" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Regional", Zee Marathi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeemarathi/default/manifest.mpd
+#EXTINF:-1 tvg-chno="23" tvg-id="zee-bihar-jharkhand" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Regional", Zee Bihar Jharkhand
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
+#EXTINF:-1 tvg-id="zee-tamil" tvg-chno="24" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Regional",Zee Tamil
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
+#EXTINF:-1 tvg-chno="25" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="News", Zee Hindustan
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeehindustan/default/manifest.mpd
+#EXTINF:-1 tvg-chno="26" tvg-id="zee-anoml-cinema" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="News", Zee Business
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
+#EXTINF:-1 tvg-chno="27" tvg-id="zing" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Music", Zing
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#EXTINF:-1 tvg-chno="28" tvg-id="zoom2" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg" group-title="Music", Zoom
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/manifest.mpd
