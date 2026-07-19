@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Soco live
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366763-0-0-e738badfeb59ab0c20ae4a350ec0d4ea
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Mundial
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃WC┃ NPO 1 HD [NL]
 http://me.mdmfista.com/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745078&extension=ts&play_token=KNGLyFpAYz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",┃WC┃ NPO 2 HD [NL]
