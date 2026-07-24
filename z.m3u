@@ -430,4 +430,8 @@ http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/59p62VB2/20250120_193532.png",TNT 4
 
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original//l3lcofmg6YoDOPCR0peenvJbPVO.jpg",Nari Choritro Bejay Jotil
+https://fmftp.net/data/disk-1/movies/indianbangla/new/Nari%20Choritro%20Bejay%20Jotil%20(2026)/Nari%20Choritro%20Bejay%20Jotil.mkv
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original//l3lcofmg6YoDOPCR0peenvJbPVO.jpg",Rockstar
+https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Rockstar%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%20720p%20ESub.mkv
