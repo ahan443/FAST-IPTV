@@ -28,6 +28,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/fy1KcFJf/20240822_225533.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x95285"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Somoy Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
@@ -121,10 +124,10 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",SAUDI QURAN HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",Makkah Live
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
 
-#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Saudi Sunnah HD
+#EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg",Medina Live
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="𝗜𝘀𝗹𝗮𝗺𝗶𝗰" tvg-logo="https://i.postimg.cc/J4nkLqHS/20260321_075216.png", Islamic TV
@@ -160,7 +163,7 @@ http://103.175.73.12:8080/live/202/202_0.m3u8
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/SQGYcHzS/20240823_021145.png",Nick  
 
 
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Nikki HD
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",Nikki HD
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
@@ -315,25 +318,28 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 
 
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Calcutta News
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Calcutta_news.png/revision/latest?cb=20240324141315",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",R Plus News
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/RPlus_News_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240325121111",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",R Plus Gold
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png/revision/latest/scale-to-width-down/1000?cb=20240325114125",R Plus Gold
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Republic Bangla
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Zee_24_Ghanta_2025_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250608122308",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
+
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png/revision/latest/scale-to-width-down/1000?cb=20230126194444",Republic Bangla
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",TV9 Bangla
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest/scale-to-width-down/1000?cb=20210509173815",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Aaj Tak HD
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037",Aaj Tak HD
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",NDTV Hindi
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NDTV.svg/revision/latest/scale-to-width-down/1000?cb=20200620090825",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
 
@@ -365,7 +371,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",PTV
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Ptvsportslogo2023.png/revision/latest?cb=20240716062958",PTV
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Ten Cricket 
@@ -416,7 +422,7 @@ http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/59p62VB2/20250120_193532.png",TNT 4
 
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.ibb.co.com/wNC78Fgg/Capture.png",Mundial Fifa
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.imgur.com/jVBfQNj.png",Mundial Fifa
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 
