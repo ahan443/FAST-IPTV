@@ -1,4 +1,11 @@
 #EXTM3U
+#PLAYLIST: Z BDIX
+#EXTENC: UTF-8
+
+# Playlist Name: Z BDIX
+# Last Update: 05:22 PM 29-07-2026
+# Facebook Page: https://www.facebook.com/m3uworld4k/
+# Telegram: t.me/+dck4ykylk0kwyzk1
 
 
 
@@ -50,7 +57,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRnM89n/20240825-071012.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
-http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
@@ -227,7 +234,7 @@ https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚"tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/RPlus_Gold_logo_%282013%29.png/revision/latest/scale-to-width-down/1000?cb=20240325114125",R Plus Gold
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/P5GdL9Q7/RPlus-Gold-logo-(2013).webp",R Plus Gold
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚"tvg-logo="https://i.postimg.cc/rFcCkS5m/20240822_231714.png",Jalsha Movies HD 
@@ -332,25 +339,25 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Calcutta_news.png/revision/latest?cb=20240324141315",Calcutta News
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/T3TrX75k/Calcutta-news.webp",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/RPlus_News_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240325121111",R Plus News
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/Bnh1fq0X/RPlus-News-logo-2017.webp",R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Zee_24_Ghanta_2025_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250608122308",Zee 24 Ghanta
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/D0KSP0qB/Zee-24-Ghanta-2025-Logo-2025.webp",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png/revision/latest/scale-to-width-down/1000?cb=20230126194444",Republic Bangla
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/jdtWWWq3/Republic-bangla.webp",Republic Bangla
 https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest/scale-to-width-down/1000?cb=20210509173815",TV9 Bangla
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/85L5cGqH/Tv9bangla.webp",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png/revision/latest?cb=20210310202037",Aaj Tak HD
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/ZnTTqdP5/Aaj-Tak-HD-v2.webp",Aaj Tak HD
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/NDTV.svg/revision/latest/scale-to-width-down/1000?cb=20200620090825",NDTV Hindi
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 News" tvg-logo="https://i.postimg.cc/26xDgSs9/NDTV.webp",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m3u8
 
 
@@ -386,7 +393,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Z54Rj5ft/20250529_121328.png" group-title="𝐌𝐮𝐬𝐢𝐜",Joo Music
 
-#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.imgur.com/sqeIrMo",Hindi Hits HD
+#EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/d1pkfnGy/s143757-ld-h15-aa.png",Sangeet Bhojpuri
@@ -401,7 +408,7 @@ https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Ptvsportslogo2023.png/revision/latest?cb=20240716062958 "group-title="𝐒𝐩𝐨𝐫𝐭𝐬",PTV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp"group-title="𝐒𝐩𝐨𝐫𝐭𝐬",PTV
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Ten Cricket 
