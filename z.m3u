@@ -3,7 +3,7 @@
 #EXTENC: UTF-8
 
 # Playlist Name: Z BDIX
-# Last Update: 12:20 PM 01-08-2026
+# Last Update: 11:20 PM 31-07-2026
 # Facebook Page: https://www.facebook.com/m3uworld4k/
 # Telegram: t.me/+dck4ykylk0kwyzk1
 
@@ -459,12 +459,15 @@ https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
 https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 1
+https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 2
+https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkK3Mszq/20240823_024219.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 3
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
+https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png",Bein Sports
 https://messi.damitv.st/papi/ts/beinsports-usa/playlist.m3u8
