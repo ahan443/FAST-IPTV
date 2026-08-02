@@ -397,10 +397,10 @@ http://103.175.73.12:8080/live/161/master.m3u8
 http://103.175.73.12:8080/live/771/master.m3u8
 
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/R09JwBBc/HWb5Iat.png",Jalwa TV pk
-http://119.156.228.231:9983/stream/channelid/1893273325?ticket=B3DB50D5930411D593B973B8404789C46D3559B8&profile=pass
+
 
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/4ythzNmp/KLrf-KRn.png",8XM
-http://119.156.228.231:9983/stream/channelid/1908155931?ticket=5A36C079BB553DA9597BC64EA284C1A562B9C565&profile=pass
+
 
 #EXTINF:-1 group-title="𝐌𝐮𝐬𝐢𝐜" tvg-logo="https://i.postimg.cc/XNHzD5Zg/s143563-ld-h15-aa.png",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
