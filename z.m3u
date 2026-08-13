@@ -50,7 +50,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Independent 
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcwNC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY2NDA0NDF9fX1dfQ","edge-signature":"NtN4AoSSaebZcCpVaeZTW~Mbq2ciaGTYaMZiCvRv0sI"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G2V7K9fD/20240822-230750.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
@@ -60,7 +61,12 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png",Star News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bingeakashgo.live.ott.irdeto.com/licenseServer/widevine/v1/bingeakashgo/license?contentId=108684c7a89e&ls_session=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InJzYTIwNDhrZXkifQ.eyJzdWIiOiI0MDA3ODA0NCIsImlzcyI6Im9wZXJhdG9yLXBvcnRhbCIsImV4cCI6MTc4NjYzNjg0NSwiaWF0IjoxNzg2NjI5NjQ1LCJhaWQiOiJiaW5nZWFrYXNoZ28iLCJqdGkiOiJhZTYzNzkwYS1mMDM1LTQxYTYtOThhNS1mZWJiMDhmNDkyMjciLCJlbnQiOlt7ImVwaWQiOiJzdWJzY3JpcHRpb24tZW50aXRsZW1lbnQtcG9saWN5IiwiYmlkIjoic3Vic2NyaXB0aW9uLWJ1bmRsZSJ9XSwiY2lkIjoiMTA4Njg0YzdhODllIn0.NMyDbMD31ScAeSTRHGdRKfkBLZMXCh8Zu3maUZun7phx9oj7ynRXFtPrgr0y0ogrwwbd6y0vjxR0Fp-e6QJRHxK8RNs2k5-8Xnmo5Xts0ePiogKktddEwGJehIdxkwhdlZxUbvCLLDuxbNOkHoOwd6xKAwXD7ASZFuIRzAXcCdGdKRDs_mTraJJp0l5zfR-N34WMuK7__zptBfacx56Eu9QXm3wG2ly4GUxopObwJQb-UiSZs70UjBPvtUfa1qXApgo_HfHsd09ScXx-H-n1tR69a_WyI34827tDz1_UOCnL6-GYifhJoJaGCs1aX-CmXDx4k_vPTYbN1tH-lEa7dg
+#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcxMC9vdXRwdXQvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRWRnZVRpbWUiOjE3ODY2NDA0NDV9fX1dfQ","edge-signature":"iFWEINFw6rRfE-lCsH73U687Fi7ernyvAwFg4c1Hwmg"}
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd?_t=1786629645342
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0QRnM89n/20240825-071012.png"group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Rajdhani
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
