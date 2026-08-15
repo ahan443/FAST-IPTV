@@ -3,13 +3,13 @@
 #EXTENC: UTF-8
 
 # Playlist Name: Z BDIX
-# Last Update: 06:10 PM 14-08-2026
+# Last Update: 06:10 PM 15-08-2026
 # Facebook Page: https://www.facebook.com/m3uworld4k/
 # Telegram: t.me/+dck4ykylk0kwyzk1
 
 
 
-#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",BTV (not 24/7)
+#EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",BTV (ISP)
 http://103.151.60.188:12345/hls/tab_c1lyqbp/index.m3u8
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
