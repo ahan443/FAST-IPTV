@@ -206,8 +206,7 @@ http://103.175.73.12:8080/live/202/202_0.m3u8
 
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",Nikki HD
-#EXTHTTP:{"edge-policy":"eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ub21hd25vaWpsLmdwY2RuLm5ldC9ha2FzaC9uaWtreS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFZGdlVGltZSI6MTc4NjY0MDQ0Nn19fV19","edge-signature":"Xy8QrgnRODoejMi3b8K4BM9pH0y6NsLZfiJFfZSutLE"}
-https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
@@ -490,7 +489,7 @@ https://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=ptv_sports&format=.m3u8
 https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
-
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports
 
@@ -562,7 +561,9 @@ https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",Animal Planet HD
-http://27.124.71.27/Animal_Planet/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1786965248:KeyName=prod_linear:Signature=Wy5z0Cyo-fagFPMIpshPr9Bpp8GYM85s8VUrlcMwbP3NC-5ROstT2qAu6Pan9E6e1jvWY_VresanPHWKzYT0Bg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲" tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png",Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
@@ -571,7 +572,7 @@ http://202.70.146.135:8000/play/a05z/index.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/VN6PHrKZ/20240823_023950.png",National Geographic HD
-http://40.160.24.53/NAT_GEO/index.m3u8
+http://202.70.146.135:8000/play/a05o/index.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/Jh2Cwrgr/20240823-024003.png",National Wild HD
 
