@@ -3,14 +3,14 @@
 #EXTENC: UTF-8
 
 # Playlist Name: Z BDIX
-# Last Update: 06:10 PM 19-08-2026
+# Last Update: 06:10 PM 24-08-2026
 # Facebook Page: https://www.facebook.com/m3uworld4k/
 # Telegram: t.me/+dck4ykylk0kwyzk1
 
 
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",BTV (fixed)
-
+https://akash.sm-monirul.top/btv.m3u8
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png",BTV News
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
@@ -607,10 +607,10 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/Jh2Cwrgr/20240823-024003.png",National Wild HD
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png",Love Natural 
-http://27.124.71.27/Love_Nature/index.m3u8
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png",Sony BBC Earth
-https://m3uworld4k.s.gy/BBCEarth4K.m3u8
+
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png", Travel XP HD
 http://103.159.180.34:5001/live/562.m3u8
