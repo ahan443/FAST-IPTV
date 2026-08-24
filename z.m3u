@@ -380,7 +380,13 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787740578:KeyName=prod_linear:Signature=n7zr0HjK57dNwlbYgHmkpZclSoSFAdlFpkAZuz37OaOE2pYefJ7WuiPKL1ebOTO8_SwASo8wHyje8bXh3LvUDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
 
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/8cF8kq2R/20240823_022835.png",Sony Pal
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/pal.m3u8
+
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/8cF8kq2R/20240823_022835.png",Sony Wah
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/wah.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv.spacexraj.com/uploads/6968988804cf2.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",MBC BOLLYWOOD
 
@@ -611,7 +617,8 @@ https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png",Sony BBC Earth
-
+#EXTVLCOPT:http-referrer=https://premiumplugx.me/
+https://plugsony.cstds.workers.dev/sligni/sony.php/bbc-earth.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png", Travel XP HD
 http://103.159.180.34:5001/live/562.m3u8
