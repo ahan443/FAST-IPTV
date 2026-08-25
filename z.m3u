@@ -311,6 +311,7 @@ https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.
 http://202.70.146.135:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/Tw3MFyQH/20240823_022713.png",Colors Cineplex
+http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png",Star Plus HD
 http://202.70.146.135:8000/play/a009/index.m3u8
