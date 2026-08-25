@@ -211,12 +211,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 https://akash.sm-monirul.top/nikki.m3u8
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
-http://live.balajibroadband.com:3500/live/1341.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/sD6BNScb/20240823-021243.png",Nick Jr
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",Sonic Bangla
-http://live.balajibroadband.com:3500/live/1345.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1345
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/BnPv7zt1/20240823_021725.png",Disnep HD
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
@@ -230,15 +230,11 @@ http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787740578:KeyName=prod_linear:Signature=n7zr0HjK57dNwlbYgHmkpZclSoSFAdlFpkAZuz37OaOE2pYefJ7WuiPKL1ebOTO8_SwASo8wHyje8bXh3LvUDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network +
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787740578:KeyName=prod_linear:Signature=n7zr0HjK57dNwlbYgHmkpZclSoSFAdlFpkAZuz37OaOE2pYefJ7WuiPKL1ebOTO8_SwASo8wHyje8bXh3LvUDQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network + Hindi
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=3436
 
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787740578:KeyName=prod_linear:Signature=n7zr0HjK57dNwlbYgHmkpZclSoSFAdlFpkAZuz37OaOE2pYefJ7WuiPKL1ebOTO8_SwASo8wHyje8bXh3LvUDQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network Hindi
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=816
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
@@ -596,15 +592,11 @@ https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 
 
-#EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",Animal Planet HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787740578:KeyName=prod_linear:Signature=n7zr0HjK57dNwlbYgHmkpZclSoSFAdlFpkAZuz37OaOE2pYefJ7WuiPKL1ebOTO8_SwASo8wHyje8bXh3LvUDQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
+#EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",Animal Planet HD Hindi
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=3451
 
-#EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲" tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png",Discovery HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1787740578:KeyName=prod_linear:Signature=n7zr0HjK57dNwlbYgHmkpZclSoSFAdlFpkAZuz37OaOE2pYefJ7WuiPKL1ebOTO8_SwASo8wHyje8bXh3LvUDQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8
+#EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲" tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png",Discovery Bengali
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=573
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲" tvg-logo="https://i.postimg.cc/zvPTkPjH/IJH47f-J.png",Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
@@ -613,6 +605,7 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/Jh2Cwrgr/20240823-024003.png",National Wild HD
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1332
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png",Love Natural 
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
