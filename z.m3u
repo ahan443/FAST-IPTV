@@ -378,32 +378,30 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/3rbX1G92/images.jpg",Sony Pal
-#EXTVLCOPT:http-referrer=https://premiumplugx.me/
-https://plugsony.cstds.workers.dev/sligni/sony.php/pal.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=474
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/8cF8kq2R/20240823_022835.png",Sony Wah
-#EXTVLCOPT:http-referrer=https://premiumplugx.me/
-https://plugsony.cstds.workers.dev/sligni/sony.php/wah.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1393
 
 #EXTINF:-1 tvg-logo="http://tv.spacexraj.com/uploads/6968988804cf2.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",MBC BOLLYWOOD
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
-http://103.175.73.12:8080/live/43/43_0.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=182
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/tC7JLFj0/20240825_055845.png",Shemarooenterta 
-http://103.175.73.12:8080/live/189/189_0.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=3075
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/Z5dRqZnV/20240825_055816.png",Bhojopuri Cinema
-http://103.175.73.12:8080/live/646/646_0.m3u8
+
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
-http://103.175.73.12:8080/live/53/53_0.m3u8
+
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png", Gold Mines Movie 
-http://103.175.73.12:8080/live/51/51_0.m3u8
+
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
+
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/L8xzTtQY/k-Ug6WSk.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
@@ -498,7 +496,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Ten Cricket 
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",A Sports HD
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
@@ -524,10 +522,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 1
-http://66.102.126.10:8000/play/a06x/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Star Sports SL 2
-http://202.70.146.135:8000/play/a03e/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",Sony Ten 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
@@ -605,14 +603,13 @@ https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/Jh2Cwrgr/20240823-024003.png",National Wild HD
-https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1332
+
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png",Love Natural 
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png",Sony BBC Earth
-#EXTVLCOPT:http-referrer=https://premiumplugx.me/
-https://plugsony.cstds.workers.dev/sligni/sony.php/bbc-earth.m3u8
+https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=821
 
 #EXTINF:-1 group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲"tvg-logo="https://i.postimg.cc/Zn6Gyrqn/20240823-024051.png", Travel XP HD
 http://103.159.180.34:5001/live/562.m3u8
