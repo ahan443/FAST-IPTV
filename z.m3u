@@ -212,7 +212,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",Nikki HD
-https://akash.sm-monirul.top/nikki.m3u8
+https://akash-backup.sm-monirul-islam-rs.workers.dev/nikki.m3u8
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/GtzBrs18/20240823_021125.png",Nick Bangla
 https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=1341
@@ -262,7 +262,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚", Colors Bangla HD
-http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -281,7 +281,7 @@ https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_in
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚"tvg-logo="https://i.postimg.cc/rFcCkS5m/20240822_231714.png",Jalsha Movies HD 
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
+
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚"tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png",Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
@@ -619,9 +619,9 @@ https://jioplaylistdown.yecic62314.workers.dev/live.m3u8?id=821
 http://103.159.180.34:5001/live/562.m3u8
 
 #EXTINF:-1 group-title="GTA 6"tvg-logo="https://i.postimg.cc/SNxmRyKm/Gemini-Generated-Image-ikvsyiikvsyiikvs.jpg", Grand Theft Auto VI: An Extended Look (2026)
-https://pub-35214751cbf1431ba7b6d74f519e61d2.r2.dev/CINEFREAK.TOP%20-%20Grand%20Theft%20Auto%20VI%20An%20Extended%20Look%20%282026%29%20WEB-DL%20%5BEnglish%5D%20720p%20ESub.mkv
 
 
 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/original//l3lcofmg6YoDOPCR0peenvJbPVO.jpg",Nari Choritro Bejay Jotil (2026)
+#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuLMioRauQacj4bRXRsJX9Oe5H6.jpg",Alpha (2026)
+https://pub-4e135af7e68844d8816cb0f642379557.r2.dev/CINEFREAK.TOP%20-%20Alpha%20%282026%29%20DS4K%20WEB-DL%20%5BHindi%5D%20720p%20HEVC%20ESub.mkv
