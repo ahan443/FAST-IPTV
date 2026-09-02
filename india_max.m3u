@@ -39,7 +39,7 @@ http://66.102.126.10:8000/play/a031/index.m3u8
 http://66.102.126.10:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="-",B4U MUSIC
 http://66.102.126.10:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="-",B4U Movies - Free
+#EXTINF:-1 group-title="-",B4U Movies
 http://66.102.126.10:8000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="-",BBC News
 http://66.102.126.10:8000/play/a00t/index.m3u8
@@ -83,11 +83,11 @@ http://66.102.126.10:8000/play/a04u/index.m3u8
 http://66.102.126.10:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="-",EXPRESS NEWS
 http://66.102.126.10:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
+#EXTINF:-1 group-title="-",Eurosport HD
 http://66.102.126.10:8000/play/a01g/index.m3u8
 #EXTINF:-1 group-title="-",FASHIONTV
 http://66.102.126.10:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="-",FASHIONTV HD B/FTV.COM
+#EXTINF:-1 group-title="-",FASHIONTV HD
 http://66.102.126.10:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="-",FAST SPORTS HD
 http://66.102.126.10:8000/play/a05f/index.m3u8
@@ -131,7 +131,7 @@ http://66.102.126.10:8000/play/a04p/index.m3u8
 http://66.102.126.10:8000/play/a01q/index.m3u8
 #EXTINF:-1 group-title="-",Hoora TV
 http://66.102.126.10:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="-",Hungama - Rs 2.00
+#EXTINF:-1 group-title="-",Hungama
 http://66.102.126.10:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="-",INPLUS Pakistan
 http://66.102.126.10:8000/play/a02x/index.m3u8
@@ -165,7 +165,7 @@ http://66.102.126.10:8000/play/a047/index.m3u8
 http://66.102.126.10:8000/play/a046/index.m3u8
 #EXTINF:-1 group-title="-",MINIMAX 2
 http://66.102.126.10:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="-",MN+ HD - Rs 12.00
+#EXTINF:-1 group-title="-",MN+ HD
 http://66.102.126.10:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="-",MTCL 1HD
 http://66.102.126.10:8000/play/a07m/index.m3u8
@@ -219,7 +219,7 @@ http://66.102.126.10:8000/play/a04g/index.m3u8
 http://66.102.126.10:8000/play/a04k/index.m3u8
 #EXTINF:-1 group-title="-",Planet Fun HD
 http://66.102.126.10:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="-",Pogo - Rs 4.75
+#EXTINF:-1 group-title="-",Pogo
 http://66.102.126.10:8000/play/a00d/index.m3u8
 #EXTINF:-1 group-title="-",RIVER HD
 http://66.102.126.10:8000/play/a043/index.m3u8
@@ -227,7 +227,7 @@ http://66.102.126.10:8000/play/a043/index.m3u8
 http://66.102.126.10:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="-",RUBIX HD
 http://66.102.126.10:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
+#EXTINF:-1 group-title="-",Romedy Now
 http://66.102.126.10:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="-",SAB TV
 http://66.102.126.10:8000/play/a03c/index.m3u8
@@ -241,7 +241,7 @@ http://66.102.126.10:8000/play/a03n/index.m3u8
 http://66.102.126.10:8000/play/a005/index.m3u8
 #EXTINF:-1 group-title="-",SONY BBC EARTH HD
 http://66.102.126.10:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="-",SONY PIX HD - Rs 19.00
+#EXTINF:-1 group-title="-",SONY PIX HD 
 http://66.102.126.10:8000/play/a01z/index.m3u8
 #EXTINF:-1 group-title="-",SONY SP ORTS TEN 1 HD-
 http://66.102.126.10:8000/play/a00o/index.m3u8
@@ -251,7 +251,7 @@ http://66.102.126.10:8000/play/a01y/index.m3u8
 https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
 #EXTINF:-1 group-title="-",SONY SPORTS TEN 5 Hindi HD
 http://66.102.126.10:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+#EXTINF:-1 group-title="-",STAR GOLD HD
 http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1 group-title="-",STAR Movies HD 
 http://66.102.126.10:8000/play/a021/index.m3u8
@@ -273,9 +273,9 @@ http://66.102.126.10:8000/play/a01i/index.m3u8
 http://66.102.126.10:8000/play/a03x/index.m3u8
 #EXTINF:-1 group-title="-",Sindh TV
 http://66.102.126.10:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+#EXTINF:-1 group-title="-",Sonic
 http://66.102.126.10:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+#EXTINF:-1 group-title="-",Star Gold 2
 http://66.102.126.10:8000/play/a00g/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold 2 HD
 http://66.102.126.10:8000/play/a077/index.m3u8
