@@ -248,7 +248,7 @@ http://66.102.126.10:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="-",SONY SPORTS TEN 2 HD - Rs 19.00
 http://66.102.126.10:8000/play/a01y/index.m3u8
 #EXTINF:-1 group-title="-",SONY SPORTS TEN 3 Hindi HD - Rs
-http://66.102.126.10:8000/play/a024/index.m3u8
+https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
 #EXTINF:-1 group-title="-",SONY SPORTS TEN 5 Hindi HD
 http://66.102.126.10:8000/play/a010/index.m3u8
 #EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
