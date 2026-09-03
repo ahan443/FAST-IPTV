@@ -232,15 +232,11 @@ http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-51 tvg-logo="https://i.postimg.cc/jSBDsbBX/20240823_021324.png"group-title="𝐊𝐢𝐝𝐬",Sony YaY
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network + Hindi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network HD
+https://stream.ottplus.bd/live/cn_hd_abr/live/cn_hd/chunks.m3u8
 
-#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network Hindi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
+#EXTINF:-1 group-title="𝐊𝐢𝐝𝐬"tvg-logo="https://i.postimg.cc/k4mDbyJR/20240823_021424.png",Cartoon Network
+https://stream.ottplus.bd/live/cn_sd_abr/live/cn_sd/chunks.m3u8
 
 #EXTINF:-1 group-title="𝐊𝐢𝐝𝐬" tvg-logo="https://i.postimg.cc/wTvMLMp2/20240823_021706.png",Discovery Kids 
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
@@ -255,9 +251,7 @@ https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
+https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚", Colors Bangla HD
 http://103.165.93.31:8095/colorsBangla/index.m3u8
@@ -321,29 +315,19 @@ http://66.102.126.10:8000/play/a00f/index.m3u8
 http://66.102.126.10:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
+https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
+https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
+https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
+https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1788527757:KeyName=prod_linear:Signature=tld53yCuuc0WHT0JOxJqQ09LFUvNAVaU5lAgkD4ECoAUFh7xUeQl4xAbOY7iKxIt8YSsIBe8DTkePI3Hp13yBQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8
+https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
