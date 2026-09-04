@@ -308,8 +308,10 @@ http://66.102.126.10:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
-https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
