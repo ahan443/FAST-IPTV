@@ -11,7 +11,7 @@
 
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢" tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv.png",BTV
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/btv%20news.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28VMF8hx/btv-news.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",BTV News
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahan443/logo/refs/heads/main/atn%20bangla.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
@@ -145,9 +145,9 @@ https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j5xkWsRS/star-jalsa.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjWkWhzp/Zee-bangla.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚", Colors Bangla HD
 http://103.165.93.31:8095/colorsBangla/index.m3u8
