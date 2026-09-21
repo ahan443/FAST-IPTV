@@ -1,0 +1,808 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="69473" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://i.postimg.cc/0Q9FYpG8/Jamuna-Tv.jpg" group-title="BD | News",JAMUNA TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnXJfCBY-r3BwGbUa6jkANmnWikjBzXRvT7gDnEQakzY/m3u8
+#EXTINF:-1 xui-id="18816" tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="https://i.postimg.cc/0Q9FYpG8/Jamuna-Tv.jpg" group-title="BD | News",JAMUNA TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtkndNr7lzDfRk3l1Xm0d0vT8nhK1k6GSZhtWphUNNPb/m3u8
+#EXTINF:-1 xui-id="365" tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://i.postimg.cc/bwbQjGnJ/Somoy-TV.jpg" group-title="BD | News",SOMOY TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqFln-A-fWhzHJzQhQCLCKY/m3u8
+#EXTINF:-1 xui-id="105506" tvg-id="" tvg-name="INDEPENDENT" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2Hcd07iRwTTXoc0v3x-rktKzohTR-xMCDTDIlBPBtA6Xw.png" group-title="BD | News",INDEPENDENT
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMuAt5-KV_GUHg97TIoffHjyLXvdtaX_QzRCbjdix_sXO/m3u8
+#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="EKATTOR TV HD" tvg-logo="https://i.postimg.cc/8k2BcQV2/Ekattur.jpg" group-title="BD | News",EKATTOR TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMmToxLwPShf0u7UtvwNyTaM/m3u8
+#EXTINF:-1 xui-id="18817" tvg-id="" tvg-name="CHANNEL 24 HD" tvg-logo="https://i.postimg.cc/WbcgjGGT/Channel-24.jpg" group-title="BD | News",CHANNEL 24 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMhK56trq0gavzVKsdX9Ec5tvpKYzqnxwtwZEcJdp0CVf/m3u8
+#EXTINF:-1 xui-id="362" tvg-id="" tvg-name="ATN NEWS HD" tvg-logo="https://i.postimg.cc/nhkv3XQc/ATN-NEWS.png" group-title="BD | News",ATN NEWS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMm4n41kDvuL2xECD0by918E/m3u8
+#EXTINF:-1 xui-id="16884" tvg-id="" tvg-name="NEWS 24 HD" tvg-logo="https://i.postimg.cc/W1CswfzC/News-24.png" group-title="BD | News",NEWS 24 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrqADouVV1OtVPKPtDnFEWb1_IS8WUmoJvwnx30XLXTh/m3u8
+#EXTINF:-1 xui-id="16883" tvg-id="" tvg-name="DBC NEWS HD" tvg-logo="https://yt3.googleusercontent.com/i5T0QE8rWWQFpgr-XMpxJOdJmjt9XK5CWCiHFHgdQTP_wVSGjs3HpE3uMmE_GaZkT7e_S_HGFQE=s900-c-k-c0x00ffffff-no-rj" group-title="BD | News",DBC NEWS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMg7GbCtG7haZRfCaZ2Lawhm-kZmWUN8dZwKhm3-9piRZ/m3u8
+#EXTINF:-1 xui-id="175336" tvg-id="" tvg-name="STAR NEWS HD" tvg-logo="https://yt3.googleusercontent.com/yFoFpW9JZXbCkMbrc7fc0NJP_1ZqM-aUgIbikDNW_jxudVKod0hU4sdXDjgJR4Y1N7Vz1BiXDPg=s900-c-k-c0x00ffffff-no-rj" group-title="BD | News",STAR NEWS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvvU5ow7ftYK2Kdc5H28WGhih5ZoDGYTMMKZszKl0h5L/m3u8
+#EXTINF:-1 xui-id="358" tvg-id="" tvg-name="BTV NEWS" tvg-logo="https://yt3.googleusercontent.com/kgfiKVhCbQ9Kezq8Ce2NvpxXtLfpf3RJbSrZFNwy51PzlHujPDt7dM9xZLzD5_hLDgcO6IwPNA=s160-c-k-c0x00ffffff-no-rj" group-title="BD | News",BTV NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnxHEwef6QEH046EFjbleQw/m3u8
+#EXTINF:-1 xui-id="24589" tvg-id="ATNBANP" tvg-name="ATN BANGLA HD" tvg-logo="http://dvltv.cc:80/images/pJS7_9HGqlmA3-UUDWSVbQc4JB7QueylxcRSWroqJc_cASQyfGST3nuvK-8lhVjOY_MPKbct-zT0sYUoyohAsg.png" group-title="BD | Bangla",ATN BANGLA HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkVonQu-ezdLt905TpKH07QNiKqK_7DMxKNy4Nmp7kJL/m3u8
+#EXTINF:-1 xui-id="363" tvg-id="CHANI" tvg-name="CHANNEL I HD" tvg-logo="https://i.postimg.cc/F1XHbKHW/Channel-i.jpg" group-title="BD | Bangla",CHANNEL I HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMlkgVxitGYk8gpbxVWwAlN4/m3u8
+#EXTINF:-1 xui-id="378" tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.postimg.cc/gc8LMxCY/Ekushe-TV.png" group-title="BD | Bangla",EKUSHEY TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoUq96dPHI4A5q2MWYFrnU0/m3u8
+#EXTINF:-1 xui-id="369" tvg-id="NTVCH" tvg-name="NTV HD" tvg-logo="https://i.postimg.cc/Gt0kDL7d/Ntv.jpg" group-title="BD | Bangla",NTV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrUcV9BO7JXv1lRgExiJDjc/m3u8
+#EXTINF:-1 xui-id="370" tvg-id="" tvg-name="RTV HD" tvg-logo="https://i.postimg.cc/htyXJTdd/Rtv.jpg" group-title="BD | Bangla",RTV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrx8No7BAqjVD_dnGLueIZk/m3u8
+#EXTINF:-1 xui-id="384" tvg-id="" tvg-name="BOISHAKHAI TV HD" tvg-logo="https://i.postimg.cc/bJbrF5FC/Boishakhi.jpg" group-title="BD | Bangla",BOISHAKHAI TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtsu9VjLnwSYXSnpfj_CQHg/m3u8
+#EXTINF:-1 xui-id="368" tvg-id="" tvg-name="BANGLA VISION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mDEhLlkKGh9TAaQfSBVFMdCwO_LbKMWtqg&s" group-title="BD | Bangla",BANGLA VISION HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMotKJkt7cm98TM9DJcAD2yI/m3u8
+#EXTINF:-1 xui-id="16935" tvg-id="" tvg-name="MY TV HD" tvg-logo="https://i.postimg.cc/7Yqhmm12/My-TV.jpg" group-title="BD | Bangla",MY TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpHoD627RXw4cWtsJRTBbBf2_4hF5ZcIfJ24I_CBmKr4/m3u8
+#EXTINF:-1 xui-id="396" tvg-id="" tvg-name="MOHONA TV HD" tvg-logo="https://i.postimg.cc/Njz0Gt3T/Mohona-TV.jpg" group-title="BD | Bangla",MOHONA TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvnvLidQx0vDzS3RF2yQ3Pk/m3u8
+#EXTINF:-1 xui-id="376" tvg-id="" tvg-name="MAASRANGA TV HD" tvg-logo="https://i.postimg.cc/90CmgQ9X/MAASRANGA-TV-HD.jpg" group-title="BD | Bangla",MAASRANGA TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoKnEchK1XTEm_cgwblPrgw/m3u8
+#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="https://i.postimg.cc/vTFJ3qpW/Channel-9.jpg" group-title="BD | Bangla",CHANNEL 9 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMorglBgjjEq8LwGVCi5Y8bk/m3u8
+#EXTINF:-1 xui-id="374" tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sCg4TdPqqZINuezCDRkkZE86sBLjqTKkeg&s" group-title="BD | Bangla",GAZI TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvzI7591cisa5y29DQlZ4Kk/m3u8
+#EXTINF:-1 xui-id="387" tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="https://i.postimg.cc/vB9jg7cV/Asian-TV.png" group-title="BD | Bangla",ASIAN TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMhV6NX3nj5Zbs_HXiHbnXao/m3u8
+#EXTINF:-1 xui-id="4712" tvg-id="" tvg-name="DESH TV HD" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQE23s4aBeHpDA/company-logo_200_200/B4EZVlKBRBG0AI-/0/1741158881326/desh_television_logo?e=2147483647&v=beta&t=bEqlmrhDYOY9Z3IKZblLKYsylWLjJPkpYc0V9yEwRcc" group-title="BD | Bangla",DESH TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMv_VTjqglr1Gbq_1ZoKtxNg/m3u8
+#EXTINF:-1 xui-id="375" tvg-id="" tvg-name="SATV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJQ0fFYPuzuhY3zSLQzTLS4jw5heQKtd79Q&s" group-title="BD | Bangla",SATV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMovMjPb5AFxicsVvmzCQD5g/m3u8
+#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="BIJOY TV HD" tvg-logo="https://i.postimg.cc/N02CS888/Bijoy-TV.jpg" group-title="BD | Bangla",BIJOY TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMszCi4LTO7fN0A30TC1y9Oc/m3u8
+#EXTINF:-1 xui-id="372" tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://i.postimg.cc/9fKT3XjM/Deepto-TV.jpg" group-title="BD | Bangla",DEEPTO TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrbrUeM02-5lZ0dUIUMZGR0/m3u8
+#EXTINF:-1 xui-id="955" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="https://i.postimg.cc/Y0RdYdkv/Nagorik-TV.jpg" group-title="BD | Bangla",NAGORIK TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMu5S9YQTjz46ijQLSrUt7OY/m3u8
+#EXTINF:-1 xui-id="395" tvg-id="" tvg-name="DURONTO TV HD" tvg-logo="https://i.postimg.cc/brwXhQdC/Duronto-TV.jpg" group-title="BD | Bangla",DURONTO TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMmkx4xEv4Th_HS5Lqard4ZQ/m3u8
+#EXTINF:-1 xui-id="393" tvg-id="" tvg-name="ANANDA TV HD" tvg-logo="https://i.postimg.cc/x8pK9hnS/Ananda-TV.jpg" group-title="BD | Bangla",ANANDA TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMhnIKvQLirMk4gGBdqA39pw/m3u8
+#EXTINF:-1 xui-id="388" tvg-id="" tvg-name="NEXUS TV HD" tvg-logo="https://i.postimg.cc/DwJcwvWn/Nexus-TV.jpg" group-title="BD | Bangla",NEXUS TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnmQ4arlZGXyXGg1UKFwqtY/m3u8
+#EXTINF:-1 xui-id="386" tvg-id="" tvg-name="EKHON TV HD" tvg-logo="https://i.postimg.cc/132JGnx0/Ekhon-TV.png" group-title="BD | Bangla",EKHON TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjuX70VetwN8LUgjNGj3s5I/m3u8
+#EXTINF:-1 xui-id="385" tvg-id="" tvg-name="GLOBAL TV HD" tvg-logo="https://i.postimg.cc/fyh9LHyy/Global-TV.png" group-title="BD | Bangla",GLOBAL TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMr8mn_X1lT1plcxwR4fkE-g/m3u8
+#EXTINF:-1 xui-id="391" tvg-id="" tvg-name="MOVIE BANGLA" tvg-logo="https://i.postimg.cc/GhKyLxCp/Movie-Bangla-TV.png" group-title="BD | Bangla",MOVIE BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMt3Dz5Bb8nT7s7ANAhQaebQ/m3u8
+#EXTINF:-1 xui-id="394" tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSceBux73X8Cmd9f5cRgZ4rySiwrJzbdAMPmR4ewaKsZWPQ.png" group-title="BD | Bangla",BANGLA TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpyspcs3ueoLc3Hj1KFXqqY/m3u8
+#EXTINF:-1 xui-id="449" tvg-id="JALSHA" tvg-name="STAR JALSHA" tvg-logo="http://dvltv.cc:80/images/v8MS-17zGoHIyTBXGPTsUN7vbW730P7Mw0sNZ07m7O3CE2rokvOfwyEGkG2edDFKFdDC8rHbcl8IhXRueupvgg.png" group-title="IND | Kolkata",STAR JALSHA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMijB_0DMExbj3zJ0WDcOaHA/m3u8
+#EXTINF:-1 xui-id="450" tvg-id="Jalsha Movies.in" tvg-name="JALSHA MOVIES*" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2Ez2RoUo3nim0o8ITu9aSoulKnb9SMLk_2e0B2YDOGHWw.png" group-title="IND | Kolkata",JALSHA MOVIES*
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrj7N-tRj31F6ZO01-aiHQQ/m3u8
+#EXTINF:-1 xui-id="2329" tvg-id="ZeeBanglaHD.in" tvg-name="ZEE BANGLA" tvg-logo="https://yt3.googleusercontent.com/jIRlgQxlU-9mFVpBHZHjCApv8rArI8Lj0hB_HxKveD8SpbQ6k2fA6kSuZixOV92Ty4sh7-Vhvw=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Kolkata",ZEE BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMq6-htCJY8uUQj02b1o7L3Y/m3u8
+#EXTINF:-1 xui-id="451" tvg-id="Zee Bangla HD.in" tvg-name="ZEE BANGLA HD*" tvg-logo="https://yt3.googleusercontent.com/jIRlgQxlU-9mFVpBHZHjCApv8rArI8Lj0hB_HxKveD8SpbQ6k2fA6kSuZixOV92Ty4sh7-Vhvw=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Kolkata",ZEE BANGLA HD*
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgPcxo7EC5ToFlKltXPDMb4/m3u8
+#EXTINF:-1 xui-id="18982" tvg-id="ZeeBanglaCinema.in" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPCinX0FRqUBosmnW3XDDLp7vah6YZ1iOIg&s" group-title="IND | Kolkata",ZEE BANGLA CINEMA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMljCQPneTOXPoy8iK_XswG7ZFDMJBJ8DmH2cs9wZQgFb/m3u8
+#EXTINF:-1 xui-id="453" tvg-id="Colors Bangla HD.in" tvg-name="COLORS BANGLA HD*" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2GQhhRtqtIblUa9CNNItg7cUz_vV0kK1O2p7ym05u1PKA.png" group-title="IND | Kolkata",COLORS BANGLA HD*
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMsSiSrj7cx24ztvbTREbpao/m3u8
+#EXTINF:-1 xui-id="454" tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2GQhhRtqtIblUa9CNNItg7cIv9-sWD_fKbxvxFdPvmR4w.png" group-title="IND | Kolkata",COLORS BANGLA CINEMA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrXN47Ob5blkO33WzlimuM4/m3u8
+#EXTINF:-1 xui-id="94406" tvg-id="Enterr10 Bangla.in" tvg-name="IN: ENTER 10 BANGLA" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScf-nSdoZvwLf97WUtj0CrLQ86xrMRjrVBkiz0MQsEf-Dg.png" group-title="IND | Kolkata",IN: ENTER 10 BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMq9p5m6b8lmLUoan9qSaEozRaIinYKwxHMKdYZuhR2Yf/m3u8
+#EXTINF:-1 xui-id="161685" tvg-id="" tvg-name="SONY AATH" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfNVOhGan1H19txP9-idm66BtcLsBl5vBmRqSdVflxF4g.png" group-title="IND | Kolkata",SONY AATH
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoyvPL9LhIYztLcetbMS_KZJbLa5_V-xuZ-ZfVHsPXbO/m3u8
+#EXTINF:-1 xui-id="7433" tvg-id="Ruposhi Bangla.in" tvg-name="RUPOSHI BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoxy9j9zGi_SVsVx52hQULmbTcKoB8DPi6Gg&usqp=CAU" group-title="IND | Kolkata",RUPOSHI BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMom1PY7tpTg5QuiB3zKXekU/m3u8
+#EXTINF:-1 xui-id="2881" tvg-id="" tvg-name="AAKASH AATH" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfi0P41poliPLd6DzxK8ONQTveJr93M_4EMl9_CDRtYyg.png" group-title="IND | Kolkata",AAKASH AATH
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMs1KrzJ5yTyExrb_uIdCIX4/m3u8
+#EXTINF:-1 xui-id="460" tvg-id="Sangeet Bangla.in" tvg-name="SANGEET BANGLA" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSce9HvdUOtNByskn7f-g6FbtvINxh9EQrRTvz_OqTe5fAA.png" group-title="IND | Kolkata",SANGEET BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjSGVYBuTrHxstPQNfWqCCM/m3u8
+#EXTINF:-1 xui-id="466" tvg-id="DD Bangla.in" tvg-name="DD BANGLA" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScdKnRxogFbpGSZKNsgaxr4q91gBZ2u97VJy5rWugHiG5w.png" group-title="IND | Kolkata",DD BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqSiraSpnUxqVs1PawZL9Bc/m3u8
+#EXTINF:-1 xui-id="467" tvg-id="" tvg-name="IND | AMAR DIGITAL" tvg-logo="https://media.licdn.com/dms/image/v2/D5622AQEP42TrSTZe9A/feedshare-shrink_800/feedshare-shrink_800/0/1694197197757?e=2147483647&v=beta&t=paSz9ahr7hamV10AWRd9QdXd5owmp8bIrEjX2Z1dQe4" group-title="IND | Kolkata",IND | AMAR DIGITAL
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMmmwZYPHF1P3jaYBDqKhJ-s/m3u8
+#EXTINF:-1 xui-id="673" tvg-id="" tvg-name="IND | AMAR BANGLA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nzPxZi4pP5E_sn75VYbb6Y0y-uDgop2Iof7AzHVGPa2w=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Kolkata",IND | AMAR BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpeKmPgYvWSDCr6XHfd5x9Q/m3u8
+#EXTINF:-1 xui-id="2330" tvg-id="" tvg-name="BANGLA PLUS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQshDlozqT2hxQaCWgBf6Fv4aXNjPXKrp9YeA&s" group-title="IND | Kolkata",BANGLA PLUS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMmqSN053yhGw1RV8xk7n6RU/m3u8
+#EXTINF:-1 xui-id="2126" tvg-id="" tvg-name="KHUSBU BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%AC%E0%A7%81_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="IND | Kolkata",KHUSBU BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMs6zOxwAU-a_fQmriz3eL6I/m3u8
+#EXTINF:-1 xui-id="462" tvg-id="" tvg-name="NEWS 18 BANGLA" tvg-logo="http://dvltv.cc:80/images/75mS1N-_kVovMbndWvS0K0g8Tc1xC2jAsX7-UjNLMSARysoqQ78jDx-tTzVCNjLaucnjBNcRhlyFcXS_dKE4VsSWrQCeVmAeUOdhpVyrLwk.jpeg" group-title="IND | Kolkata",NEWS 18 BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqgOWuPWJVoRQcpl5ZBJDXw/m3u8
+#EXTINF:-1 xui-id="1623" tvg-id="" tvg-name="ABP ANANDA" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScf_-7DbXSJ5kgbITBVqvz2fz9xa3VZ7HhqP4mJQApKlrg.png" group-title="IND | Kolkata",ABP ANANDA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvgPvgosRuy-CSz7svb-vLs/m3u8
+#EXTINF:-1 xui-id="3664" tvg-id="" tvg-name="R PLUS GOLD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/d8/R_Plus_logo_2007.png/revision/latest?cb=20211007092112" group-title="IND | Kolkata",R PLUS GOLD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMopbkJKwYKB4zjArq1-YyiE/m3u8
+#EXTINF:-1 xui-id="41263" tvg-id="" tvg-name="CN NEWS bangla" tvg-logo="https://yt3.googleusercontent.com/wAJb5LaucF7wltdBKODGnXiAGkbb5J2Yn22G_NTZ3vonHux3zsT59DXPvh4j_6YAsnq2IozDzg=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Kolkata",CN NEWS bangla
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMs0Z85vv0WQWpTiC48neye9glmoPaj6y-3Th7S35mnGt/m3u8
+#EXTINF:-1 xui-id="463" tvg-id="" tvg-name="TV 9 BANGLA" tvg-logo="https://yt3.googleusercontent.com/d8QNkJ7Jby9hVSTm67-E4nfbI-7CTgP262NPVGfYpoTZaxLw7uAOPxs5dJtARjEFQijsRsuiFQ=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Kolkata",TV 9 BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjukufX43Pfll31-l_fmMT8/m3u8
+#EXTINF:-1 xui-id="461" tvg-id="" tvg-name="BANGLA JAGO" tvg-logo="https://yt3.googleusercontent.com/Fyw6UxdtJLxV-q-_ejEaE5MTXZXc4G_tOHcljLpam5em13cpJ_jdh9TAMa5bwcRwWO5DaJI8zg=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Kolkata",BANGLA JAGO
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMj4CaqjGvYBpy5hEs07B2Js/m3u8
+#EXTINF:-1 xui-id="1232" tvg-id="" tvg-name="ZEE 24 GHANTA" tvg-logo="https://yt3.googleusercontent.com/ou3JhDnH8ChdzRKooH5hGjTRGKpr9dGhi7lv7QW2zgmrnme0HbPKc8qI3yu8ZdI6NZna-CdJFw=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Kolkata",ZEE 24 GHANTA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMi9rmAkb4r4A0s-ok9pohPo/m3u8
+#EXTINF:-1 xui-id="2919" tvg-id="Star Sports 1 Hindi HD.in" tvg-name="IN: -HINDI- STAR SPORTS 1 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScdS3a6MkJkHC4ExFqCL0FTJDsZAzSWAETtoWZ3ZL8mzhw.png" group-title="Sports | Asian",IN: -HINDI- STAR SPORTS 1 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvBjzUdTQZ6_fz5dTiguoJs/m3u8
+#EXTINF:-1 xui-id="398" tvg-id="StarSports1HD.in" tvg-name="IN: STAR SPORTS 1  HD*" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScdS3a6MkJkHC4ExFqCL0FTJDsZAzSWAETtoWZ3ZL8mzhw.png" group-title="Sports | Asian",IN: STAR SPORTS 1  HD*
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMr2KAY1f41lyF2HK4oNrsGI/m3u8
+#EXTINF:-1 xui-id="403" tvg-id="Star Sports Select 2 HD.in" tvg-name="IN: STAR SPORTS SELECT 1 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfM16oZyIt3QoV-fCGtebod8gdXdzgVWP79KCFQt1a2dZSkxnLC4wE8iQ5rXQU3FZg.png" group-title="Sports | Asian",IN: STAR SPORTS SELECT 1 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMo8lhlORfEWrNiNTNQ2OFOs/m3u8
+#EXTINF:-1 xui-id="400" tvg-id="Star Sports 3.in" tvg-name="IN: STAR SPORTS 3" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccRHUyXX1zyaDsNCdSmAgbiOHBBCuMJA2r9J7CQnDuCSg.png" group-title="Sports | Asian",IN: STAR SPORTS 3
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMifdfg2EumztDbhq32EWMHQ/m3u8
+#EXTINF:-1 xui-id="408" tvg-id="" tvg-name="BD: T SPORTS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png" group-title="Sports | Asian",BD: T SPORTS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpo4UZ9Ey3eu9pbrVEpMMK0/m3u8
+#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="BD: T SPORTS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfEBVegCfklaif0lS6fUknyi424_8bq4PlgQpAQ21hDwg.png" group-title="Sports | Asian",BD: T SPORTS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkYBWd6EhgpzUpV5niXBw28/m3u8
+#EXTINF:-1 xui-id="404" tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="IN: SONY SPORTS TEN 1 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScefsKNuK6kqXiyFaSkrbRzsobJyEHRvk5_0jS7-8PmLRg.png" group-title="Sports | Asian",IN: SONY SPORTS TEN 1 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqezUWeWi8fG2NikMFMaD_k/m3u8
+#EXTINF:-1 xui-id="405" tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="IN: SONY SPORTS TEN 2 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScefsKNuK6kqXiyFaSkrbRzsdUtXVg-W-kzqSu-v5_kFEw.png" group-title="Sports | Asian",IN: SONY SPORTS TEN 2 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMr-S5UD-rZ-IV5uPFiPbdJM/m3u8
+#EXTINF:-1 xui-id="406" tvg-id="SONY SPORTS TEN 3 HD.in" tvg-name="IN: SONY SPORTS TEN 3 HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScefsKNuK6kqXiyFaSkrbRzsCAlt6OY4A8Wvyq9VT5Znlw.png" group-title="Sports | Asian",IN: SONY SPORTS TEN 3 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMlIpArQYiAORQOAghTs2yR8/m3u8
+#EXTINF:-1 xui-id="94584" tvg-id="" tvg-name="IN: EUROSPORT" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfc-aYmpNgCrXRDJW4BWmUda0tI582CWnZVSnD15Ddkzw.png" group-title="Sports | Asian",IN: EUROSPORT
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMp4X3QpOjoAoPOj5hbI-9HxW-LzIVSat2glJ7-fsfGZF/m3u8
+#EXTINF:-1 xui-id="3826" tvg-id="" tvg-name="IN: DD SPORTS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfqltEO3dT_xIJgucHUKE9O3xzqBMyHpP6I55YJuqzEpA.png" group-title="Sports | Asian",IN: DD SPORTS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoYK7uPRZ9X9S_PWdZwkkaY/m3u8
+#EXTINF:-1 xui-id="1473" tvg-id="TNSLP" tvg-name="PK: TEN SPORTS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScczxkrkwprG0lY1d_9k_CiBGUlMNjErL2efXp852E81Hw.png" group-title="Sports | Asian",PK: TEN SPORTS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoAgncJ2qZlrXEP5rl0y8BQ/m3u8
+#EXTINF:-1 xui-id="933" tvg-id="" tvg-name="PK: GEO SUPER" tvg-logo="https://yt3.googleusercontent.com/PS74GxZJ690vehqUWjF3S6xC0p9hbaCbMxPgrQvUGzSEKk0Pkjawjn5gUdsWHXwld7BUxyiw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports | Asian",PK: GEO SUPER
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqjf8V569wVYxDp-_iH7ANs/m3u8
+#EXTINF:-1 xui-id="419" tvg-id="" tvg-name="PK: PTV SPORTS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccPyj5lThSlwMqNzbDvbtepoYB8yWg3coyshCg-x9V8_w.png" group-title="Sports | Asian",PK: PTV SPORTS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMn7pbDDo4mSLrBlH8zgtMSA/m3u8
+#EXTINF:-1 xui-id="435" tvg-id="DUPWCHD" tvg-name="US: WILLOW CRICKET HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfhdNRSFYRlYOUf-UnUHW8dk_jp9PoA3TOENb6Z3mIgWA.png" group-title="Sports | Global",US: WILLOW CRICKET HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoDBJbUDSwap_EdHI3C0vMc/m3u8
+#EXTINF:-1 xui-id="415" tvg-id="SSPOCRH" tvg-name="US: SKY SPORTS CRICKET" tvg-logo="http://dvltv.cc:80/images/NRGVLFmRAsx-2Ptw4imOdlio_kl4UpJV0qyTgkCblT5eBecFK7993ix2Z3e6gG6BLcE7oYV4D6j26CTS1WFeIg.png" group-title="Sports | Global",US: SKY SPORTS CRICKET
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMhX70mYu9WnDn_s0Fq6MrD4/m3u8
+#EXTINF:-1 xui-id="984" tvg-id="" tvg-name="RED BULL TV" tvg-logo="https://img.redbull.com/images/e_trim:10:transparent/c_crop,x_0,y_0,h_733,w_1100/c_fill,w_860,h_573/bo_5px_solid_rgb:00000000/q_auto,f_png/redbullcom/2017/09/14/c91a6d75-c4e7-4146-aa33-618e5d3b3e2c/red-bull-tv" group-title="Info & Documentaries",RED BULL TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpil9tYzwkjrrSNorD2oMUY/m3u8
+#EXTINF:-1 xui-id="161686" tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbpt3jTfoO0PI1B9bKLo5TFrPsROqKk0YU1g&s" group-title="Info & Documentaries",ANIMAL PLANET HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoyvPL9LhIYztLcetbMS_KZt9t1ifIBy6ICKHP0Xf7hX/m3u8
+#EXTINF:-1 xui-id="145383" tvg-id="" tvg-name="DISCOVERY BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O1ejjJKEgkoqRJwQLvM0GG2XTriUykfKVw&s" group-title="Info & Documentaries",DISCOVERY BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpfnX8mjXVxAx2d_Kgda3-UcHKOUJt4FQNvVjtzY58Gu/m3u8
+#EXTINF:-1 xui-id="576" tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccSmBxv5_mokQm1JzZkoppzs2qoarU0KXeBBYiOp0yCKhA_2BaUotPSNIb5hqI24JM.png" group-title="Info & Documentaries",DISCOVERY HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvGfdEhH7JNxn8qsr5rS9AE/m3u8
+#EXTINF:-1 xui-id="579" tvg-id="Discovery Science.in" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZq2IOhbYT1kyqRXDCxuXnuozWdQxG8AL65A&s" group-title="Info & Documentaries",DISCOVERY SCIENCE
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtLJPKgCtgSEsYMh11zO7nE/m3u8
+#EXTINF:-1 xui-id="142365" tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--wfW2_Q5bKwwwdDO2MA5f5MLd7mGhAoFvw&s" group-title="Info & Documentaries",NAT GEO WILD HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoFW_qZg6DQojxjVn2hXeAxczKf3eTeFOYEpbqNDYg8o/m3u8
+#EXTINF:-1 xui-id="18069" tvg-id="Discovery Turbo.in" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://variety.com/wp-content/uploads/2014/07/investigation-discovery-logo.jpg?w=1000&h=563&crop=1" group-title="Info & Documentaries",INVESTIGATION DISCOVERY
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi5Dggdruc2KCQ2LYCPUcBRa/m3u8
+#EXTINF:-1 xui-id="589" tvg-id="" tvg-name="WILD EARTH" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQF61LFba5qezA/company-logo_200_200/company-logo_200_200/0/1660054209710/wildearthpets_logo?e=2147483647&v=beta&t=grvyZw8jukqwZO5Dbc523g2cOW4uS4335Ae8eAkLga0" group-title="Info & Documentaries",WILD EARTH
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjVr-2mrp28lFXlhwKb5lE8/m3u8
+#EXTINF:-1 xui-id="588" tvg-id="" tvg-name="TRAVEL XP HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScdKsWUYtharxOP1TmW7Tbn1vq13RWj3GX4IiP8gSpWGlQ.png" group-title="Info & Documentaries",TRAVEL XP HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtWEWzgchhTpDy54fo-ONO4/m3u8
+#EXTINF:-1 xui-id="942" tvg-id="SSPOFBH" tvg-name="US: SKY SPORTS FOOTBALL" tvg-logo="http://dvltv.cc:80/images/NRGVLFmRAsx-2Ptw4imOdsAf3TAT3TjE1ARbtDyFLN_-EOWsNlk5xYzkX-g8S5IW9eVuLBr57NBWtcC4MnBrdw.png" group-title="Sports | Football",US: SKY SPORTS FOOTBALL
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMl2hw4Qdb42R0GkLtTBVT_Y/m3u8
+#EXTINF:-1 xui-id="18826" tvg-id="SONY MAX HD.in" tvg-name="SONY MAX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuGgXCY9Hxo52WGZi1E4yLVTv7sx_N2CwJIA&usqp=CAU" group-title="IND | Movies",SONY MAX HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvMlzlv212HAvb4G0aP8BFA9N1jCVRRFju5l6zaedX4W/m3u8
+#EXTINF:-1 xui-id="495" tvg-id="Star Gold 2 HD.in" tvg-name="STAR GOLD HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScf95YP05ywWV2mu0ZACCIYA3UMK0qFqdlmKOrTkQJGHxw.png" group-title="IND | Movies",STAR GOLD HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgSfH35XtWc2v7F2Vvffiz4/m3u8
+#EXTINF:-1 xui-id="633" tvg-id="Star Gold 2 HD.in" tvg-name="STAR GOLD 2" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSceyj03gvZVPZMe0m-sYsQg-KfXuz2r98wEpqVPFTlN01g.png" group-title="IND | Movies",STAR GOLD 2
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMlcnAM_pXnKesmTCIIMjsJA/m3u8
+#EXTINF:-1 xui-id="2172" tvg-id="Star Gold Romance.in" tvg-name="STAR GOLD ROMANCE" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfc7TWqvAiiNQ86y-hOBVYWjK-iuEsjb4E2EIWJRXryaw.png" group-title="IND | Movies",STAR GOLD ROMANCE
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMldoQ6I-hkl55o9vemq5YU8/m3u8
+#EXTINF:-1 xui-id="498" tvg-id="Star Gold Thrills.in" tvg-name="STAR GOLD THRILLS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSce5ICwEC3L5LbSUSx7yfOBdvy5TqVXdnyI8hGdJ7tCU6A.png" group-title="IND | Movies",STAR GOLD THRILLS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMieogThEHOfCAndyutYdWWQ/m3u8
+#EXTINF:-1 xui-id="515" tvg-id="Colors Cineplex HD.in" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSceEkORWv2Pq_nO2g8TOr42snMYkIxWc3L836UcXEowZXg.png" group-title="IND | Movies",COLORS CINEPLEX HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgcK0K7Bm85rxraHJLANvPc/m3u8
+#EXTINF:-1 xui-id="691" tvg-id="Colors Cineplex Bollywood.in" tvg-name="COLORS CINEPLEX BOLLYWOOD*" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSceEkORWv2Pq_nO2g8TOr42snMYkIxWc3L836UcXEowZXg.png" group-title="IND | Movies",COLORS CINEPLEX BOLLYWOOD*
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMiVe_hlBagHlVXI5G3pxK3Q/m3u8
+#EXTINF:-1 xui-id="1703" tvg-id="Colors Cineplex Superhits.in" tvg-name="COLORS CINEPLEX SUPERHIT" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfc45Hp9bJp61kt0ZRNz78Dw8lbslHP08aEK77Ydk3RMB8BnU4ssctXioshYypVbzw.png" group-title="IND | Movies",COLORS CINEPLEX SUPERHIT
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMlsQCwBGxhPCwAUNoNgdJ3Q/m3u8
+#EXTINF:-1 xui-id="161673" tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq1ntYGVSngSC0rZjaqzX6TYb_0B0IKsvtcOFeLL8808wHKDlV56ogt5I&s=10" group-title="IND | Movies",ZEE CINEMA HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMj5Ii5RAwmBOW-Zag7T0OAP2MV4q5RkzljdaEEFc7IWa/m3u8
+#EXTINF:-1 xui-id="488" tvg-id="" tvg-name="BOLLYWOOD CLASSIC HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/63f66748474ef363a52a0c2a/cb43444c-32cc-4b78-b747-980a59481418/IMG_6219.JPG" group-title="IND | Movies",BOLLYWOOD CLASSIC HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrwLtWveR4ZGt7P-a2JwLQU/m3u8
+#EXTINF:-1 xui-id="143845" tvg-id="STARPlusHD.in" tvg-name="STAR PLUS" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScf2MxLrWo_R40DHXOmyMjr8GUK56B6vv8kp8oVTOthPwg.png" group-title="IND | Entertainment",STAR PLUS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrEesc8l7heePT-WlidLuj62ECRZJBiO6srVH-kxllxP/m3u8
+#EXTINF:-1 xui-id="473" tvg-id="STAR Plus HD.in" tvg-name="STAR PLUS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScf2MxLrWo_R40DHXOmyMjr8GUK56B6vv8kp8oVTOthPwg.png" group-title="IND | Entertainment",STAR PLUS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMterW2VVoFLDR0jnq1nyPNQ/m3u8
+#EXTINF:-1 xui-id="479" tvg-id="Star Bharat HD.in" tvg-name="STAR BHARAT HD" tvg-logo="https://yt3.googleusercontent.com/JfcP1XW02QYjf9sUDmYo0sygYsjoHu41MKSZSzTDxphpnlPczVa1kTyI821CePGIHHVDxOYH=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Entertainment",STAR BHARAT HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvnOb5ux0etSsj3smMJWlAc/m3u8
+#EXTINF:-1 xui-id="141784" tvg-id="" tvg-name="SONY TV HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccnPKc0FRgFSvUdyZxqzXmWbBvusqsWBhHxtHIx0ERSvQ.png" group-title="IND | Entertainment",SONY TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMshO1lhu7ohitsDfLJ8zvBJtBPTEhqnYHti7R3ZH44l_/m3u8
+#EXTINF:-1 xui-id="141830" tvg-id="SONY SAB HD.in" tvg-name="SONY SAB HD" tvg-logo="http://dvltv.cc:80/images/v8MS-17zGoHIyTBXGPTsUN7vbW730P7Mw0sNZ07m7O0Y7EfsfWra_Hen4j2S8KC12jaOMdVfH8s6eVwei4Igzw.png" group-title="IND | Entertainment",SONY SAB HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMuTIPwJeg6pKQ06_1jTRqhYQhQipY3mmtlAsWzITC2xp/m3u8
+#EXTINF:-1 xui-id="161658" tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtrRFwZp-UM6l2TXpZVbrDNN1DxWBET9_BQg&s" group-title="IND | Entertainment",ZEE TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMv4N4FHvv07kihGH4CM1_1MKWDUzkXCOgNKdWdTGDizO/m3u8
+#EXTINF:-1 xui-id="41284" tvg-id="Colors HD.in" tvg-name="COLORS HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSceEkORWv2Pq_nO2g8TOr42snMYkIxWc3L836UcXEowZXg.png" group-title="IND | Entertainment",COLORS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMlZUSPgeiEwFFXeyQw_3_d2qc6VGNbHih0b87qs0ebnW/m3u8
+#EXTINF:-1 xui-id="161665" tvg-id="" tvg-name="&TV HD" tvg-logo="http://dvltv.cc:80/images/2WvPLplYlWaTLek95Onp6ERXCv5ahO7aCWtsXbL3qVpKc8TXwJCWBUM7ZXQNvER1Voaj4CFriXstnmhXcZ6onpxkIfd14H7i5jCjOVKQADM.jpg" group-title="IND | Entertainment",&TV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnJOSfNfRXOx6whHuMUfNJVOuylxYyb5YeT-RjZUncEd/m3u8
+#EXTINF:-1 xui-id="487" tvg-id="DD National" tvg-name="DD NATIONAL" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dd-national-in.png" group-title="IND | Entertainment",DD NATIONAL
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMv_dfDQWfbcxLbi2NMoRsjE/m3u8
+#EXTINF:-1 xui-id="491" tvg-id="Dangal.in" tvg-name="DANGAL TV" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfYRNv3v-GWm6pP4cf4vHvq1uHwOq2t25SytQrDuRscEA.png" group-title="IND | Entertainment",DANGAL TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMuDPeengZrrueMR6puR5ZBY/m3u8
+#EXTINF:-1 xui-id="490" tvg-id="Dangal 2.in" tvg-name="DANGAL 2" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangal-2-in.png" group-title="IND | Entertainment",DANGAL 2
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkhK8_ICxqb-IVMuHeGDrh4/m3u8
+#EXTINF:-1 xui-id="489" tvg-id="" tvg-name="ISHAARA TV" tvg-logo="https://i.postimg.cc/13nKd3wt/ishra-tv.png" group-title="IND | Entertainment",ISHAARA TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMsusuWlXHrgf9m4HDoGcliM/m3u8
+#EXTINF:-1 xui-id="706" tvg-id="" tvg-name="NAZARA TV" tvg-logo="https://i.postimg.cc/N08HQ9Bj/NAZARA-TV.png" group-title="IND | Entertainment",NAZARA TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrz5GKTaoMyJTnR09yFSPEg/m3u8
+#EXTINF:-1 xui-id="3037" tvg-id="" tvg-name="Fimachi" tvg-logo="https://imgur.com/F0EIgi3.png" group-title="IND | Entertainment",Fimachi
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkKcOUcCcNe0EckDBEJxgHQ/m3u8
+#EXTINF:-1 xui-id="3828" tvg-id="" tvg-name="DABANGG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Dabangg-TV_logo.jpg/640px-Dabangg-TV_logo.jpg" group-title="IND | Entertainment",DABANGG
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvSoNZT47UdknqsKfoMSXCE/m3u8
+#EXTINF:-1 xui-id="18597" tvg-id="" tvg-name="CANADA ONE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZSPO7k32sTGiEiGtpKbK9T8FU3ZHJrPa4ZiUKzNsA=s900-c-k-c0x00ffffff-no-rj" group-title="IND | Entertainment",CANADA ONE
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMp3VYOCVCU_mRQyM2oDPp3V33I7CfTJEAGokLVZPdpIK/m3u8
+#EXTINF:-1 xui-id="18663" tvg-id="ABP News" tvg-name="ABP NEWS" tvg-logo="http://dvltv.cc:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dSAar7tj4MVnuhcxnJTCSFb-bKPPHY6kr51G54nOT36ag.png" group-title="IND | Entertainment",ABP NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkVn9POGVD3ncz9S8UW6mLVnlVjDoZ7V3C1KmkVFpiEd/m3u8
+#EXTINF:-1 xui-id="41712" tvg-id="DD News" tvg-name="DD NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dd-news-in.png" group-title="IND | Entertainment",DD NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMuHKd3pfiPc-_piF3Sbzgm5EYbbZZ_3lAQ7QscTc05Ga/m3u8
+#EXTINF:-1 xui-id="525" tvg-id="9XM.in" tvg-name="9XM" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScfqgb9PqYOOhGhxdC-Q33SddDX2LdKOHueGRXf8Lia1fw.png" group-title="IND | Music",9XM
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoWLYi8A57J4mg5GfcABoCU/m3u8
+#EXTINF:-1 xui-id="519" tvg-id="9X Jalwa.in" tvg-name="9X JALWA" tvg-logo="http://dvltv.cc:80/images/v8MS-17zGoHIyTBXGPTsUN7vbW730P7Mw0sNZ07m7O1HNziJsUCy1G8ayILeYt8FEOh3QLNY8T_hGGmyMuyAgw.png" group-title="IND | Music",9X JALWA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtBVEk2wKCzL5g3lLO-GMCM/m3u8
+#EXTINF:-1 xui-id="521" tvg-id="Mastiii.in" tvg-name="EPIC MUSIC" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccmIJbpk-jg584Xv_mjSqov5A7ZfVDvAgS_LncYQHnldA.png" group-title="IND | Music",EPIC MUSIC
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoSypV9CPoq4CWWwPl-qZBo/m3u8
+#EXTINF:-1 xui-id="683" tvg-id="" tvg-name="MTV HD +" tvg-logo="http://dvltv.cc:80/images/v8MS-17zGoHIyTBXGPTsUN7vbW730P7Mw0sNZ07m7O0Gwi_tgKbV2qHfAerWU35AXXMLvUdsx54yx_OLOBGFHw.png" group-title="IND | Music",MTV HD +
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMiwklKHIU3awTMVNafTkNjU/m3u8
+#EXTINF:-1 xui-id="518" tvg-id="Zoom.in" tvg-name="ZOOM" tvg-logo="http://dvltv.cc:80/images/OrciD_rrtTgF-ZT2aMffiFsVDUohD-_D9auzfPcMTtw-AT6xdajO4h4rPNuM85SJB18e0iAynVfsuqgZsk_Bdw.jpg" group-title="IND | Music",ZOOM
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpbi4veaJg9ZtCBMCYsuvR8/m3u8
+#EXTINF:-1 xui-id="18342" tvg-id="MUSIND" tvg-name="MUSIC INDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KgUcxbg3Tc3DR956JhsXvJtZHJrwGQyOOA&usqp=CAU" group-title="IND | Music",MUSIC INDIA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvV_Yh1ERfMk-pKdMG2NY8QgpOORi6EP1qh_HoAlXdFY/m3u8
+#EXTINF:-1 xui-id="16776" tvg-id="" tvg-name="PTC MUSIC" tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/55fb00a28ead0e79178b5e36/1565807608408/55fb00a28ead0e79178b5e36.jpg?tx=w_350" group-title="IND | Music",PTC MUSIC
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqeR6kcHJ8BbhBmE2mFde0tJQSfAftXMnhnIgTm34-pQ/m3u8
+#EXTINF:-1 xui-id="94408" tvg-id="" tvg-name="PK:  JOO MUSIC" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" group-title="IND | Music",PK:  JOO MUSIC
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMuQMSwjb12XNQ9X1XWw3NiIrhgOuQbF628CUaV0o-VfG/m3u8
+#EXTINF:-1 xui-id="2319" tvg-id="Sangeet Bhojpuri.in" tvg-name="BHOJPURI CINEMA" tvg-logo="http://dvltv.cc:80/images/_kCfWxJ7xY1epHYDdSJ0VqXyRtgRG3I0xqlnqUKeDynLGyx6aG0xf_pWF3_EkDthVlWCGp-1oprpdgMxEA0QWg.png" group-title="IND | Movies",BHOJPURI CINEMA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMv8cKbsv5ik-ZCwlV5hyU6A/m3u8
+#EXTINF:-1 xui-id="6168" tvg-id="" tvg-name="ISAI ARUVI TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_isai_aruvi.png" group-title="IND | Music",ISAI ARUVI TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqOJUdXBM8e8186OwlOJ5g8/m3u8
+#EXTINF:-1 xui-id="179128" tvg-id="" tvg-name="NICK BANGLA" tvg-logo="http://dvltv.cc:80/images/GdrGXE2y21DtmsglcwNKPgzNWo710ER22VAczkeUvha8ZnaiFgFk3u1EmpxvivgrKF3LRJ_r3IlPQLSBK8DJJzogAL7T5EcpFGX__xklKBc.png" group-title="Kids | Asian",NICK BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMn79n1_2suZJ_vX7kQPVLCmdPWC1UgBhkzlW087iArI9/m3u8
+#EXTINF:-1 xui-id="956" tvg-id="Cartoon Network.in" tvg-name="IN: CARTOON NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5GOA1cEvhe263bx5tXzmT6hB3ImyhtKgqQ&s" group-title="Kids | Asian",IN: CARTOON NETWORK
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMitzBeOdwnzn77ajnfjv8-c/m3u8
+#EXTINF:-1 xui-id="560" tvg-id="SONY YAY!.in" tvg-name="SONY YAY !" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSccYXYoqwKlc5mRw-5dK2veF4AGIUEL7ewewx5OfEmo0RQ.png" group-title="Kids | Asian",SONY YAY !
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMly_6HNFWHKFejIlYSyDBg8/m3u8
+#EXTINF:-1 xui-id="133840" tvg-id="Disney.in" tvg-name="Disney hindi" tvg-logo="https://static.wikia.nocookie.net/dreamfiction/images/a/a5/Disney_Channel_in_Hindi_logo.png/revision/latest?cb=20220316213211" group-title="Kids | Asian",Disney hindi
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjI1zZ8afM3XNKCmz_ukty6znXb0ZDceLjguNoh9G1zp/m3u8
+#EXTINF:-1 xui-id="569" tvg-id="Nick Jr.in" tvg-name="NICK JR" tvg-logo="http://dvltv.cc:80/images/M9Z8NXHkjXZknv9n8eXa3X7_j7IrvOWiSkURv4BjLKQEjf15d1oq0OAfYRLgWnRPDZhpNIzK2JaACXhthuFOONFmuVaWqFrjjderZMEvojs.jpg" group-title="Kids | Asian",NICK JR
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtNPYADXROf0k8-vaYfog2Y/m3u8
+#EXTINF:-1 xui-id="671" tvg-id="Disney Junior.in" tvg-name="DISNEY JUNIOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzMz17P8-JsQC3qO0-BIPeFCEgwVPLi4evA&s" group-title="Kids | Asian",DISNEY JUNIOR
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrbO8bcs0r-amm7QDrVMaOg/m3u8
+#EXTINF:-1 xui-id="40633" tvg-id="" tvg-name="SPOCETOON" tvg-logo="http://dvltv.cc:80/images/bvhI6fp_7_z9lNKorKwS1Kf3J4sbzaankDIiwFiJcq4-z7n0u8tVc7eQzku6iAhhk2RiNeOWqvrWC4ZKYSECYjkL53gJrGQ_JANjomWHv-w.jpg" group-title="Kids | Asian",SPOCETOON
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqm_bqRz_4Tx08WxKpfQ3hi8rp18RJzoYnnCFnP3cLoO/m3u8
+#EXTINF:-1 xui-id="541" tvg-id="STAR Movies HD.in" tvg-name="STAR MOVIES HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbJk1LMyiHEwRbhLbTqf2RC4BImO0KV32NQ&s" group-title="Hollywood Movies",STAR MOVIES HD*
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgzqPVwowUU_-TAJVmaXats/m3u8
+#EXTINF:-1 xui-id="535" tvg-id="SONY PIX HD.in" tvg-name="SONY PIX HD" tvg-logo="http://dvltv.cc:80/images/XT0CY-gnLZH0KfyGlhVKPvHF07jKQsVLlRhN743EJfP4zG7LjEWYYnXtwzY9vbg0WDjvTd2rKRJ0noVgAW0w4PqbEUzPF0Q4W5An0-wefF2JzyG8TN0DG_EhtkYZPeRBbauycD_ciSixmd4z3dZjFw.png" group-title="Hollywood Movies",SONY PIX HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMiLKboWpY1L5mxsQIK_CDuA/m3u8
+#EXTINF:-1 xui-id="552" tvg-id="" tvg-name="ACTION HOLLYWOOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTuPIZK7XATqAXcivrau2YtJG4-YKgJK7mRg&s" group-title="Hollywood Movies",ACTION HOLLYWOOD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMphWA1qJvSX4uNHEMk_Evf4/m3u8
+#EXTINF:-1 xui-id="1106" tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="http://dvltv.cc:80/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dT0xh_nRp7h7sdA8nJwkGCr8_VqKSJyqxaF9NAIU9J6Uw.png" group-title="Hollywood Movies",HOLLYWOOD HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqIhHDk5VsJS5EHfJ3DVrTQ/m3u8
+#EXTINF:-1 xui-id="556" tvg-id="" tvg-name="MY CINEMA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-cinema-id.png" group-title="Hollywood Movies",MY CINEMA HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgpEOtD6kOfgUPNAGN88Iiw/m3u8
+#EXTINF:-1 xui-id="2130" tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="Hollywood Movies",SyFy
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnGXciYHevNNriYcv-8TdZ4/m3u8
+#EXTINF:-1 xui-id="1662" tvg-id="" tvg-name="NASA TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa-tv-us.svg" group-title="Info & Documentaries",NASA TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgOMpwSoCQhJ-nH_GLVNUWY/m3u8
+#EXTINF:-1 xui-id="2322" tvg-id="" tvg-name="ADVENTURE 4K" tvg-logo="https://www.lyngsat.com/logo/tv/aa/adventure_pl_hd.png" group-title="Info & Documentaries",ADVENTURE 4K
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMmFKTtlmF5wkn2_90aLzaHY/m3u8
+#EXTINF:-1 xui-id="2203" tvg-id="" tvg-name="VIASAT NATURE" tvg-logo="" group-title="Info & Documentaries",VIASAT NATURE
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpT2XVm5y3k87xgMYvwQIIs/m3u8
+#EXTINF:-1 xui-id="2967" tvg-id="" tvg-name="DMAX" tvg-logo="http://dvltv.cc:80/images/viO2srwv-16aYih33z8boey62LCOWzmQk_Y2avjj9QkR5jujiLmxo2RQP1nOrQ5abAI5Yau_dKKzvaFKdybsVVEvmSiKRS_ua2xy1lLNUYQ.png" group-title="Info & Documentaries",DMAX
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMt3yyNF4rDNduUNlR0KUuXA/m3u8
+#EXTINF:-1 xui-id="2300" tvg-id="SONY BBC Earth HD.in" tvg-name="SONY BBC EARTH HD" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQSce_KLU83YnRUrHwWcb_WpncrOHK6w2sV3-KF64pVwzntg.png" group-title="Info & Documentaries",SONY BBC EARTH HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMi4vvWFmK9qutgI-SrhID5g/m3u8
+#EXTINF:-1 xui-id="954" tvg-id="" tvg-name="AL JAZEERA ENGLISH" tvg-logo="https://yt3.googleusercontent.com/IQJ3YwNpaJRPpOM1Gab8xBZiDhsgq2gtM3KZQKk8JCZjhxOPxuuzyUVCTWpyp9eAEyS-QQsdRA=s900-c-k-c0x00ffffff-no-rj" group-title="NEWS | International",AL JAZEERA ENGLISH
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkSpGSvpZaBsiEuoYQV4p14/m3u8
+#EXTINF:-1 xui-id="930" tvg-id="" tvg-name="DW NEWS" tvg-logo="http://dvltv.cc:80/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfF1a4V56LLzKvgyOJmXZHXXJSdUkux17z_hRzaXyRL5NZlSoNioYQKFGvGw-86WY9s.png" group-title="NEWS | International",DW NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMi0dkRwIhnOVCFwpVQsJZ0o/m3u8
+#EXTINF:-1 xui-id="951" tvg-id="" tvg-name="CGTN" tvg-logo="http://dvltv.cc:80/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfH3p_PJKZVlQaktbat99n8Rgpt2vkDgJ5KuSGTxMMRe4g.png" group-title="NEWS | International",CGTN
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpcFeckIdnQjfcTpmHgpj28/m3u8
+#EXTINF:-1 xui-id="597" tvg-id="" tvg-name="FRANCE 24" tvg-logo="http://dvltv.cc:80/images/WXQmHv78QQU0thpKV7HdjLCKq0T3CCUGPGSK2BEkCy_dhRbTztD1jUO_oGX6MCFQX6u-JvKuglSehpdC9lZ5ShNiWhm2Gtt4geZrIPia8Emxjs4dNNnSiu6tl4gXq7OM2GjaANylv47B5HCp9_z1DA.png" group-title="NEWS | International",FRANCE 24
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMl36e3GR3-keRP7n-03XoVw/m3u8
+#EXTINF:-1 xui-id="598" tvg-id="" tvg-name="NHK (Japan)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhk-world-japan-jp.svg" group-title="NEWS | International",NHK (Japan)
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrFzO10aE6xrCZQxBMHjRbg/m3u8
+#EXTINF:-1 xui-id="3521" tvg-id="" tvg-name="US: SKY NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-news-uk.svg" group-title="NEWS | International",US: SKY NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnGzZPGd0GFDPEFQ1IL6MF0/m3u8
+#EXTINF:-1 xui-id="3518" tvg-id="" tvg-name="US: FOX  NEWS" tvg-logo="http://dvltv.cc:80/images/m_AvTTkeyh_9ty_OhuKvxFWZ9ekgjmsf94iCPS3adwyevBlcoYvoR7h1-H79ZQnGr81vS2tPc9PhJIYnQNfbeg.png" group-title="NEWS | International",US: FOX  NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnjX4UHcvOBsbbPqKwZel94/m3u8
+#EXTINF:-1 xui-id="3519" tvg-id="" tvg-name="US: NEWSMAX TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newsmax-tv-us.svg" group-title="NEWS | International",US: NEWSMAX TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMiZWhvIBYFBk4KQesok1OCw/m3u8
+#EXTINF:-1 xui-id="3516" tvg-id="" tvg-name="ABC NEWS (Australia)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abc-news-au.png" group-title="NEWS | International",ABC NEWS (Australia)
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgn-Sef3AW4yQcnkgvT8G-c/m3u8
+#EXTINF:-1 xui-id="600" tvg-id="" tvg-name="AAJ TAK HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/aaj_tak_international.png" group-title="NEWS | International",AAJ TAK HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMo35lEkTPM_1UtLVaXBBCKk/m3u8
+#EXTINF:-1 xui-id="613" tvg-id="" tvg-name="NDTV" tvg-logo="https://i.postimg.cc/6QQvDTRv/ndtv.png" group-title="NEWS | International",NDTV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMstzCU77DoNUoBBfk-lwxUg/m3u8
+#EXTINF:-1 xui-id="601" tvg-id="" tvg-name="GOOD NEWS TODAY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/good-news-today-in.png" group-title="NEWS | International",GOOD NEWS TODAY
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMudQZoe-54JycQCmnryOmVE/m3u8
+#EXTINF:-1 xui-id="607" tvg-id="" tvg-name="ET NOW" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/et_now.png" group-title="NEWS | International",ET NOW
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMlbPBvEGjfHSSkkyoy7pS_Y/m3u8
+#EXTINF:-1 xui-id="610" tvg-id="" tvg-name="ZEE BUSINESS" tvg-logo="http://dvltv.cc:80/images/QCqX5p5x3Y181Q8jwb82JCKMpgDzpGag4x7VouGKlb4O9BJiG57BCHzSfwyFwM9o.png" group-title="NEWS | International",ZEE BUSINESS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtivXJ5JMmVvUrZcybO5VuA/m3u8
+#EXTINF:-1 xui-id="611" tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://i.postimg.cc/h4X0XZXd/zeenews.png" group-title="NEWS | International",ZEE NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjoE0ZoWK1376hDma0ge12Q/m3u8
+#EXTINF:-1 xui-id="619" tvg-id="" tvg-name="MAKKAH LIVE" tvg-logo="http://dvltv.cc:80/images/_kCfWxJ7xY1epHYDdSJ0VqXyRtgRG3I0xqlnqUKeDynzeUJst7FWIDZ7DkVXTuC-lLGCJj-PB0FHReqwAQ4jEg.png" group-title="Islamic",MAKKAH LIVE
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMlEDD1E82dUmGLFiP3XqpLE/m3u8
+#EXTINF:-1 xui-id="620" tvg-id="" tvg-name="MADANI TV BANGLA" tvg-logo="https://yt3.googleusercontent.com/Z6LKipH0hOTZM50gV-_zi2H3GSshWUEU20Lag3fIT3i0cZsJD_coQaNOEqsxVLVJ3Pc6w3Of=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",MADANI TV BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMsv8jUWhCnazq9ZnS3grvPA/m3u8
+#EXTINF:-1 xui-id="3036" tvg-id="" tvg-name="EPIC" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/06/18/epic.jpg" group-title="IND | Entertainment",EPIC
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMtbiRZtpvz9EWbhrg0DmjBk/m3u8
+#EXTINF:-1 xui-id="517" tvg-id="" tvg-name="TRACE URBAN" tvg-logo="http://dvltv.cc:80/images/QCqX5p5x3Y181Q8jwb82JJDehtUDbCk-vSiipsy_eTrpI12vw9-LVnKUrlZOBXlD.png" group-title="Music",TRACE URBAN
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMutlXR1ebGSB-ewWrBURk54/m3u8
+#EXTINF:-1 xui-id="532" tvg-id="" tvg-name="TRACE LATINA" tvg-logo="http://dvltv.cc:80/images/QCqX5p5x3Y181Q8jwb82JLXY-nnQYdBggS9WFmc5ChQnmcKaSf2R_VDwovjDE3_M.png" group-title="Music",TRACE LATINA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMptwooF756H0SoQd1L-nW5A/m3u8
+#EXTINF:-1 xui-id="640" tvg-id="" tvg-name="MUSIC TOP" tvg-logo="https://i.postimg.cc/vB51xDk4/top-music.png" group-title="Music",MUSIC TOP
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkvl8cwhRsPrVXBlfCGbKNo/m3u8
+#EXTINF:-1 xui-id="18634" tvg-id="" tvg-name="RT International" tvg-logo="" group-title="NEWS | International",RT International
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMiZ6BOlHn45XPEaMPYOhl0uA1KrcKB0fAPzirXIb9N-z/m3u8
+#EXTINF:-1 xui-id="18636" tvg-id="" tvg-name="Arirang TV" tvg-logo="" group-title="NEWS | International",Arirang TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMp_HopU7vv0UPnhjngg8a5ivmH3VYTtJ2SlzKrAldoqy/m3u8
+#EXTINF:-1 xui-id="18637" tvg-id="" tvg-name="CBS News" tvg-logo="" group-title="NEWS | International",CBS News
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMk6Dn261ZoGNr7rXkdSLaFJLIRFNcqdlMLqzRjWBQSfo/m3u8
+#EXTINF:-1 xui-id="18640" tvg-id="" tvg-name="IND: WION" tvg-logo="http://dvltv.cc:80/images/HhlB0r8RzDaJwHiRZWx5jEIDfE9F-tOxiqAnm7Rzo0TWP2pu-PtOzNjU4Z_fmgp_aEc6kKxUnW7onZ_C9XCn2A.png" group-title="NEWS | International",IND: WION
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMm--9hcCbc_m_dNzEP3Q2pQ3YSvYwZB_sfn5W7T7-Q_v/m3u8
+#EXTINF:-1 xui-id="18645" tvg-id="" tvg-name="TRT World" tvg-logo="" group-title="NEWS | International",TRT World
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgmhLsIB9OlOr4KVxvMasA6Nmkstrq1OCq8kH9jncRTl/m3u8
+#EXTINF:-1 xui-id="18646" tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="NEWS | International",NHK World Japan
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMm91ermbvLv5dL-R0xQ1zXAm9dkw9pKSebxGAn1uLtfB/m3u8
+#EXTINF:-1 xui-id="18665" tvg-id="" tvg-name="REPUBLIC BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qUuSmC90CGfMYW2naH4j4e1bRn8K2wsR5g&usqp=CAU" group-title="IND | Kolkata",REPUBLIC BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgPZ3JG1xE3dL57PpZ4A1Sg1iEXDalTBa0UUTqyxMymx/m3u8
+#EXTINF:-1 xui-id="18672" tvg-id="" tvg-name="DEEN TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnzAFof8QTZ9QN5dn4Qz57QP-N90K-WPwxdAT-eOIWKKfM6GWBXOE-firA6Mw8wisot_U&usqp=CAU" group-title="Islamic",DEEN TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkiEFjcVl07mrcJtxn8-SAWw7jTMrFp1FYOaxlhTAl7T/m3u8
+#EXTINF:-1 xui-id="41671" tvg-id="" tvg-name="Dhaka FM 90.4" tvg-logo="http://dvltv.cc:80/images/KJwy_HFuDxDvI1XyXXNLef810magYyo_s0bmax156VJYbRzd6bLrFmVZK6m2mn3vGk9M57rfkfkJEC1Y3IsDuWR7QehHpUdhsxUFoG96EavK58h4xX57ZazdEVWmjP2Z7Xk3oy4FSj8t1-xjKeSJUg.png" group-title="FM - Radio",Dhaka FM 90.4
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnoOV6s2yaYdJhu6kUDhWyEms_M4kSIR0pAXblJef862/m3u8
+#EXTINF:-1 xui-id="41676" tvg-id="" tvg-name="AL-QURAN BANGLA" tvg-logo="https://play-lh.googleusercontent.com/l9OsGvbCdlrwgr4pHliVLk89rY5MjoY5ZLHXRwlIBGjvOw8A9w4m2L3MhcDcjbNWPD0" group-title="FM - Radio",AL-QURAN BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMmX_Wx2UvFQVxtots1-cwftHs2WwgH_XjN9I5kehYHWY/m3u8
+#EXTINF:-1 xui-id="41680" tvg-id="" tvg-name="Radio Bangla Rock" tvg-logo="http://dvltv.cc:80/images/Bh_KsKKmAFbCbf59m4eiZEnccidNRRgqyAPGgRXzyKs2OCQZpkgd3Qio9cFPGfRfgjvGgio6Mu2lvPwi7RAfGQ.png" group-title="FM - Radio",Radio Bangla Rock
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMq_wsyI5KY76S3RXqd581PSU3ISftWDyahWRqia3eVmz/m3u8
+#EXTINF:-1 xui-id="41681" tvg-id="" tvg-name="Radio Padma – 99.2 FM" tvg-logo="http://dvltv.cc:80/images/JrANNjXkWXHlOZ0yr6G3smBODkQs-UXqK_-YkkrbjPAlLNiWAyZGdvAJ9aTg0I7lmpGNRb7-DgoXVlt5sH9k7tP76Tth8qvTZQKWYouZZaM.jpg" group-title="FM - Radio",Radio Padma – 99.2 FM
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpOIOlCELNrPqV9LSqPtlVy5GEd97MKRgS50CmfEV5C8/m3u8
+#EXTINF:-1 xui-id="41704" tvg-id="" tvg-name="BANGLA HITS" tvg-logo="http://dvltv.cc:80/images/2VTlBNlGqPROv0wHeUrRxe_QuqH5qqYJyTB-yuuaMyfh1UVl8X3UNGbJ-Hs_tsz0CD0kwFCIKeoQ5iDInLrKsEO1uXfQIiFQGfioTVJV5qvliBbspJSqwZDtsJyWDTHF.jpg" group-title="FM - Radio",BANGLA HITS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvz2VC3fK2RrYgc3GQhGYtG1t_92MAcotabkczsZZ9Lt/m3u8
+#EXTINF:-1 xui-id="59356" tvg-id="" tvg-name="PEACE TV BENGALI" tvg-logo="https://www.google.com/search?client=ms-android-samsung-ss&hs=KiTV&sca_esv=cb8cc42fa4b5b571&sxsrf=APpeQnvGIAn8iKsj6VAF6m2OfAdR2I_wzw:1782435317696&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9Xy5hkFmhg6pfO_X-sED2CqEYzEx-vM3-3PXhZT1qB_E3PqcVk5wYlWJ6T0HTcgCE7Ll1PhSDo4V7WTAQDgKYEwfug-E9lbAYUQhWrRNl2I-j1T1XGRqeWIMvrb3DVYnO-TkFlPLxbY0NFv2_WRtWBrRxk1KcQ&q=peace+tv&sa=X&ved=2ahUKEwjb5cj_2KOVAxV_S2cHHX2vLvUQtKgLegQIIBAB&biw=449&bih=842&dpr=2.4#sv=CAMSVxoyKhBlLVhyOGZuanZjQWxWNXFNMg5Ycjhmbmp2Y0FsVjVxTToOcU0ybHFIQWl2cFhDME0gBCoXCgFzEhBlLVhyOGZuanZjQWxWNXFNGAEwAUoECAEQAhgHILuAnMcPSggQAhgBIAIoAQ" group-title="Islamic",PEACE TV BENGALI
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMgYJgrqXqoBNJiNLgY5Bkb4koAZO_ctUE5bd2wAIE0XE/m3u8
+#EXTINF:-1 xui-id="599" tvg-id="" tvg-name="NDTV 24x7" tvg-logo="http://dvltv.cc:80/images/COkEO-FWL6Un57bQno1oDGsPmceb03f7tUhDbst-RfHC2esKBQ-4Qz4HOTXpW3tgBwXoMzx6xTYhVuD7NTMuqg.png" group-title="NEWS | International",NDTV 24x7
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjA83xzPbHzJkv2IIDcQu30/m3u8
+#EXTINF:-1 xui-id="593" tvg-id="" tvg-name="TLC" tvg-logo="http://dvltv.cc:80/images/75mS1N-_kVovMbndWvS0K0g8Tc1xC2jAsX7-UjNLMSBxlt_lcFMLb0KOkk9tdBf7rw7GMwAH2t9su7K3-GMiwYbCJXaon_PKY5p1uoSsVvfKLDUmd83I9lXCnTWn3Luu.png" group-title="Info & Documentaries",TLC
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvsubJfqgarplWAlFHff_Xk/m3u8
+#EXTINF:-1 xui-id="3517" tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAaMvSuhi2KdEMqV8nMrh-pUgvleit_Q1S8T5hRnFA1rqaEKTf9L2EMaBo7l_f8Fe5GM&usqp=CAU" group-title="NEWS | International",BBC NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoJ0mOZQoExWz7a_8xTrjwc/m3u8
+#EXTINF:-1 xui-id="2131" tvg-id="" tvg-name="CNN INTERNATIONLA" tvg-logo="" group-title="NEWS | International",CNN INTERNATIONLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoZb5eoFq85BfrpI9eQ0zUk/m3u8
+#EXTINF:-1 xui-id="93526" tvg-id="" tvg-name="CHANNEL S HD" tvg-logo="http://dvltv.cc:80/images/qK5WlcIj42a2IfE6LDmU-YHHYB6qXEbbwwcrSnkYh2Hc5ya5cjnLVqCWoP_KtnUjruCCSLFDaZ5Vj8LUSOVnLA.png" group-title="BD | Bangla",CHANNEL S HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMuYPmBn9gQJoPkqQ0HGbL3aE1QyRtmqoXofZNsqu8G3t/m3u8
+#EXTINF:-1 xui-id="143712" tvg-id="" tvg-name="QURAN TV" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",QURAN TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMsPojALnNQV8eXjlXoCeMh6E383rqe86f_hBgivQLqoM/m3u8
+#EXTINF:-1 xui-id="144334" tvg-id="" tvg-name="GREEN TV" tvg-logo="https://i.postimg.cc/yYnmx0xy/Green-TV.png" group-title="BD | Bangla",GREEN TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoy56KIqFo-q9D0rioT4bkOo28_lN9I9Fi4A8-um0syD/m3u8
+#EXTINF:-1 xui-id="145283" tvg-id="" tvg-name="TRACE Sport Stars HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-laFieoIhCUVMy_Rf9cSVT2DcPIhC2TSWng&s" group-title="Sports | Football",TRACE Sport Stars HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMo2rhvJyLGCaagBNG7YRPjHp8La1quRqBP3nM_M8n03O/m3u8
+#EXTINF:-1 xui-id="18678" tvg-id="" tvg-name="MY TIME MOVIE" tvg-logo="" group-title="Hollywood Movies",MY TIME MOVIE
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvP5hqzfes3zF7UGESk4ElusMIWP_UYZ4pomf6y780Bd/m3u8
+#EXTINF:-1 xui-id="161681" tvg-id="" tvg-name="B4U MUSIC" tvg-logo="http://dvltv.cc:80/images/0k_5PA7E1R_vsrOs-zCJVDudK_tsJkySI77_3zGQScdEo2a3R0hhAtfL_V_A7Sg_JURbQgxOi71l_SxaFoScQA.png" group-title="IND | Music",B4U MUSIC
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoyvPL9LhIYztLcetbMS_KZ-ksapDiOQysbZSsYwWxHz/m3u8
+#EXTINF:-1 xui-id="520" tvg-id="Zing" tvg-name="ZING" tvg-logo="https://logowik.com/content/uploads/images/4104-zing-tv-new.webp" group-title="IND | Movies",ZING
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMi0rWsiNLxJpevgMFvsRxik/m3u8
+#EXTINF:-1 xui-id="507" tvg-id="&flix" tvg-name="MBC BOLLYWOOD HD" tvg-logo="http://dvltv.cc:80/images/QCqX5p5x3Y181Q8jwb82JAadNY5rNFfNo_BIO8sfm8XmnYWGEtKTKWYANU6eTwYo.png" group-title="IND | Movies",MBC BOLLYWOOD HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMnfz5BMV3Cngtt0GTnymUdk/m3u8
+#EXTINF:-1 xui-id="18830" tvg-id="" tvg-name="9x JHAKAAS" tvg-logo="http://dvltv.cc:80/images/zwTts-ff5IIayw30YRvpSPxqZkgt-qCPrnKP9Us2zPhwTmpBY5yg_HvoXhqU4N82gOXuO5vBVaxqOeWPD7MMOA.png" group-title="IND | Music",9x JHAKAAS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMkkpdDF6-pRLyBSdjy-uwqIA8tylOpwRHh08aWxz0CWE/m3u8
+#EXTINF:-1 xui-id="175806" tvg-id="" tvg-name="MR BEAN HD KIDS" tvg-logo="https://i.ytimg.com/vi/DyFEDjFpHlw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCcYqhaiHekH0a7S_9LjPWY0-Bjog" group-title="24/7 Kids",MR BEAN HD KIDS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjofRCGAgzr_A0l5BgN7fEOy2LJhzASwobBkuJx0dRYy/m3u8
+#EXTINF:-1 xui-id="179032" tvg-id="" tvg-name="CHANNEL 1 4K" tvg-logo="https://i.postimg.cc/dVJjn0qY/Channel-1.png" group-title="BD | Bangla",CHANNEL 1 4K
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMqvpRMYoVty31Cp9NgM0xVGDC-CiqvW9mI3fxd10S9Ew/m3u8
+#EXTINF:-1 xui-id="179316" tvg-id="" tvg-name="Ekattor HD" tvg-logo="https://i.pinimg.com/736x/58/07/02/58070203593888a8a2bbe5874b05301d.jpg" group-title="BD | NEWS",Ekattor HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoGXbNy18uGsryaTuSIINMmmIyo1w-VwIwiIUO6nenM3/m3u8
+#EXTINF:-1 xui-id="179317" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="https://i.pinimg.com/736x/58/07/02/58070203593888a8a2bbe5874b05301d.jpg" group-title="BD | NEWS",INDEPENDENT TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoGXbNy18uGsryaTuSIINMkptAnhvx4w4m3geOueIm2m/m3u8
+#EXTINF:-1 xui-id="179318" tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.pinimg.com/736x/58/07/02/58070203593888a8a2bbe5874b05301d.jpg" group-title="BD | NEWS",SOMOY TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoGXbNy18uGsryaTuSIINMkowzM2O71huEgTskYWwm0y/m3u8
+#EXTINF:-1 xui-id="179319" tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://i.pinimg.com/736x/58/07/02/58070203593888a8a2bbe5874b05301d.jpg" group-title="BD | NEWS",CHANNEL 24
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMoGXbNy18uGsryaTuSIINMm1Lu53_g56jbKc2D9ig1eD/m3u8
+#EXTINF:-1 xui-id="179321" tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://i.pinimg.com/736x/58/07/02/58070203593888a8a2bbe5874b05301d.jpg" group-title="BD | NEWS",ATN NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrfn1r_LPS-nRDeB_igxWpnRA-5opq7WvOy-BF8qhoMC/m3u8
+#EXTINF:-1 xui-id="179322" tvg-id="" tvg-name="29.DBC News" tvg-logo="https://i.pinimg.com/736x/58/07/02/58070203593888a8a2bbe5874b05301d.jpg" group-title="BD | NEWS",29.DBC News
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrfn1r_LPS-nRDeB_igxWpn7qtr0ymMLi6lwIK7VlqA7/m3u8
+#EXTINF:-1 xui-id="179323" tvg-id="" tvg-name="News 24 HD" tvg-logo="https://i.pinimg.com/736x/58/07/02/58070203593888a8a2bbe5874b05301d.jpg" group-title="BD | NEWS",News 24 HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMrfn1r_LPS-nRDeB_igxWpkIC9RjjTqqJbtV9nRMoQYn/m3u8
+#EXTINF:-1 xui-id="180657" tvg-id="" tvg-name="Anondo TV" tvg-logo="" group-title="BD | Bangladesh",Anondo TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMmJubHfopIbh84bxY0pFEH29ug7S-xY3p41MFvWIs3qO/m3u8
+#EXTINF:-1 xui-id="180663" tvg-id="" tvg-name="GREEN TV" tvg-logo="" group-title="BD | Bangladesh",GREEN TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvO-gZD73iZkg6KOAnX_actTJPCB79tCEaPV8ayCUu_j/m3u8
+#EXTINF:-1 xui-id="180666" tvg-id="" tvg-name="PEACE TV BANGLA" tvg-logo="" group-title="BD | Bangladesh",PEACE TV BANGLA
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvO-gZD73iZkg6KOAnX_acsTcrg7ByC2KXq5QksnDpO8/m3u8
+#EXTINF:-1 xui-id="180667" tvg-id="" tvg-name="RAJDHANI TV" tvg-logo="" group-title="BD | Bangladesh",RAJDHANI TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvO-gZD73iZkg6KOAnX_actm3CgWjsNm7ieqoDHdLCni/m3u8
+#EXTINF:-1 xui-id="180668" tvg-id="" tvg-name="RTV HD" tvg-logo="" group-title="BD | Bangladesh",RTV HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvO-gZD73iZkg6KOAnX_acscHdP5ln_B_tkYnmONg8TO/m3u8
+#EXTINF:-1 xui-id="180669" tvg-id="" tvg-name="RUPASHI BANGLA TV" tvg-logo="" group-title="BD | Bangladesh",RUPASHI BANGLA TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMvO-gZD73iZkg6KOAnX_acteSPPGPutizjwPgUux72zT/m3u8
+#EXTINF:-1 xui-id="180670" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="" group-title="BD | Bangladesh",T SPORTS HD
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMq21tIhhR-cBQD0ww5zmJTtFZj5xPz9nSfK9nwoaFP8b/m3u8
+#EXTINF:-1 xui-id="180689" tvg-id="" tvg-name="ATN MUSIC" tvg-logo="" group-title="BD | Bangladesh",ATN MUSIC
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMt3yTdbBIZoGN5QYJsBkaC65XmpIM3ZH1euCB1bO23Td/m3u8
+#EXTINF:-1 xui-id="180690" tvg-id="" tvg-name="NEWS 24" tvg-logo="" group-title="BD | Bangladesh",NEWS 24
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi46Ak4mOdt3UuKb5T5Ob6Hz/m3u8
+#EXTINF:-1 xui-id="180691" tvg-id="" tvg-name="DBC NEWS" tvg-logo="" group-title="BD | Bangladesh",DBC NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi4fHK21fcDcZYKzjvsNTgba/m3u8
+#EXTINF:-1 xui-id="180692" tvg-id="" tvg-name="DESH TV" tvg-logo="" group-title="BD | Bangladesh",DESH TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi591DdwY-KpAxx99Zyq3PRf/m3u8
+#EXTINF:-1 xui-id="180693" tvg-id="" tvg-name="EKATTOR TV" tvg-logo="" group-title="BD | Bangladesh",EKATTOR TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi5KD1z5hCvEaOdsE36aVZPX/m3u8
+#EXTINF:-1 xui-id="180694" tvg-id="" tvg-name="EKHON TV" tvg-logo="" group-title="BD | Bangladesh",EKHON TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi4ZeAiW-eWJ30-LeZfPYrl_/m3u8
+#EXTINF:-1 xui-id="180695" tvg-id="" tvg-name="INDEPENDENT TV" tvg-logo="" group-title="BD | Bangladesh",INDEPENDENT TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi4JZLe_1hB0gS2IH9w8ega9/m3u8
+#EXTINF:-1 xui-id="180696" tvg-id="" tvg-name="JAMUNA TV" tvg-logo="" group-title="BD | Bangladesh",JAMUNA TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi4YTCHt9zjeM6b_Xs-xITk0/m3u8
+#EXTINF:-1 xui-id="180697" tvg-id="" tvg-name="MAASRANGA TV" tvg-logo="" group-title="BD | Bangladesh",MAASRANGA TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi72dexu1UoVIhwUpl8e98Sr/m3u8
+#EXTINF:-1 xui-id="180698" tvg-id="" tvg-name="MY TV" tvg-logo="" group-title="BD | Bangladesh",MY TV
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi5VwdFNYEZyF2XmqLmWTV4e/m3u8
+#EXTINF:-1 xui-id="180699" tvg-id="" tvg-name="NEXUS TELEVISION" tvg-logo="" group-title="BD | Bangladesh",NEXUS TELEVISION
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjKiPP2ufGSTh2Q1227QXi5BmlJHYPkk2uMgcAOn0Du5/m3u8
+#EXTINF:-1 xui-id="180798" tvg-id="" tvg-name="PTV NEWS" tvg-logo="" group-title="PK | Pakistan",PTV NEWS
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMpSgPK8eF7Z0NLARYIEQCmxE_ejQHGrKpn_7zJzvA2Ny/m3u8
+#EXTINF:-1 xui-id="180977" tvg-id="" tvg-name="MADINA LIVE" tvg-logo="" group-title="Islamic",MADINA LIVE
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMi6U0W-Jbb-QEzZz1vbF5e4ADFYJJw06Os6-UQvv-0sR/m3u8
+#EXTINF:-1 xui-id="135044" tvg-id="" tvg-name="Zoo Moo" tvg-logo="" group-title="Kids | Asian",Zoo Moo
+http://dvltv.cc:80/play/5Y876IHfDO-FWAx2kECfMjO5iNe8_Vj_p6OoJf47-Mz7w8I9OJ3_u1d2Gm35cr6c/m3u8
+#EXTINF:-1 xui-id="185215" tvg-name="Balan - The Boy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="Latest Movies 2026 (FTP BD) online",Balan - The Boy
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-dXyp2r9RWuKwzY03U_W9D#.mp4
+#EXTINF:-1 xui-id="185266" tvg-name="29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg" group-title="Latest Movies 2026 (FTP BD) online",29
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_WArBxgqIg_pUy-dA0Z5D7#.mp4
+#EXTINF:-1 xui-id="185267" tvg-name="Alpha: Men Love Vengeance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/regaXmZTKJluyLm3DL2Qnc31AwO.jpg" group-title="Latest Movies 2026 (FTP BD) online",Alpha: Men Love Vengeance
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_bzTxGUbbd4IuXbKxFDQpx#.mp4
+#EXTINF:-1 xui-id="185268" tvg-name="Dacoit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg" group-title="Latest Movies 2026 (FTP BD) online",Dacoit
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-oBCwuVcVrt6h6HpRtAL2E#.mp4
+#EXTINF:-1 xui-id="185269" tvg-name="Couple Friendly" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kiKGBPQC6exxUbIrOMnDtuU4soC.jpg" group-title="Latest Movies 2026 (FTP BD) online",Couple Friendly
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_V_xgGqAmHgIWOrRVp0tkw#.mp4
+#EXTINF:-1 xui-id="185270" tvg-name="Chennai Love Story" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hACM25xigqIYeRgylB0epf34hmk.jpg" group-title="Latest Movies 2026 (FTP BD) online",Chennai Love Story
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-pZfbmMNIIpnAxCB2nyLML#.mp4
+#EXTINF:-1 xui-id="185271" tvg-name="Cheekatilo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg" group-title="Latest Movies 2026 (FTP BD) online",Cheekatilo
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9wc8uc_3WKgUnPYaBz1Z3p#.mp4
+#EXTINF:-1 xui-id="185272" tvg-name="Blast" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpsUpXieodUhN6DlK9ZDnjkysLk.jpg" group-title="Latest Movies 2026 (FTP BD) online",Blast
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG94KS-zzWPCMl4yO4Ra1wRi#.mp4
+#EXTINF:-1 xui-id="185273" tvg-name="Biker" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKuFTk3qqrASg2nopJwDdeAroeF.jpg" group-title="Latest Movies 2026 (FTP BD) online",Biker
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_8C53EgKcq3FzoCetqPXJD#.mp4
+#EXTINF:-1 xui-id="185274" tvg-name="Bharathanyam 2 Mohiniyattam (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKuFTk3qqrASg2nopJwDdeAroeF.jpg" group-title="Latest Movies 2026 (FTP BD) online",Bharathanyam 2 Mohiniyattam (2026)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-BJFxbtQ4D5hh-uNKEWSys#.mp4
+#EXTINF:-1 xui-id="185275" tvg-name="Balan - The Boy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="Latest Movies 2026 (FTP BD) online",Balan - The Boy
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9jY0JaT6bN6LH7CDnIlkc0#.mp4
+#EXTINF:-1 xui-id="185276" tvg-name="Balan - The Boy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boKxdR9tgXfkazf6yWgiDdleBy0.jpg" group-title="Latest Movies 2026 (FTP BD) online",Balan - The Boy
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_soXt8rzPdmhLas5iS-RrL#.mp4
+#EXTINF:-1 xui-id="185277" tvg-name="Ananthan Kaadu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg" group-title="Latest Movies 2026 (FTP BD) online",Ananthan Kaadu
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8e66sh1B46YJZ9n27LikX9#.mp4
+#EXTINF:-1 xui-id="185278" tvg-name="Amaravathiki Aahvanam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ZnhoaSgmm5wMMWfKXStA9MrKd4.jpg" group-title="Latest Movies 2026 (FTP BD) online",Amaravathiki Aahvanam
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8k5V_XIQ4dVJwlFevkFDWE#.mp4
+#EXTINF:-1 xui-id="185279" tvg-name="Alpha: Men Love Vengeance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/regaXmZTKJluyLm3DL2Qnc31AwO.jpg" group-title="Latest Movies 2026 (FTP BD) online",Alpha: Men Love Vengeance
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-gSJwuuss-M7HpIV4A5ApE#.mp4
+#EXTINF:-1 xui-id="185265" tvg-name="Welcome To The Jungle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg" group-title="Latest Movies 2026 (FTP BD) online",Welcome To The Jungle
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_WQMmdwQwAvpImauMtRDj7#.mp4
+#EXTINF:-1 xui-id="185264" tvg-name="Uttar Da Puttar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRx4Bc6GTwi8L3vq29bnciEuRgL.jpg" group-title="Latest Movies 2026 (FTP BD) online",Uttar Da Puttar
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9iVMcIZns6Zgn75ijdw_WK#.mp4
+#EXTINF:-1 xui-id="185263" tvg-name="Tu Yaa Main" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg" group-title="Latest Movies 2026 (FTP BD) online",Tu Yaa Main
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9VW51WqlGKph527p-Npk22#.mp4
+#EXTINF:-1 xui-id="185262" tvg-name="Toaster" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bsa86WKaQ9plaYN7rd9oGwmyVV.jpg" group-title="Latest Movies 2026 (FTP BD) online",Toaster
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_Qfkd2hQY8Pf5eOnlZn1pM#.mp4
+#EXTINF:-1 xui-id="185261" tvg-name="The Great Grand Superhero: Aliens Ka Aagman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg" group-title="Latest Movies 2026 (FTP BD) online",The Great Grand Superhero: Aliens Ka Aagman
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9BZlRZ7tc5CJGjyvjzeWQt#.mp4
+#EXTINF:-1 xui-id="185260" tvg-name="The Great Grand Superhero: Aliens Ka Aagman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg" group-title="Latest Movies 2026 (FTP BD) online",The Great Grand Superhero: Aliens Ka Aagman
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9ZI1RXFVdIFQ1iwV3ipvrj#.mp4
+#EXTINF:-1 xui-id="185259" tvg-name="The Great Grand Superhero: Aliens Ka Aagman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg" group-title="Latest Movies 2026 (FTP BD) online",The Great Grand Superhero: Aliens Ka Aagman
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8FLokXuMxqdqvrQViGT3UE#.mp4
+#EXTINF:-1 xui-id="185258" tvg-name="Tavvai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg" group-title="Latest Movies 2026 (FTP BD) online",Tavvai
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9CHKmsGXIrjp7XUwDlc1f2#.mp4
+#EXTINF:-1 xui-id="185257" tvg-name="Pati Patni Aur Woh Do" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg" group-title="Latest Movies 2026 (FTP BD) online",Pati Patni Aur Woh Do
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-PLst5STDqgiTwvTqBosT1#.mp4
+#EXTINF:-1 xui-id="185256" tvg-name="Ohh My Dog" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg" group-title="Latest Movies 2026 (FTP BD) online",Ohh My Dog
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-wQTuTy7DcJ0frN6-ksGqx#.mp4
+#EXTINF:-1 xui-id="185255" tvg-name="Obsess" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eh1eW2MBzqOOq6zHsB0tvSZSnQt.jpg" group-title="Latest Movies 2026 (FTP BD) online",Obsess
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_JcKKUbNwotF_mWSLCn7of#.mp4
+#EXTINF:-1 xui-id="185254" tvg-name="O'Romeo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="Latest Movies 2026 (FTP BD) online",O'Romeo
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9YnVujwh0d-pG6jFgj9FoR#.mp4
+#EXTINF:-1 xui-id="185253" tvg-name="Nukkad Naatak" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouT4jOENHVyQ1tvrVK78CP9CBoq.jpg" group-title="Latest Movies 2026 (FTP BD) online",Nukkad Naatak
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8po2yRkE2r-Z_yNiUfSApz#.mp4
+#EXTINF:-1 xui-id="185252" tvg-name="Momacu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5y8TWMT7ebnqk0ehT1zHPvKN9n9.jpg" group-title="Latest Movies 2026 (FTP BD) online",Momacu
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_OimYGHGYEn1WwiGOqvb_6#.mp4
+#EXTINF:-1 xui-id="185251" tvg-name="Mardaani 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHxLBtHw4InwsVumnthupZYz6NM.jpg" group-title="Latest Movies 2026 (FTP BD) online",Mardaani 3
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_PK7O0FeigteI1v8-jFxKf#.mp4
+#EXTINF:-1 xui-id="185250" tvg-name="Main Vaapas Aaunga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHTNsZxvlfRAndc52hGlbdCUXKS.jpg" group-title="Latest Movies 2026 (FTP BD) online",Main Vaapas Aaunga
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9eTO2kTC9A6AtrNXFtooOs#.mp4
+#EXTINF:-1 xui-id="185249" tvg-name="I'm Not An Actor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jbLlCM9aaL6kM2bBLzkBBgR7gpE.jpg" group-title="Latest Movies 2026 (FTP BD) online",I'm Not An Actor
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_ujttYLO9hXw481udb1plU#.mp4
+#EXTINF:-1 xui-id="185248" tvg-name="Maa Behen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/At7vP9xASadWdVkFPeASawtGAMt.jpg" group-title="Latest Movies 2026 (FTP BD) online",Maa Behen
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9KbTEPHzbWmumG5MT24ftI#.mp4
+#EXTINF:-1 xui-id="185247" tvg-name="Krishnavataram Part 1: The Heart (Hridayam)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg" group-title="Latest Movies 2026 (FTP BD) online",Krishnavataram Part 1: The Heart (Hridayam)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG86I8fcnLeK6LOVa14BLLpg#.mp4
+#EXTINF:-1 xui-id="185246" tvg-name="Kartavya" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doTwMyAphlDL5Z8WqE3elWWvj8M.jpg" group-title="Latest Movies 2026 (FTP BD) online",Kartavya
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_eHFOOYcwrEaohToZ2u7XG#.mp4
+#EXTINF:-1 xui-id="185245" tvg-name="Jumper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vD6Q8CPglohe3KFj2DJRUHyp6Ql.jpg" group-title="Latest Movies 2026 (FTP BD) online",Jumper
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8BzhYbNAAwuMvbTXhVfg2c#.mp4
+#EXTINF:-1 xui-id="185244" tvg-name="Ikkis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtdZ6QhcPyxGhpwamo8W8Yeiguh.jpg" group-title="Latest Movies 2026 (FTP BD) online",Ikkis
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG91pecgo08TJl4tXejLq7Ww#.mp4
+#EXTINF:-1 xui-id="185243" tvg-name="Ikka" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="Latest Movies 2026 (FTP BD) online",Ikka
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_78dcDPtyCwlwMsZXI1lE7#.mp4
+#EXTINF:-1 xui-id="185242" tvg-name="Heer Sara" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vS5ks8meIQaEvOWB3TIsCZ7kNi7.jpg" group-title="Latest Movies 2026 (FTP BD) online",Heer Sara
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_h8HhWVXSYuXKO-Y_s8z1P#.mp4
+#EXTINF:-1 xui-id="185241" tvg-name="Haunted 3D: Echoes of the Past" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg" group-title="Latest Movies 2026 (FTP BD) online",Haunted 3D: Echoes of the Past
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9XHFtGjSIln97kupoN0fIa#.mp4
+#EXTINF:-1 xui-id="185240" tvg-name="Happy Patel: Khatarnak Jasoos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg" group-title="Latest Movies 2026 (FTP BD) online",Happy Patel: Khatarnak Jasoos
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG862suZggkHsbcbp7cWSorG#.mp4
+#EXTINF:-1 xui-id="185239" tvg-name="Hai Jawani Toh Ishq Hona Hai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg" group-title="Latest Movies 2026 (FTP BD) online",Hai Jawani Toh Ishq Hona Hai
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9HizV9XpD1LAjQclVlKxbO#.mp4
+#EXTINF:-1 xui-id="185238" tvg-name="Governor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Anukm4NH6MM025vUQ9ykpWQXnFn.jpg" group-title="Latest Movies 2026 (FTP BD) online",Governor
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9uHcLY_OJ6qyv8CJoer8i-#.mp4
+#EXTINF:-1 xui-id="185237" tvg-name="Ginny Wedss Sunny 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lovlbsow4B5KbznLYDNky8usgc.jpg" group-title="Latest Movies 2026 (FTP BD) online",Ginny Wedss Sunny 2
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8SJIoCMJZsvZIQLpb5zE7Y#.mp4
+#EXTINF:-1 xui-id="185236" tvg-name="Ek Din" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AZVVsTAH4DoeaJMVsxiRyAEB76.jpg" group-title="Latest Movies 2026 (FTP BD) online",Ek Din
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_SJ4fTpGxuuf-TaXeDu21i#.mp4
+#EXTINF:-1 xui-id="185235" tvg-name="Do Deewane Seher Mein" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8yPjT9NAH87oD9TedclRaAW7RY.jpg" group-title="Latest Movies 2026 (FTP BD) online",Do Deewane Seher Mein
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-mOM73JbvWgFQJRb6wRGeE#.mp4
+#EXTINF:-1 xui-id="185234" tvg-name="Dial 1975" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68M7izYXT9gGV5LOXfZ9OHyz0VO.jpg" group-title="Latest Movies 2026 (FTP BD) online",Dial 1975
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-MNDeJCPjMxsLEdf74hL73#.mp4
+#EXTINF:-1 xui-id="185233" tvg-name="Dhurandhar: The Revenge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg" group-title="Latest Movies 2026 (FTP BD) online",Dhurandhar: The Revenge
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8jhSVtkIqGfVoKMqwg1QCF#.mp4
+#EXTINF:-1 xui-id="185232" tvg-name="Dhamaal 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVij5aEEE6iI4PxB4i0CgKp8h0m.jpg" group-title="Latest Movies 2026 (FTP BD) online",Dhamaal 4
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_XH6MUDXJ1xgIWUsxG49sK#.mp4
+#EXTINF:-1 xui-id="185231" tvg-name="Daadi Ki Shaadi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg" group-title="Latest Movies 2026 (FTP BD) online",Daadi Ki Shaadi
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_7oZRavc3YklKhXVTrxTHn#.mp4
+#EXTINF:-1 xui-id="185230" tvg-name="Cocktail 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg" group-title="Latest Movies 2026 (FTP BD) online",Cocktail 2
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8kbDIElPSApWfjaCAMfBSd#.mp4
+#EXTINF:-1 xui-id="185229" tvg-name="Chand Mera Dil" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LPkXJustudEBgPZEm9tgDx5KtC.jpg" group-title="Latest Movies 2026 (FTP BD) online",Chand Mera Dil
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_mIxKI2F6GsGnfkhs49LOx#.mp4
+#EXTINF:-1 xui-id="185228" tvg-name="Border 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg" group-title="Latest Movies 2026 (FTP BD) online",Border 2
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9vesIaCOq8aglsUm8xUHQv#.mp4
+#EXTINF:-1 xui-id="185227" tvg-name="Bhooth Bangla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg" group-title="Latest Movies 2026 (FTP BD) online",Bhooth Bangla
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_tsHfdxZ7h_VAl0MaCc4he#.mp4
+#EXTINF:-1 xui-id="185226" tvg-name="Bharat Bhhagya Viddhaata" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf5lLrrikOswHKHpzW0UiHycJEx.jpg" group-title="Latest Movies 2026 (FTP BD) online",Bharat Bhhagya Viddhaata
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_NiNow127CydEp6tTJ5QS0#.mp4
+#EXTINF:-1 xui-id="185225" tvg-name="Bhai Tera Star Hai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg" group-title="Latest Movies 2026 (FTP BD) online",Bhai Tera Star Hai
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-t9vXFaOw5DW5W8lXKULjZ#.mp4
+#EXTINF:-1 xui-id="185224" tvg-name="Bhabiji Ghar Par Hain! Fun on the Run" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iuVlVRoBL1fHhBlVjS58MpBES05.jpg" group-title="Latest Movies 2026 (FTP BD) online",Bhabiji Ghar Par Hain! Fun on the Run
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG8vkcFNkpzYCKXhetBrf04x#.mp4
+#EXTINF:-1 xui-id="185223" tvg-name="Batwara 1947" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n66Q78zJcx5lL5HGRZPUpHxcsG6.jpg" group-title="Latest Movies 2026 (FTP BD) online",Batwara 1947
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG_KuwpH230vDsts-0wgmVTd#.mp4
+#EXTINF:-1 xui-id="185222" tvg-name="Bandar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RRA8UBAdPC08spbDgnU0ykQ2MR.jpg" group-title="Latest Movies 2026 (FTP BD) online",Bandar
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG877rfIKfGdCutem0hgqfO-#.mp4
+#EXTINF:-1 xui-id="185221" tvg-name="Baby Do Die Do" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvfqp6gMlvHODYnBXoogqRyIs0k.jpg" group-title="Latest Movies 2026 (FTP BD) online",Baby Do Die Do
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-LYpHDEmW5NJNUSWoI175S#.mp4
+#EXTINF:-1 xui-id="185220" tvg-name="Awarapan 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Latest Movies 2026 (FTP BD) online",Awarapan 2
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9U_2ZJ5t9YfAqxp5hsDHPB#.mp4
+#EXTINF:-1 xui-id="185219" tvg-name="Babita Singh Reporting" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owuFDxJOG1nv3J2wMf5f5jQjqHn.jpg" group-title="Latest Movies 2026 (FTP BD) online",Babita Singh Reporting
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-kv4OAE4HXoLanwp22XJI-#.mp4
+#EXTINF:-1 xui-id="185218" tvg-name="Alpha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg" group-title="Latest Movies 2026 (FTP BD) online",Alpha
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG9oiXmOEEen8IWnq4qBqI-J#.mp4
+#EXTINF:-1 xui-id="185217" tvg-name="Accused" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FAQTMv64JINU5Pk6mePXQbze4M.jpg" group-title="Latest Movies 2026 (FTP BD) online",Accused
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG873LMfzgQPH9mMLng4kh4Y#.mp4
+#EXTINF:-1 xui-id="185216" tvg-name="Aakhri Sawal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg" group-title="Latest Movies 2026 (FTP BD) online",Aakhri Sawal
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37uwuLqyuHIn6Y9cm-oEGGG-fuGeOXuFc7akVQXG8Fd-l#.mp4
+#EXTINF:-1 xui-id="185484" tvg-name="Awarapan 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg" group-title="Latest Movie 2026 (FTP Digitalview) online",Awarapan 2
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37sTvJpQuNj1JHvXXhEchGw3T_b60XkqtZC-uJlKWXFk7#.mkv
+#EXTINF:-1 xui-id="184438" tvg-name="Visfot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ObcZd32LJwfnOiWVTo1V3uTtSP.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Visfot
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGOhaomi4466Zku3qNlltWH#.mp4
+#EXTINF:-1 xui-id="184437" tvg-name="Vaazhai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AAd41LHVUxTmLwcPXRpPxpZW3v.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Vaazhai
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGa8B2mRAvodV8_J4ZIswBw#.mp4
+#EXTINF:-1 xui-id="184436" tvg-name="The Fall Guy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",The Fall Guy
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uH5pYdf_H0tMwFB6DNt3KJR#.mp4
+#EXTINF:-1 xui-id="184435" tvg-name="Aaj Ki Taaza Khabar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ej93yLfg1g3AqyU4RGdTcqQRKL.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Aaj Ki Taaza Khabar
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGJszknh7WQ_sI0YmOuLyjg#.mp4
+#EXTINF:-1 xui-id="184434" tvg-name="Super Housewife (202" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ej93yLfg1g3AqyU4RGdTcqQRKL.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Super Housewife (202
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uFttl55RTbc5cNgrFQmqaiN#.mp4
+#EXTINF:-1 xui-id="184433" tvg-name="Srinivasa Kalyanam P" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Ej93yLfg1g3AqyU4RGdTcqQRKL.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Srinivasa Kalyanam P
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uFNOV_cDEPji1ahQQaI3uOH#.mp4
+#EXTINF:-1 xui-id="184432" tvg-name="Shatamanam Bhavati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYlG2qUdmaeCerlbqyJwBYyeF7u.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Shatamanam Bhavati
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGbbor9oqNRc8jM1w8CPnMU#.mp4
+#EXTINF:-1 xui-id="184431" tvg-name="Ninnu Kori Pallabi T" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYlG2qUdmaeCerlbqyJwBYyeF7u.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Ninnu Kori Pallabi T
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGUH747lE4YOWHqWDW2RTGB#.mp4
+#EXTINF:-1 xui-id="184430" tvg-name="Michael Gangster Mic" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYlG2qUdmaeCerlbqyJwBYyeF7u.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Michael Gangster Mic
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uFZGCFdl82Imq_VCJS_hf83#.mp4
+#EXTINF:-1 xui-id="184429" tvg-name="Mahayuddha Katamaray" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYlG2qUdmaeCerlbqyJwBYyeF7u.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Mahayuddha Katamaray
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uF5vynD1xZjOPdEhUrKGqYu#.mp4
+#EXTINF:-1 xui-id="184428" tvg-name="Macherla Niyojakavargam" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xADPZyP9ThxUacrrQi0nqGLzmUT.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Macherla Niyojakavargam
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uFQSEUGi97VFeJ4JOfXmxLm#.mp4
+#EXTINF:-1 xui-id="184427" tvg-name="I Love You" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUh3NrbZ3fVt2zj5ehAkPvVFgsU.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",I Love You
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uHxF1sboD5RHjVcUL37txbi#.mp4
+#EXTINF:-1 xui-id="184426" tvg-name="Kung Fu Panda 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Kung Fu Panda 4
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uF5q0Wp0mi4V9NEldVibutK#.mp4
+#EXTINF:-1 xui-id="184425" tvg-name="Jai Mahendran (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Jai Mahendran (2024)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uFpU2x0J3JuCwyw1Bwa7UGR#.mp4
+#EXTINF:-1 xui-id="184424" tvg-name="iSmart Shankar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jZjnhm1SpceX4KKLOR2S8YMHCQ.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",iSmart Shankar
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uElz-FpFJBekDVZcm27-mSV#.mp4
+#EXTINF:-1 xui-id="184423" tvg-name="Virus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUYMr8mp6g0VLrNxWfOFEREQgv1.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Virus
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uHvPKMIf9vu0MXJxs-l57Xx#.mp4
+#EXTINF:-1 xui-id="184422" tvg-name="Harikatha Sambhavami" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUYMr8mp6g0VLrNxWfOFEREQgv1.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Harikatha Sambhavami
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uHxSU4Kiuhzs76dGRjKlTi0#.mp4
+#EXTINF:-1 xui-id="184421" tvg-name="Godse-Joy Jonota" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUYMr8mp6g0VLrNxWfOFEREQgv1.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Godse-Joy Jonota
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uEk9YpXn7sDxTy16Z6aVD-t#.mp4
+#EXTINF:-1 xui-id="184420" tvg-name="Dubai Seenu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iccrGs6CXsZbTE2xFClxS2xq37i.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Dubai Seenu
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uHQXJsohclhiu9hbjZDr818#.mp4
+#EXTINF:-1 xui-id="184419" tvg-name="Dharmajuddha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQHgoiEAtbljk1a9n67SjArJce0.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Dharmajuddha
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uF5MZYsPgsXdUjOWRDVc5nn#.mp4
+#EXTINF:-1 xui-id="184418" tvg-name="DJ: Duvvada Jagannadham" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hb0hntwxMyFz0HLLmXS3M4cae0P.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",DJ: Duvvada Jagannadham
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uFydEk-VkAHfRH3YDyE4O_h#.mp4
+#EXTINF:-1 xui-id="184417" tvg-name="Chal Mohan Ranga-Dur" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hb0hntwxMyFz0HLLmXS3M4cae0P.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Chal Mohan Ranga-Dur
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGoa9MJptecIMTM1GLkVnpW#.mp4
+#EXTINF:-1 xui-id="184416" tvg-name="Bhanumathi & Ramakrishna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag5XeTmbu9goww5gBYPNFRNYYW1.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Bhanumathi & Ramakrishna
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGnSC_Oe9aeuhdfMoARlYKK#.mp4
+#EXTINF:-1 xui-id="184415" tvg-name="Anjaan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3PM4bEQ1txDR30D2K79gGwvRIJ.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Anjaan
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uGtEM2Xb69xJ9A3hNqfAMjT#.mp4
+#EXTINF:-1 xui-id="184414" tvg-name="Amigos-Doppel Dot Com" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3PM4bEQ1txDR30D2K79gGwvRIJ.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Amigos-Doppel Dot Com
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uFmFTrrd3EJIsIeQ_L7kj_O#.mp4
+#EXTINF:-1 xui-id="184413" tvg-name="Akhara (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3PM4bEQ1txDR30D2K79gGwvRIJ.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Akhara (2011)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uF60KinPdBS9qNKb08xsGuj#.mp4
+#EXTINF:-1 xui-id="184412" tvg-name="Le prince et la princesse de Naples" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3PM4bEQ1txDR30D2K79gGwvRIJ.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Le prince et la princesse de Naples
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uHfHIIjwl-JwqX3eXhtG3T6#.mp4
+#EXTINF:-1 xui-id="184411" tvg-name="1000 Babies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3PM4bEQ1txDR30D2K79gGwvRIJ.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",1000 Babies
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uHSePbb7kANiHrBrpbSgWJ7#.mp4
+#EXTINF:-1 xui-id="184410" tvg-name="Bandhobi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfPEIVHuYJTbXHjp8QEzX7QamDb.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Bandhobi
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uHsPNtL5kGd17aEjeUg0vW2#.mp4
+#EXTINF:-1 xui-id="184409" tvg-name="Universal Soldier" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfPEIVHuYJTbXHjp8QEzX7QamDb.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",Universal Soldier
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uEBVnN94a7rYfD1YFgSpeDr#.mp4
+#EXTINF:-1 xui-id="184408" tvg-name="MLA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfPEIVHuYJTbXHjp8QEzX7QamDb.jpg" group-title="Bangla Dubbed Any Movie (FTP 4) online",MLA
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37p6SQ5cvhiF9c0zDmV311uEkpVgWfzXeKiUx6RbFaGyc#.mp4
+#EXTINF:-1 xui-id="185672" tvg-name="Doraemon: Nobita's Treasure Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1YkpYAxzD1lxNbjoZBpvYWkucO.jpg" group-title="Doreamoon Movies (FTP Digitalview) online",Doraemon: Nobita's Treasure Island
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37rB_u7pFreYAhQzZfuPspINi7swKf_C-0dX-ECzvSYRn#.mkv
+#EXTINF:-1 xui-id="185673" tvg-name="Doraemon: The Record of Nobita's Parallel Journey to the West" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEL1XbKs3UezQfApuy5CchuQn6W.jpg" group-title="Doreamoon Movies (FTP Digitalview) online",Doraemon: The Record of Nobita's Parallel Journey to the West
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37rB_u7pFreYAhQzZfuPspIMF2tq9r_408DJ3lmsp-ohm#.mkv
+#EXTINF:-1 xui-id="185674" tvg-name="Stand by Me Doraemon 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vBv8iOFPLnXmtELUjcFc7OKHsR4.jpg" group-title="Doreamoon Movies (FTP Digitalview) online",Stand by Me Doraemon 2
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37rB_u7pFreYAhQzZfuPspIOQ7zZw9XP5f7APf_x4jiu4#.mkv
+#EXTINF:-1 xui-id="185716" tvg-name="Crayon Shin-chan: Super-Dimension! The Storm Called My Bride" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUoLr4wvk45t19HdrNWFGp0RtbG.jpg" group-title="Shin Chan Movies (FTP Digitalview) online",Crayon Shin-chan: Super-Dimension! The Storm Called My Bride
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37rAZ3HbtRU9BgygbEfC5Wt1cY2p396xjVdTLwytjb7rc#.2 GB
+#EXTINF:-1 xui-id="185718" tvg-name="Crayon Shin-chan the Movie: Super Hot! The Spicy Kasukabe Dancers" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IAvfDmAqsFTFi66Qpf0GwpLiZP.jpg" group-title="Shin Chan Movies (FTP Digitalview) online",Crayon Shin-chan the Movie: Super Hot! The Spicy Kasukabe Dancers
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37rAZ3HbtRU9BgygbEfC5Wt1tZAXmaCcRiJUgmqIqcqLV#.mkv
+#EXTINF:-1 xui-id="186296" tvg-name="Toofan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TS3piPf3ZqISbRSrJ8lYeGQvfQ.jpg" group-title="Bangla Movies & Telefilms (FTP Desh) online",Toofan
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37vMomv2ykvV_0Hpft3qYWrSZqGrajSXZe-C56XaKJkS_#.mp4
+#EXTINF:-1 xui-id="186298" tvg-name="Television" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmIV5gTjiU9xOg5ZoyQqLmT73JD.jpg" group-title="Bangla Movies & Telefilms (FTP Desh) online",Television
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37vMomv2ykvV_0Hpft3qYWrSr_vPpjiwqgeFUZW8tS6gr#.mp4
+#EXTINF:-1 xui-id="186300" tvg-name="Surongo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5OshR7S6ZKWvPr5lqIh5hfUxo2.jpg" group-title="Bangla Movies & Telefilms (FTP Desh) online",Surongo
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37jh2jpG0f-_BxH3tGi56hOt383wrCadPjwCPq6fC7Ofu#.mp4
+#EXTINF:-1 xui-id="186301" tvg-name="Hawa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19JrYJIicR7vqiDmjdsTRXUHMFK.jpg" group-title="Bangla Movies & Telefilms (FTP Desh) online",Hawa
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37jh2jpG0f-_BxH3tGi56hOu5z9_CYuWaL5cGCNjP31xl#.mp4
+#EXTINF:-1 xui-id="186302" tvg-name="Domm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFWFWU0k6gmP2xmQS81B46qbnhQ.jpg" group-title="Bangla Movies & Telefilms (FTP Desh) online",Domm
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37jh2jpG0f-_BxH3tGi56hOsOrWlZo6-RULcl71vfQIRu#.mp4
+#EXTINF:-1 xui-id="186740" tvg-name="Vishwanath & Sons" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg" group-title="IN: TAMIL MOVIE HINDI [FTP Digitalview] online",Vishwanath & Sons
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37vCwUpNQWlXXtd0E9k29Ixk4wIdvouFZ2YHtZh9DDQxo#.mkv
+#EXTINF:-1 xui-id="185161" tvg-name="Nater Guru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1R3hwwMVlalodwTmEk1fE7AiMpr.jpg" group-title="KOLKATA MOVIE (FTP BD)",Nater Guru
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pl8-41xvNvzNHjz7j2JJJ1l#.mp4
+#EXTINF:-1 xui-id="185160" tvg-name="Namte Namte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8EIy6aZH4qduuS6GrWaGe2943O.jpg" group-title="KOLKATA MOVIE (FTP BD)",Namte Namte
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnEAd14QE988ziXsI7zayyd#.mp4
+#EXTINF:-1 xui-id="185159" tvg-name="The Eunuch and the Flute Player" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egImeZFmxeLIwZ3oIoBiRjh5Abh.jpg" group-title="KOLKATA MOVIE (FTP BD)",The Eunuch and the Flute Player
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PlVtS2HgqoKCH1I3y3FQm8o#.mp4
+#EXTINF:-1 xui-id="185158" tvg-name="Mukhosh" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoXp4R4YQ4su5QNKtQ7jYE8EmGm.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mukhosh
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkGZCm5oYHkSqZfOfMnkMW1#.mp4
+#EXTINF:-1 xui-id="185157" tvg-name="Mukhomukhi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RLZv7cYPldJqJ2efFxYbZEXuqy.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mukhomukhi
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PktQci4M4kJ_wsH89JPt7II#.mp4
+#EXTINF:-1 xui-id="185156" tvg-name="Mon Mane Na" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIi7KRAPKrFpsxStzZbQRk06xUm.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mon Mane Na
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkKWo7aEjb2FA-xljOOG0A-#.mp4
+#EXTINF:-1 xui-id="185155" tvg-name="HDFilmBoss.info-Mon Jane na (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIi7KRAPKrFpsxStzZbQRk06xUm.jpg" group-title="KOLKATA MOVIE (FTP BD)",HDFilmBoss.info-Mon Jane na (2019)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PlIVg1R0attrkZAh46nShBz#.mp4
+#EXTINF:-1 xui-id="185154" tvg-name="Mishawr Rawhoshyo 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIi7KRAPKrFpsxStzZbQRk06xUm.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mishawr Rawhoshyo 2013
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pl546f3s7Fml2z-pyFI43CN#.mp4
+#EXTINF:-1 xui-id="185152" tvg-name="Messi Bengali (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIi7KRAPKrFpsxStzZbQRk06xUm.jpg" group-title="KOLKATA MOVIE (FTP BD)",Messi Bengali (2017)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkAWys25LtfWqcvlXLdJB6f#.mp4
+#EXTINF:-1 xui-id="185151" tvg-name="Memories in March" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHCghTIRYBvy7hfAQ6VnAO9w9EP.jpg" group-title="KOLKATA MOVIE (FTP BD)",Memories in March
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PlEA624t3bfIF_RZuKACNZ2#.mp4
+#EXTINF:-1 xui-id="185150" tvg-name="Meher Aali" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihLQ0PR3X0l4FMeP2FkPrE9SgsQ.jpg" group-title="KOLKATA MOVIE (FTP BD)",Meher Aali
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnD2M3-OFi7utWPhzBlSBBQ#.mp4
+#EXTINF:-1 xui-id="185149" tvg-name="Meghnad Badh Rahasya (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihLQ0PR3X0l4FMeP2FkPrE9SgsQ.jpg" group-title="KOLKATA MOVIE (FTP BD)",Meghnad Badh Rahasya (2017)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkZcI8R70V0KwolA4lkrfTM#.mp4
+#EXTINF:-1 xui-id="185148" tvg-name="Megh Bristir Molat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dL8Z0ZmC7PPx0fNSbZwUYWDjy20.jpg" group-title="KOLKATA MOVIE (FTP BD)",Megh Bristir Molat
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnamY-Uy3FiRthJIxr4KEwU#.mp4
+#EXTINF:-1 xui-id="185147" tvg-name="Mayurakshi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1gFlgQwjPlnWMjeV3nRZb3rEl5.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mayurakshi
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmPnvfj8NXnCB1S938g0jRW#.mp4
+#EXTINF:-1 xui-id="185146" tvg-name="Manush" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cBuh6DTvthTze6bfIdhCRM7D4G.jpg" group-title="KOLKATA MOVIE (FTP BD)",Manush
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmkanxvFNh5oWc85_ELSEsL#.mp4
+#EXTINF:-1 xui-id="185145" tvg-name="Manojder Adbhut Bari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBNp8vGxTl7IPpGRPtgH1P92GuH.jpg" group-title="KOLKATA MOVIE (FTP BD)",Manojder Adbhut Bari
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmMZomfJvL4lKhIO7KdsmYv#.mp4
+#EXTINF:-1 xui-id="185144" tvg-name="Mandobasar Golpo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSK41CCKNtrNFhNeQMRix6PVXnz.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mandobasar Golpo
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmEs2aRlRxt7_5_v6nrxszH#.mp4
+#EXTINF:-1 xui-id="185143" tvg-name="Majnu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EJQ3E75akB0Za4PkFSs2aOeJFe.jpg" group-title="KOLKATA MOVIE (FTP BD)",Majnu
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnOFINs0P1HCSyRIxpcCCPg#.mp4
+#EXTINF:-1 xui-id="185142" tvg-name="Mahishasur Marddini" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsZo1OPUWEiJGNOPIrkkQhqfCF0.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mahishasur Marddini
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkNlNlayBMdOSRXh3cGuhsr#.mp4
+#EXTINF:-1 xui-id="185141" tvg-name="Mahapurush O Kapurush" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rsZo1OPUWEiJGNOPIrkkQhqfCF0.jpg" group-title="KOLKATA MOVIE (FTP BD)",Mahapurush O Kapurush
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnrYkne0XiwNxIKx7RUMchK#.mp4
+#EXTINF:-1 xui-id="185140" tvg-name="Maati" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HhIvTnSu6jCZMiwhEjoDzT5Uho.jpg" group-title="KOLKATA MOVIE (FTP BD)",Maati
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnLIYbqYyswzhaP1XG3--b3#.mp4
+#EXTINF:-1 xui-id="185139" tvg-name="Maacher Jhol" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z6jxma2rkay31uqB7YlVGERbPp.jpg" group-title="KOLKATA MOVIE (FTP BD)",Maacher Jhol
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmQi0Dbf8QBGBhRZM6xKqM6#.mp4
+#EXTINF:-1 xui-id="185138" tvg-name="M.L.A. Fatakesto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZCYcVN4mfCHoQJVAngSNmSWnh.jpg" group-title="KOLKATA MOVIE (FTP BD)",M.L.A. Fatakesto
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pndhk7YZmUbximYfuakX7TE#.mp4
+#EXTINF:-1 xui-id="185137" tvg-name="Love Story 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZCYcVN4mfCHoQJVAngSNmSWnh.jpg" group-title="KOLKATA MOVIE (FTP BD)",Love Story 2020
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pl1ufCjb4c8APB8FSHmpgit#.mp4
+#EXTINF:-1 xui-id="185136" tvg-name="Love Marriage" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vA45mbs8clJxb8vh1c2u5uVFYk2.jpg" group-title="KOLKATA MOVIE (FTP BD)",Love Marriage
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pkf7HR8JgSJD5yVVp4BCNsK#.mp4
+#EXTINF:-1 xui-id="185135" tvg-name="Love Cafe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVfAOSfAnsx6zEwWXM8QeYkULcq.jpg" group-title="KOLKATA MOVIE (FTP BD)",Love Cafe
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pk4Qz6jlb9sPGFvgP3EVctY#.mp4
+#EXTINF:-1 xui-id="185134" tvg-name="Love Aaj Kal Porshu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aX2MPX3uGGHDdtG6guXtBm22QSH.jpg" group-title="KOLKATA MOVIE (FTP BD)",Love Aaj Kal Porshu
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PllgkTXQY-tbbyfOvYJzcV5#.mp4
+#EXTINF:-1 xui-id="185133" tvg-name="Lorai: Play to Live" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zPOaeao3Ib1HzPOo6kWVsFf9HS.jpg" group-title="KOLKATA MOVIE (FTP BD)",Lorai: Play to Live
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmdSGsRjBq4HE1nxCZFh-Gd#.mp4
+#EXTINF:-1 xui-id="185132" tvg-name="Lokkhyo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTrhaIUnl1BObR3mdZto8j8eIfM.jpg" group-title="KOLKATA MOVIE (FTP BD)",Lokkhyo
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnKC8CbfW9MF1q2-H5b78FX#.mp4
+#EXTINF:-1 xui-id="185131" tvg-name="Lockdown" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTrhaIUnl1BObR3mdZto8j8eIfM.jpg" group-title="KOLKATA MOVIE (FTP BD)",Lockdown
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PldFsiugLk8WEG6YgIckVUu#.mp4
+#EXTINF:-1 xui-id="185130" tvg-name="Le Halua Le" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nX6rPWRPeFV0uOhwDsqLKG79Of2.jpg" group-title="KOLKATA MOVIE (FTP BD)",Le Halua Le
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmoEZctaZ1HUocPE4PGR__J#.mp4
+#EXTINF:-1 xui-id="185129" tvg-name="Laboratory" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6SyZ7kioKN4fwaEdcIX0Bgx7vo.jpg" group-title="KOLKATA MOVIE (FTP BD)",Laboratory
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkSg69KE2sQ5bxK_V84IN2Y#.mp4
+#EXTINF:-1 xui-id="185128" tvg-name="Kuler Achaar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVvbuJjOJTtpAwQR0cRJUXVVDJ3.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kuler Achaar
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnNE7ayfYqUmWacXk-DgGDJ#.mp4
+#EXTINF:-1 xui-id="185127" tvg-name="Krinshnakanter Will 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVvbuJjOJTtpAwQR0cRJUXVVDJ3.jpg" group-title="KOLKATA MOVIE (FTP BD)",Krinshnakanter Will 2007
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnTgwxL9wIeyLoTJWO56LLB#.mp4
+#EXTINF:-1 xui-id="185126" tvg-name="Konttho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/li3XwGlwMMqq7RKFv4g2g1ZzIi6.jpg" group-title="KOLKATA MOVIE (FTP BD)",Konttho
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pkccgdi8v3abhqH76xT6vQO#.mp4
+#EXTINF:-1 xui-id="185125" tvg-name="A Soft Note on a Sharp Scale" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faCVunfD5e6nP8981PwBmP46Tn.jpg" group-title="KOLKATA MOVIE (FTP BD)",A Soft Note on a Sharp Scale
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnWshFFo-kNk1-1zdf_XvHN#.mp4
+#EXTINF:-1 xui-id="185124" tvg-name="Kolkatay Kohinoor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5k1FgIDZVERwEPCFnpzgIHdC2fH.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kolkatay Kohinoor
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pk6-nhRLM3FQm0gGZX-LKr1#.mp4
+#EXTINF:-1 xui-id="185123" tvg-name="Kolkatar Harry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SD2ihaZJf5HtfP9ppOm9aZe1Rs.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kolkatar Harry
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnolZcVJSsCy6NMWtl-U9Hf#.mp4
+#EXTINF:-1 xui-id="185122" tvg-name="Kishore Kumar Junior" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DqPcMzLxbZM3gmCZ8KJsY2HE9m.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kishore Kumar Junior
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkGAzp9OMNRd1dwGO4CVYbj#.mp4
+#EXTINF:-1 xui-id="185121" tvg-name="Kishmish" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k05Xg8ib12GfxF29EYToakG4Sgc.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kishmish
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pk5gEIzrvPJXMXdAv2MTWmL#.mp4
+#EXTINF:-1 xui-id="185120" tvg-name="Kintu...Golpo Noy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGS0MC9Mt9QxNs4hNK0FTNE4xpO.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kintu...Golpo Noy
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PkeFysERuSdy1cq8vpu03oQ#.mp4
+#EXTINF:-1 xui-id="185119" tvg-name="Killbill Society" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWsUaoTZy0YwNRGxw2JNRrSXOue.jpg" group-title="KOLKATA MOVIE (FTP BD)",Killbill Society
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PnFjCpTWImbnxSNMcU-Aqo2#.mp4
+#EXTINF:-1 xui-id="185118" tvg-name="Kidnap" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUzxXpWCNwFlUkcYcJM6ZPzbR5X.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kidnap
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pnxjiw0qOxB6c3XtLgcifwQ#.mp4
+#EXTINF:-1 xui-id="185117" tvg-name="Kia and Cosmos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWnlBOat1pLgeZIIVvVD7qdmZpG.jpg" group-title="KOLKATA MOVIE (FTP BD)",Kia and Cosmos
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Plfy6O6DDsOadEhWUX2jcZz#.mp4
+#EXTINF:-1 xui-id="185116" tvg-name="Ki Kore Toke Bolbo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9XHN2tbB2s8Th14l6as9oxIj8Q.jpg" group-title="KOLKATA MOVIE (FTP BD)",Ki Kore Toke Bolbo
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Plhbk007TZoNHuY_DH6jnAf#.mp4
+#EXTINF:-1 xui-id="185115" tvg-name="Khoj" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZFnvXlsPsnUbm0sLDw25hNbUYf.jpg" group-title="KOLKATA MOVIE (FTP BD)",Khoj
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PmT1vu2oOIYSy8xt-8Lzf4G#.mp4
+#EXTINF:-1 xui-id="185114" tvg-name="Khancha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iuaFmkIVwagibk9rq7tajlACoS.jpg" group-title="KOLKATA MOVIE (FTP BD)",Khancha
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_PlJgmeJNJkvR4Xa38uC2Hge#.mp4
+#EXTINF:-1 xui-id="185113" tvg-name="Khalaghar 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iuaFmkIVwagibk9rq7tajlACoS.jpg" group-title="KOLKATA MOVIE (FTP BD)",Khalaghar 2017
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pk2BI6flc3mTNqiG4-RsUQM#.mp4
+#EXTINF:-1 xui-id="185112" tvg-name="Khaad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZZ0ijHJD7I1sPdkCpaIJsgyPa1.jpg" group-title="KOLKATA MOVIE (FTP BD)",Khaad
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pl7FkV9NGTO2WAff4nwe3VT#.mp4
+#EXTINF:-1 xui-id="185153" tvg-name="47 Meters Down" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IgdRUTdHyoI3nFORcnnYEKOGIH.jpg" group-title="KOLKATA MOVIE (FTP BD)",47 Meters Down
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37qvNt23ktPXtxD5oAigN_Pl0mBYRNYDH2R17CdDNgIeN#.mp4
+#EXTINF:-1 xui-id="186172" tvg-name="Seethamma Vaakitlo Sirimalle Chettu (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IgdRUTdHyoI3nFORcnnYEKOGIH.jpg" group-title="IN: TAMIL MOVIE HINDI [FTP Digitalview] online",Seethamma Vaakitlo Sirimalle Chettu (2013)
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37lxGSWelo86DbFnKIYDWk-Zg35zCJiqBnCZDNGDjl6cD#.mkv
+#EXTINF:-1 xui-id="186833" tvg-name="Villain" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1l9Ro7yuBOl5ROsm6UwPOVAwq2b.jpg" group-title="IN: TAMIL MOVIE HINDI [FTP Digitalview] online",Villain
+http://dvltv.cc:80/play/IKJrlcLqF4wKyXI-VUl37ia_tIL-_ypMFW0BoKbbt025VD5hiZlwC6ItnGMx3rmD#.mkv
+#EXTINF:-1 xui-id="186483" tvg-name="Thukra Ke Mera Pyaar S01E01" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9E0Gj5RXzawdmZatGUTFs7pF2Uncp5H4w9Chb6C4fQkzdOffZdQuvQJpUaZIqnIXxA.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S01E01
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9ZhVXCpEKHOJ3MU-f0ftyaB#.mp4
+#EXTINF:-1 xui-id="187065" tvg-name="Thukra Ke Mera Pyaar S01E01" tvg-logo="https://image.tmdb.org/t/p/w1280/gK6Vb4OCzimORjKIR2WbcQB9BM7.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S01E01
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4PyKSBGPOzyKtUboLD7qZxGgs_HgEpkgmb30AOwd75sR#.mkv
+#EXTINF:-1 xui-id="186484" tvg-name="Thukra Ke Mera Pyaar S01E02" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9Hh_tC7S1ZqqrMS_EybTqH5KQWq8tm2oMpOFiDBt_cv0h6OnqTYh1mSpEiz8AdXOhM.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S01E02
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9YCqXxCFlB2TC3LbXX4yo1E#.mp4
+#EXTINF:-1 xui-id="187066" tvg-name="Thukra Ke Mera Pyaar S01E02" tvg-logo="https://image.tmdb.org/t/p/w1280/kf4Nir6eShA2JzN06Un0HbckEG6.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S01E02
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4PyKSBGPOzyKtUboLD7qZxFVzVUmiTy2MAqpI0TWmF69#.mkv
+#EXTINF:-1 xui-id="187067" tvg-name="Thukra Ke Mera Pyaar S01E03" tvg-logo="https://image.tmdb.org/t/p/w1280/30nKjarvfqijnhZhImFdhfOP5UL.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S01E03
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4PyKSBGPOzyKtUboLD7qZxHQR9kbaqKnXCg-cjsrKELS#.mkv
+#EXTINF:-1 xui-id="186487" tvg-name="Thukra Ke Mera Pyaar S02E03" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9GuE7RU-tFSc5d49qey7LF7jdap0QxI1mtn2t1Gpf-jNQNVMrtS4BB7F9DTzWbSPYY.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E03
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9bmwH4nS1LpC5eUUXuqE0KO#.mp4
+#EXTINF:-1 xui-id="186488" tvg-name="Thukra Ke Mera Pyaar S02E04" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9FH8CCoMBdR823f2lpvxdVvIyjlHS24knp_zOpsMjgNPZ6YqEyD3cm8t8KyisQFex8.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E04
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9ZlWzRlNDAbj7lr8Y2-__nv#.mp4
+#EXTINF:-1 xui-id="186489" tvg-name="Thukra Ke Mera Pyaar S02E05" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9HkSLDfMPirO4rT-nJ376ebIL7OjsO0zthxqhX3mK6jDyE-6jbGeebDOJWJ1RJXxl0.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E05
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9a36zN0Z4exI6yKhrYcedN_#.mp4
+#EXTINF:-1 xui-id="186490" tvg-name="Thukra Ke Mera Pyaar S02E06" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9EgqteFFDXZlgx32a_BkdDSD_P7Ks3czl86SDGTE2ixbxj2QKvfhbBK8ojKxkEAFRY.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E06
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9Z_CdWsUQvn28R7k0HFpyHL#.mp4
+#EXTINF:-1 xui-id="186491" tvg-name="Thukra Ke Mera Pyaar S02E07" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9GfirobNUb1RenGpofjIDcI0kZXxqXE4OPLbv2pGikzYPDOSjQVfU9Dkc6oinxbJCQ.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E07
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9YqDQaNuy9rKyyBT5aP0GMH#.mp4
+#EXTINF:-1 xui-id="186492" tvg-name="Thukra Ke Mera Pyaar S02E08" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9FUneId-zUB1L0T6VvSWLw2OKcqnNUUnGdhNfwakPopyhqaF2oMWVoc2z2ChCtmvJg.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E08
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9aS0bD5-Pw5zitPnRxw-zhd#.mp4
+#EXTINF:-1 xui-id="186493" tvg-name="Thukra Ke Mera Pyaar S02E09" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9H3SL4hnkPdP81wO3evj5vRTVaKVgL1JxmtG6-Q-oKo7XUMot8x1lhEmpqIbQQhk4g.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E09
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9Y1GMoiI48tgunwg-DPx39g#.mp4
+#EXTINF:-1 xui-id="186494" tvg-name="Thukra Ke Mera Pyaar S02E10" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9F8xzWT4gyWcVhvDW5Vzo5Moqn-JcGWnqC6PZXvGq1JY-C-WdmIDT5PiSnwOeI4uG4.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E10
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9ZgYQlVfpp-yVhYmP4CZ772#.mp4
+#EXTINF:-1 xui-id="186495" tvg-name="Thukra Ke Mera Pyaar S02E11" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9GmYy-1rkHjgCABQp-JwYFzpTixQ9n0qECh12yVahvawD4iMosiZt2Ei1ZkcN5cGwg.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E11
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9Yum4HDJIEuNGsLPicgl7Bj#.mp4
+#EXTINF:-1 xui-id="186496" tvg-name="Thukra Ke Mera Pyaar S02E12" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9HC2-y5KvfQ0sgUfYAjSbzqofl3iKAm1eralsleg4jMgGP4kIedRr-RQcJTJsFWNGo.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E12
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9aiCGnS3WTjhdEgVlyqRwcS#.mp4
+#EXTINF:-1 xui-id="186497" tvg-name="Thukra Ke Mera Pyaar S02E13" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9ERA5l1XKgDXKcBp9NSkPMwsNAYm_SF3emUyQBBSHDxWyMEicgtf_WGcznWk5mYw0I.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E13
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9by6ID6cucQVN6yfHXKLgiP#.mp4
+#EXTINF:-1 xui-id="186498" tvg-name="Thukra Ke Mera Pyaar S02E14" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9FHQYPuYRzBtCyaEuausCCf6RobuWfF-L7m_BXQS6hOdM1leo3SWP5r_D_Iihvgsao.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E14
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9aDyD19Or9Mbql-Hq6Rn-jD#.mp4
+#EXTINF:-1 xui-id="186499" tvg-name="Thukra Ke Mera Pyaar S02E15" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9GwRZs5Je-3xJsvUZLRaLiTgavWxRlf8Y1P72NDnblFRKgAopzeBnsOYPLKCoQODYc.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E15
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9YpY5i8CPOl2qcbZBfK7dDu#.mp4
+#EXTINF:-1 xui-id="186500" tvg-name="Thukra Ke Mera Pyaar S02E16" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9EAVwGawatSVOplYS0aywSdL3St04VYfcBsbz6LgVfXskK6UgTXJ3UHGueqY3r3hT4.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E16
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9a1NYvtcfrSjaMPTWiQ4uH4#.mp4
+#EXTINF:-1 xui-id="186501" tvg-name="Thukra Ke Mera Pyaar S02E17" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9G6FXaSFHrZFqgHpmCFj5GFId6jqUckeMfriuXqAiWCddT1oJUR6Z-uMFky3LoO4IQ.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E17
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9Z-nhEybBtSnEfcnu9TVLiv#.mp4
+#EXTINF:-1 xui-id="186502" tvg-name="Thukra Ke Mera Pyaar S02E18" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9F03I3vfUAb9vI5tnFQGMx1Wjs-ffjPJ1RpMpAoyD9qVlWbRg_njqY-w8K-ouAcXOM.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E18
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9Y1MjWMQ8fSVRhdtsk3DwFY#.mp4
+#EXTINF:-1 xui-id="186503" tvg-name="Thukra Ke Mera Pyaar S02E19" tvg-logo="http://dvltv.cc:80/images/5slfVZVxi5omkNZ8twFBcP-5bxBt4h3c1FBmXlQPr9EHbNfYD2rfAQZk43t5LvjJ8J8id-3ztt0pd94ryr03dDNf-tVJ6NgYZY9sCBRw61U.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E19
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9ZKp0ED-fRua-m8J0wduGml#.mp4
+#EXTINF:-1 xui-id="186504" tvg-name="Thukra Ke Mera Pyaar S02E20" tvg-logo="https://image.tmdb.org/t/p/w1280/6liJsipSHm1AJyNkVTslk2iCohh.jpg" group-title="Hindi Series(FTP BD) online",Thukra Ke Mera Pyaar S02E20
+http://dvltv.cc:80/play/j6WRkRxRfd4NIeDM-S5w4FVsQeg8pUj_6HbQ1zFBU9Z0Ox5evB-ZvxCIZ9D3QtvB#.mp4
