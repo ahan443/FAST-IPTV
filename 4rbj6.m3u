@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Aflam (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Al Alam Al Yawm
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b928000.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Al Arabiya English (1080p)
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Al Ekhbariya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Al Hadath (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Al Riyadh Radio (1080p)
+https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Al Saudiya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Al Saudiya Alaan (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Alkhuzama Radio (1080p)
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/srpkhuzama/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Alwesam TV (1080p)
+https://stream.addresses-sat.com/Alwesam/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Asharq News (1080p)
+https://live-news.asharq.com/asharq.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Bab Al Hara (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Big Time Plus (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Fairuz (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Holy Quran Radio (1080p)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Iqraa Africa & Europe (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Iqraa Arabic (1080p) [Not 24/7]
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Iqraa Quran (1080p)
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",LBC (576p)
+http://185.9.2.18/chid_327/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Majid Al Mohandis (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Maraya (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",MBC Loud
+https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",MBC Mood (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Movies Action (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Nidae AlIslam Radio (1080p)
+https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Panorama FM (1080p)
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Rabeh Saqer (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Saudi Thaqafiya TV (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Saudia Radio (1080p)
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",SBC (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="Saudi Arabia",Thikrayat TV (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
