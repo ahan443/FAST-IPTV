@@ -1,0 +1,425 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AfghanistanInternational.uk@SD",Afghanistan International (720p)
+https://hls.afintl.com/hls/stream.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AhlulbaytTV.uk@SD",Ahlulbayt TV (1080p) [Not 24/7]
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a57411a025f21074f17251740114e4813164d5c46154d2546554f225a561a091b4214515717461e7346524d78540a400e13130a110b035c5c2c12181529101b565219561c.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AhlulbaytTV.uk@SD",Ahlulbayt TV (1080p)
+https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AkaalChannel.uk@SD",Akaal Channel (396p) [Geo-blocked]
+https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AlbUKTV.uk@SD",AlbUK TV (1080p) [Not 24/7]
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AlHiwarTV.uk@SD",Alhiwar TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AMCEurope.uk@RO",AMC Europe
+https://dokagents.site/live/amc/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary",AMC Europe Bulgary
+http://212.70.131.37:8000/play/a05k#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary",AMC Europe Bulgary
+https://go.skym3u.dev/live/7c92d/1b150d305940570d1b100a5b5e5d421b795d53417a5b5f480f05534803165c121c220a.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AMCEurope.uk@CzechRepublic",AMC Europe Czech Republic
+http://88.212.15.19/live/test_amc_25p/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AMCEurope.uk@Hungary",AMC Europe Hungary
+http://88.212.15.19/live/amc_hun/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AnandTV.uk@SD",Anand TV (720p) [Not 24/7]
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD",ATN Bangla UK (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica",BabyTV Latin America (720p)
+http://138.121.15.230:9002/BABY-TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCEarth.uk@Czechia",BBC Earth Czechia
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye",BBC First Turkiye
+http://88.212.15.29/live/bbc_first/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD",BBC Four/CBeebies (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570e13100a56595d46146e4152407a5b5f400f056046070a111a49333b2556290d0b1d47044e171757.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@UK",BBC News (1080p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific",BBC News Asia Pacific (576p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557105e4b4d0c0418125f345d0509240d1c565058440b16071a1d472b12120d6f010d1b4845514806301d165b332c121d6f150a0a4c4344480b0e5c1a42241619572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe (576p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570b1c0d17504142441a6e46515622010c0f50584f404d061d1749385d0c4a355b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe (576p)
+http://stream.mcquack.net/85/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica",BBC News Latin America (720p)
+http://138.121.15.230:9002/BBC-NEWS/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@UKHD",BBC News UK HD (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570b1f0d15575c5d4a1a6e47554378535f4910.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD",BBC One London HD (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570e13100a56595d46146e4152407a5b5f400f05616621201d1664045c0817240617565219561c.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD",BBC One London HD (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570e13100a505c4a5d1d78454f4b7352403a7d69120b0b011716546e1e520c78.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD",BBC Three/CBBC (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570e13100a56595d46146e4152407a5b5f400f056066202c3b3703291d051c384d024b4a12.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570e13100a56595d46146e4152407a5b5f400f056166213b041c64045c0817240617565219561c.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCUHD1.uk@SD",BBC UHD 1 (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d301055571052464918065d00442f011557271a40490f1a1314525e.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCUHD2.uk@SD",BBC UHD 2 (1080p)
+http://45.14.84.37/bbc2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Blaze.uk@SD",Blaze (576p) [Geo-blocked]
+https://go.skym3u.dev/live/7c92d/1b150d3010555710464a520742111f4d3a164c0a330206564c434e540e0a00075e25120c1a240d411b50470c5253401e125f3416135677545b1c061d1a40065945441c7412031c21540c4d5d1c1147005c47101a7842541f24025f1c0c1f0c460e0e0916012c1a171c6d011d175e4e4045111b5e004f34164e102e070a00114710515a.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BloombergTV.us@EMEALiveEvent",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BloombergTV.us@Europe",Bloomberg TV Europe (720p)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD",Brit Asia TV (1080p)
+https://hls.autopo.st/hls/britasiatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Canaf54TV.uk@SD",Canaf54 TV
+https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ChannelS.uk@SD",Channel S (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="CNBCUK.uk@SD",CNBC UK (1080p) [Geo-blocked]
+https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="CrimePlusInvestigationCEE.uk@SD",Crime + Investigation CEE
+http://88.212.15.19/live/test_cai_hevc/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="DeenTV.uk@SD",Deen TV (576p) [Not 24/7]
+https://go.skym3u.dev/live/7c92d/1b150d30105557104b531450411a025c2c121857341555400f12110b0b1e114b1c70414e1d7350010c4905534803161f1a5f345d0c4a355b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="DeenTV.uk@SD",Deen TV (576p)
+https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="DerTV.uk@SD",Der TV
+https://stream.berosat.live/hls/der-tv/der-tv.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="EmanChannel.uk@SD",Eman Channel (576p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557104b531450411a025c2c121857341555400f12110b0b1e114b1c70414e4a2d5a01574f46425d0e060007022d401441.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD",English Club TV (576i)
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ENTChannel.uk@HD",ENT Channel (720p)
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ENTFamily.uk@HD",ENT Family (720p)
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="EpicDrama.uk@ROM",Epic Drama
+https://go.skym3u.dev/live/7c92d/1b150d3059405707180d135a4141471f6e4150407a575a4f0c130c540e0e0a5c4d70421156290d0b1d47044e171757.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FaithWorldTV.uk@SD",Faith World TV (1080p)
+https://faithworldtv.abs.tv/1826926230/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English",FIFA+ (720p)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@French",FIFA+ French (720p)
+https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@German",FIFA+ German (720p)
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica",FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Italy",FIFA+ Italy (720p)
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese",FIFA+ Portuguese (720p)
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@Spain",FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English",FIFA+ Women (720p)
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FMTV.uk@SD",Frecuencia Musical TV [Not 24/7]
+https://s2.tvdatta.com:3307/hybrid/play.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GarshomTV.uk@SD",Garshom TV (360p) [Not 24/7]
+https://go.skym3u.dev/live/7c92d/1b150d3010555710454416130b40124d2c4400176d0b030b12464a5207414610492e07121a240d411b50470c43031d001b432d07175624530b1a5a13121152564217187043031d78060a4f5918144252584a421f70404f0a24134008534b5a480b1c075d41730659.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GBNews.uk@SD",GB News (1080p)
+https://amg01076-lightning-amg01076c7-lg-gb-2019.playouts.now.amagi.tv/playlist/amg01076-lightning-gbnews-lggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GBNews.uk@SD",GB News (1080p)
+https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GBNews.uk@SD",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GBNews.uk@SD",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GBNews.uk@SD",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GBNews.uk@HD",GB News HD (2160p)
+https://live-gbnews-ssai-test.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live-TEST/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GemsTV.uk@SD",Gems TV (720p)
+https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GODTV.uk@SD",GOD TV (396p)
+https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GREATmovies.uk@UK",GREAT! movies (1080p)
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GREATromance.uk@UK",GREAT! romance (1080p)
+https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="HalaLondon.uk@SD",Hala London (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d301055571042424803031c1d482f1d4c1529150a565a5840400c411d16586f1b0015210f00165b454d0b0a0e1f12402f1d05162e4d024b4a12.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="HellenicTV.uk@SD",Hellenic TV (720p) [Not 24/7]
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="HobbyMaker.uk@SD",Hobby Maker (720p)
+https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="HorseCountryTV.uk@SD",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IBCBakthi.uk@SD",IBC Bakthi (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557104341474c0212005f3307131c210e41165a5e0c6d202c415c452e1704016e0e5c0d07.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IBCTamil.uk@SD",IBC Tamil (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557104341474c0212005f3307131c210e41165a5e0c6d202c5c1a42241619572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="InsideCrime.us@UK",Inside Crime (1080p) [Geo-blocked]
+https://go.skym3u.dev/live/7c92d/1b150d3010555710484f45180a5e154d33074c102e10061c5a0740560b02165e5f33120857330a0208534f5050100a121e4f241d4f1a2f0e400e0e054e45111b1601037744551d7954561c5b1c1513525b1211492144024c22555d1b5d191747545742464a2412511d7356401a534b59414f091200586d1a0f0a29070a555c584a490742121e4d271a4e092c0216145659570a0f5c064b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IonTV.uk@SD",iON TV (576p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557104b531450411a025c2c121857341555400f12110b0b1e114b1c70414e10705a4008534b5a480b1c075d41730659.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IqraTV.uk@SD",Iqra TV
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a535b4a5d4d2e0a120d32060e15115f481e5a5f4b41032103115629125a4b534b0c540e0e0a1f4533074f14731657.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IranInternational.uk@SD",Iran International (1080p)
+https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IranInternational.uk@SD",Iran International (720p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IranInternational.uk@SD",Iran International (720p)
+https://live.livetvstream.co.uk/LS-63503-4/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IranInternational.uk@SD",Iran International (720p)
+https://live.playstop.me/1816184091/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IranInternational.uk@SD",Iran International (720p)
+https://live.playstop.me/LS-63503-4/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IslamChannel.uk@SD",Islam Channel (576p) [Not 24/7]
+https://go.skym3u.dev/live/7c92d/1b150d3010555710464a5207411a0040211e0211210d011d530457524d031a054971424e10330f0e154b5c7c410c081f1a5f285c031034110e0c5a1b0d4d11021f5c40290504572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ITV2.uk@HD",ITV2 HD (1080p)
+http://45.14.84.37/itv2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD",JimJam Europe (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570d1b110a57414247186e42544f7a5b5f400f05494d0f05121e03291d051c384d024b4a12.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD",JimJam Europe (576p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570e1f1b0a5359435d1d744a4f4171595748071a0c1654565c1a42241619572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD",JimJam Europe (576p)
+http://stream.mcquack.net/150/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="KalemehTV.uk@SD",Kalemeh TV
+https://go.skym3u.dev/live/7c92d/1b150d30105557104142480702161b0234054e1529150a575746500b050e071602301b1146305e4014565c460b0c080103162b120d1c2d0607275e464f0b1203120a40290015572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="KalsanTV.uk@SD",Kalsan TV (576p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557104b531450411a025c2c121857341555400f12110b0b1e114b1c70414e1221521c485105534803161f1a5f345d0c4a355b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="KanshiTV.uk@SD",Kanshi TV (720p) [Not 24/7]
+https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="LatestTV.uk@SD",Latest TV (480p)
+https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MBC.uk@HD",MBC (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a5a41151d58361009182e0d0a1411494c494d19425c412100151c324c5f4a5a4f4115555d45101f7440051a79005c485c1911415b5c1716497841514873065e4d081a11154d293d277a6d3029380e2d2a346069676a55585c1a42241619572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MiracleTV.uk@SD",Miracle TV (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/Stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug Kids (576p)
+https://tvsen6.aynaott.com/MoonbugKids/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MrBeanLiveAction.uk@English",Mr Bean Live Action (1080p)
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA1World.uk@SD",MTA1 World (720p)
+https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA2Europe.uk@SD",MTA2 Europe (720p)
+https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA3AlArabia.uk@SD",MTA3 Al-Arabia (1080p)
+https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta1_world_main/prod_mta1_world_main-origin-v1/index-hls.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA4Africa.uk@SD",MTA4 Africa (1080p)
+https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta1_world_main/prod_mta1_world_main-origin-v1/index-hls.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA5Africa.uk@SD",MTA5 Africa (1080p)
+https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta1_world_main/prod_mta1_world_main-origin-v1/index-hls.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA6Asia.uk@SD",MTA6 Asia (1080p)
+https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA7Asia.uk@SD",MTA7 Asia (1080p)
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTA8America.uk@SD",MTA8 America (1080p)
+https://dq1c55erlhlb2.cloudfront.net/out/v1/prod-mtai-live-shared/prod_mta1_world_main/prod_mta1_world_main-origin-v1/index-hls.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD",MTV Global (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3010555710594b4d041b43400229001157220440356b7c66511000031603291d051c384d024b4a12.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD",MTV Global [Not 24/7]
+https://go.skym3u.dev/live/7c92d/1b150d305940570c1b1641570e4617022f07150b21101b565c454e0b0b1f0705030d3e553c7950213f791f6f6526355c421e70465456290d0b1d47044e171757.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD",MTV Global
+https://go.skym3u.dev/live/7c92d/1b150d30594057071f0d15564140410272455b4178535f574a4e530b505c4a5d1d70434f48704d594f051f131452.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MysteryTV.us@UK",Mystery TV (1080p) [Geo-blocked]
+https://go.skym3u.dev/live/7c92d/1b150d3010555710484f45180a5e154d33074c1439101b1d4d530e50144200004d295d12102d13031d4c5e514103021017426e100e146f155e57524b5050071d5c441b7417584e79070b4e091d1310030d16121b2346034f72000d4b0b49151c535a15174d7017524c6f010319454f0e42031c075e413900151c321a420c4907424903081a5c5c2c12181529101b565219561c.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Nickelodeon.uk@SD",Nickelodeon (576p)
+http://tvsen7.aynascope.net/nicklodean/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="NoorTV.uk@SD",Noor TV (720p)
+https://sscsott.com/srt/noortvuk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Now80s.uk@SD",Now 80s (720p)
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland",Now 90s00s (1080p) [Geo-blocked]
+https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-samsunggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland",Now 90s00s (1080p)
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb513f19657460909bce2167d0d334dd844c3bdd0b61cb3071aa448f049f4b1bdae5a5d3ec4ae47821c04d873d5f66411f21c118dc7c1fc7c76adf046727486b9b9ab265d9896450f08d597562ac7b1c51e00e07c47100238ebb4e5dd670e7295243a5583f5063c0bf5fab704fc1d50bd8767dd8a9d963317c383ea57e657305d692dfd07777ae0eb3876a0ac47116b2a063f3e669dea0488f5371ac408451dfcdb0def92098b6937091938145c78e2062208d51b3b0e4ebc3a2a1ecfe51622a3b40f4ac83fb010c87554a4fc219aad541d21cd480298d6178ee4ec80fcc11846fb806aee50ef1fce09f6f4e3badc85e3a67b2f3fadba9657ded2fbb85ecde7873d6a7462809992dfe2b393d96f2d35bd59145d8e651e8de0e3c36c4834a9299c0e1bee1f705f642ffc9ff963255401972258353a78864d869fc76acdc1c28580d69a2985cc8839b321d6d4d8f8c5b942313b6d58e89bd566e2a01dfdb52cdbf8ef6cea6a54bcf99790ab8c7b3a23d0c/85/1920x1080_4716800/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Pop.uk@SD",Pop (1080p)
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Pop.uk@SD",Pop (1080p)
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Pop.uk@SD",Pop (1080p)
+https://rakutenaa-narrative-popkids-rakuten-uwrx0.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-narrative-popkids-rakuten/cb553d1e726c648b9dd43e6fd4ef41a8dd2406fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9512a7d127f8adaf471d89c1617b2c11f5d7fe021414efc0e14d025522288a93c019738b3761d5cb95c3a1862cff90bfc7000c7800bda62218ba4dd7c387c0c5e820c5feda643a6fde90e43d038a4e21e1bc72560ddbc139d9773efd59202cd16e92aac50bfa1cabad21aadbcb032fd14dd370656367897944694cc53a4dfe80353f472204f1251f4a69da43f56e146474fc7fac5a9179979aa99378e646de16ae84e8023b578be1ba2e043a9a3bce04b454be2ae1f3575a4e1f9d9f9617ee437fda0a489212d9fbb4d2814cb20dc202a6e94adca40d2931095ec51efde68192bff9c448996b7979dd4e728892e90879ee03c465d5c16169062a19563cf2cd36c97c2122f5b5845aa9f27a0ecbb5b3e3836ecef5fd00024bdde9d8adc0b04d3651a489a06b33f54359b6436078f5cf89e2f53992a0b9c302fc450308945f4ac5e93cdbfb45663e584bf28906eeba635d6f314a06e396616aae2292d20261ec7eb64574513aa44e0c0f5f3631f09e885a594a6016f5661420a56d9888f719f9dff390d1fc521600a30431390078e39885904022b994b9ef85e25d44b7928b7f272595c35959ae58584d39a14ec25afa592382b286667b8250c256becbb8c52f84a22141d5b891d6145b21f000a80e7c8e18abf69cf915ba937700666c9f1034e1b2001097acac13a8f06b3ca48efca9a0498bdd4431ff856d300148defd869eee482c270029fae521515feb940e25603e225fd08d2ae1aaab15115232e545efd8d5bf14bbcd18ef8229e5ecb25672ab220ebc6a6d9b86752f4ae4b232336570271567a297ecbb0a4670f76a2ae26ed48f2ee5bbd541a243a4584c26a2887ec64239f3a7074a0aedfb4aecb1715cd61e67ccc7371c03d6907c0ee69b0f9d883fb837c6b10d5b7b249a99e9f88c8c2c25418610861c2930f0f0db24bf18814deb80e79fdb69ffcca6be51c8852ad8da527f033b2912e6cc4e09cfae848105a4a45c3c2f8f407deb21e370619b1f74f3bad84dda775fcebb23e2bfa5ac186264c8c1b507ec78dfc25e90a99c7180bc6a64a50e45513e0d6a7213fe905f301157cd3faa04d2dc8e22eb26cbadbce2e6dad293fc5667f408d5db4ae926a7cd3a4305552d93c218772b0e2886d75618b975f14125c1f340ed64b7d0dc51f498433bbc5c0924c01ab28a83e1eef608ae37e86912dccd2e5d08fc711448ed52e34d33ec6009a02c9fcaedd198572488b49b23b40a9f6fddde9fbe596e6f63f7839b766be2be957b8e78ab0540f2b5bff2e1a6b0bd53cc42a3f72b5e174c1866c49a7f8d626e2237564233511ec30b5bd12696402a8c75cbcfc4b43404d12c9e22f86329d642aa27656ba1368333e367360a5b6ec3aff08fd5690c65e29c0a4bc8307c68d1effbfa7d79b680fe373076f79bc96aeb0f16014fbb5a8b01449a2ca44b232541c0aa3fb837632e3e40502d987ac55989d42a639172b4ef3ad8f13ec5ea313cb7e7efb1af2de6c4c97c976583a812ca9df7c459949ff0a01e56684406dd91d6753563d867ac7580b602df17283f8fc1a4e748501c96a683cbbe3fe8da83f57220d440f54051271ce412dc5192c4bea132f9b368dc28fec6585ee428d299dfdb38d1521d8c5f0c5922e892fe19290d28ce7b0ae685d481cc8b3c606a42905c4fd69b10cf3fe3406ec17a28b7387405e60c7060763cb9661176182a37d8deb4fb16b8b1ebafa88e1cd6fc8dbb5022bbe5407f552c22990723e574fcd60ad882b27e3aee91ba46d4ef0e5a9bbc4fe41e5f3c126db4da0c79ab0a805aad763294685386e1b742329ec749c3f0e907ef142f95da37d23fb268f455e31e5a99e61f1e35b38447e03d75a92772652d22229293040d7c538a6de867c4771221a55e6da1bd1114dbb225451968722e9d6f7619553d59eb5f650295a7b34fd71385575d06b6f5d16bca7f5c7033bc63aca1e0ab39093e9790a218b9b58bb910461c1f1c626f73dd57de405a670124f089d5d571cbd176d3e631d7e739c4b27ef8ca396a52e2c6364b0cb38015abbf0a149bf386d7a45138130513026/17/1920x1080_5903040/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="QVC.uk@SD",QVC UK (540p)
+https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="QVCBeauty.uk@SD",QVC UK Beauty (540p)
+https://qvcuk-live.akamaized.net/hls/live/2097112/qby/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="QVCExtra.uk@SD",QVC UK Extra (540p)
+https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="QVCStyle.uk@SD",QVC UK Style (540p)
+https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="S4C.uk@SD",S4C (1080p) [Geo-blocked]
+https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="S4C.uk@SD",S4C (1080p) [Geo-blocked]
+https://go.skym3u.dev/live/7c92d/1b150d30105557105c110a17045d1f4536164f0a7400421b5b440d470d410618032f0615563652402b0b690c712930272b0335183e1529150a574a410e501a421b1f5f6e1e520c78.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="SheffieldLiveTV.uk@SD",Sheffield Live TV (360p) [Not 24/7]
+http://tv.sheffieldlive.org/hls/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="SimayeAzadi.uk@SD",Simaye Azadi (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d3010555710594a49031607050221180014210a151d5b044d4116401b1f5f6f1f080f254c5d480b1916115240001a41210a0915334c06165b4f5b0a0f5c064b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="SkyNewsWeather.uk@SD",Sky News Weather (720p)
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk@SD",Space Live powered by sen (1080p)
+https://9fe704e826f54008893e1f2cec429fc3.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG_UK/mt/lg-uk/1224/hls/master/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TakbeerTV.uk@SD",Takbeer TV (720p)
+https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TalkingPicturesTV.uk@SD",Talking Pictures TV (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012434021.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="talkSPORT.uk@SD",talkSPORT (1080p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="talkSPORT.uk@SD",talkSPORT (720p)
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TalkTV.uk@SD",TalkTV (1080p)
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TBNUK.uk@SD",TBN UK (1080p)
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Thats70s.uk@SD",That's 70s (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012434023.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ThatsTV.uk@SD",That's TV (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012434022.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD",The Graham Norton Show (1080p)
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TinyPop.uk@SD",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TinyPop.uk@SD",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TinyPop.uk@SD",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-rakutenuk/cb7d3e4f7b726f8c9999376cd9f547f3d1006681563ad7316cad5e9420c91853d7b9f7c0e74feb690dbd7ba33e40340d0136d41cc07c11dfa32bfb086a384837c293a20287dd4755a2a55e793acc190e39ee0f15ce24562999fb0c52d468e137555aa82e6b553982f25bad7752c5810a8a6f5fd2ef88376635455e9a5943e5b24aa0ade75a44df64a9ac14489c2f58e68314c8c915ee84dc469745d722f247999aa482db16888cab43f803f10b1a4c3078988d709dce62bfdee82f53d8227a431a04b5a696b3186ad6450e08fafbcef267f942cbc470d13064ec549e1fd136df3af071cd8e4fa4be84db475730a7c164753eb0e0d2ef915624b864a1ea83af72788ac913794af66ed730393d9cfcdf1b96b167fcc672d3e23c456f99c211cbc9e5d2b6e7df10e64fbac6f08b025242621d079462b59369cf21af1ec2aa42780e1d1ed8f03bc582ca613467598f835beb1f16ada9e8e9be5f61b80a715bec73e656047ec731780e81479b8f3736f54c7884312ec44a21967dffb722e1a2d5f13932b1aca1289b3ab8ed5288b668d16c384a3da1e63a60464373c4eb68190f75c24be3c6cbe6727b648695c8f09a125276381341338af2f74f889acf3b1829d4412a12187a7d8405dd7ccb05474e3adf44afc6667581151e29e3b1365e5f539bc9ba84f5bfa023b376c1cafb3637611909cb32013551d0b9834df8365f41795c940a634caf0e5f5198f3a381b0a14c9fc636c050631070fae007480d2035094ecdc23b840db1c745f4cd9d0f95a2d943118771fa07479b9d8a39febf8493185bc6fd064f3deab957c4773ef813d13d81d175e7bd5a0219303221a8e973da719cedb3e471e346c24e076dd57cbe8aeab0d3594fe290584155633146260526767dd2bdd4601344e9b231943b8c8f45bb4d50697b2db283044db9f87818a3216770a0d2bfe1dfda0f11d36be665c86706995a042af3c334e6d9c89997866b473fcca5ae5e84b59191c9a4a34c191d652392d550472d9d4c9e8d03f2921c6cffb689f0d46a9b709046d1f5b521e972b2cab71bba9593eaed39005b580d6ea39d8a15dfaf3542bf6bc9722e179299e1fa718967de6dc2887ed18b3e3dbe394f53f0f8eb03e92899c41b0fc9a4677fd25513e0c1de073de9058429035cd0ecb7363cece22ec76cbc94d5386daf1e19c5667f408d32c3a69e484ec09d322170cc2a49a55a87dbeb447a27ada651032108383f58e06c4f09e1075b9d4ba1c5e5b66301af20ab2c1e96708ee074838329c7d1f5d2fefc1d448ed63f37d02ec6289801e7f8a6da1a8672508b63b23b6583fef9dfe9cdee96eefc3f7817bf65b828df54bbef80b057272b58fb2d1a6b0add3ee22a0072b5e574eb866e45a7d9dc35e2277164093511ea3898b730696002a8c75cbcfe4369486b11c9e227963295642aa57e569f3b4e3b2e267b6083b1ec3ad920db5690c57821e2a4968307c68d1effae81cf9f6803e373076f69b894aea0f16032ddb5abb0044da0ca449431543e0aa0fb836618e3e42301d987ac559a9d528e39172b4ef3a98f13ee5ea313cb7e7efb1af0de6c4cecac3d151aa41eb7ec526087079970759616fd0d7eda126a534a39b87ac769146c5b8917e7f7ae5228019600d40f1246dadde98a983d5e1c01531119617d12db4832a26b4321f55761f99099c29f859e1d1131e35db3db838b4a498386a499875db2d787fce6b7011d1aad370a1ff20e409172cb1815d2b252bd78869297865f07ba8275a03f85e655767210e98b316b192c68938740c15624de0dffda8af0c46ac3cdf237306e7e770a42d36f866463460de97dbec4193cf4ff9e6b0ad08ff2a3e4cfb38553e2a0f2509a9a446ad5fab530f0ebb436f55d0655850b571607b9b0505b39cc20a9ebd7e94303a22e954d582dece7fd3bb1b7147e539661b460ab772f53856e0168710b8bc55d8adcc55a7a2515490cedd4638a5e08a5742301c093438adf8f06c10090c0afff406a1c7134f87436233582496c5105fcb9f2c31c3be406f02b65a6d9b99e1a54698a9b58959d3e748194b800c871ec75ef72ff2c461c7dc7777d719d3e240a2d7b2018a94921e59aa6ecb4348c2dfc7b4cc800a57d37ba92021b82df7d8e7d7d539fd21441af67a13fa6998850e6786ee58eebcc0a/27/1920x1080_5903040/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TinyPop.uk@SD",Tiny Pop (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012431427.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TinyPop.uk@Plus1",Tiny Pop +1 (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012431430.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TJC.uk@SD",TJC (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4f1c1b1c5c6d1f025470524119544b4e450b151617022e161556030c010c5a44570b2a23202c640c204e3529150a575c42424a0c0a1f5b780a302e2d144a4011514e465c4c02400614.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TJC.uk@SD",TJC (1080p)
+https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TogetherTV.uk@SD",Together TV (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012434678.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD",Totalmusic (1080p)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD",Totalmusic 80s (720p)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD",Totalmusic 2000s (720p)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD",Totalmusic Concerts (720p)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD",Totalmusic Dance (720p)
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TVOne.uk@SD",TV One (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012431b70.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="TVWarehouse.uk@SD",TV Warehouse (720p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557105e5553031d161b4335000457324d18174d46475711035d1d49345c0c0033171d1d5e470d49511a4b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="UAlibi.uk@SD",U&Alibi (576p)
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012434e29.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="UW.uk@SD",U&W
+https://go.skym3u.dev/live/7c92d/1b150d3059405706180d15535b5d4b196e44534378535f48105a4f451b4012434e2a.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="UtsavBharat.uk@SD",Utsav Bharat (720p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557104e1250030e12175f7309150f2d16411b53455640041d1c1d586e1d040d6f525d480818100b11021a1f162c1a071c2f081a1311594e4d0e40031f4d391f080a344d024b4a121c4c060107001133075c4877505a400612151c5b11160b5c7d42594a755b564009121b5a030c1f4e063e1b0c18235e094d594f1110555d4715497046554171065c400b1b451d070d46124e7816071d25065f190c4e471c515947464d254a051a26575a4f0f194511505a11124e7711.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="UtsavPlus.uk@SD",Utsav Plus (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="V2BEATTV.uk@SD",V2BEAT (720p) [Not 24/7]
+https://abr.de1se01.v2beat.live/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Czechia",Viasat Epic Drama Czechia
+http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ZeeOne.uk@UK",Zee One (1080p)
+https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye",BBC Earth Turkiye
+https://go.skym3u.dev/live/7c92d/1b150d3010555710444c560641120a4d2b18001b29130e0a4b430d480d035c114e235c0817240617565219561c.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCUHD3.uk@SD",BBC UHD 3 (720p)
+http://45.14.84.37/bbc3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCUHD4.uk@SD",BBC UHD 4 (720p)
+http://45.14.84.37/bbc4/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="SetantaSports.uk@SD",Setanta Sports (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d305940574c5e514103025d1e4f3106001a2b4d011d4b05101551401a1d48250b4f14731657.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GBNews.uk@SD",GB News (1080p)
+https://hlspackager.akamaized.net/live/DB/GB_NEWS/HLS/GB_NEWS.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCEarth.uk@Hungary",BBC Earth Hungary
+http://88.212.15.19/live/bbce_hun/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="SangatTV.uk@SD",Sangat TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVSANGATTV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America (576p)
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IqraBangla.uk@SD",Iqra Bangla (576p)
+https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="FaithUK.uk@SD",Faith UK (1080p)
+https://VSE2-EU-ALL32.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MasterChefsAcademyTV.uk@HD",Master Chefs Academy TV (720p)
+https://platform-iuoamc.uk/iptv/mca-tv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCEarth.uk@Romania",BBC Earth Romania
+https://go.skym3u.dev/live/7c92d/1b150d301055571043514b0c5e5d194d3205080a3852411b594e0c41101b5c065f2501061c2e111740504c59555304015d41730659.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AMCEurope.uk@Romania",AMC Europe Romania
+https://go.skym3u.dev/live/7c92d/1b150d301055571043514b0c5e5d194d3205080a3852411b594e0c450f0a1016033500040b2706010a47194c555304015d41730659.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCFirst.uk@Romania",BBC First Romania
+https://go.skym3u.dev/live/7c92d/1b150d3010555710454d5d1a5e5d1e43260700486e00091c10484a460b5e5c065f2501061c2e0717160f134f1611591016476e1e520c78.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MTVGlobal.uk@SD",MTV Global (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940575b5c51164c041211402f050057341540356b7c0c4d0c0b160b022d401441.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Romania",Viasat Epic Drama Romania
+https://go.skym3u.dev/live/7c92d/1b150d30105557104b57480301071a4821424f1831160e000e04404206401603456f06121c32040a165b5257151457181f5d76010f1d6e0e5c0d07.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="IraneFardaTV.uk@SD",IraneFarda TV
+https://iranefardalive.com/stream/live.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="PlanetFun.uk@SD",Planet Fun (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d30594057091c0d15525d5d421e765d50497a5b5f480f05534803165c121c72184e102e070a00114710515a.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe (576p)
+https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary",AMC Europe Bulgary (576p)
+https://go.skym3u.dev/live/7c92d/1b150d305940575746501550585d155e25160e0d344d1b174f101b145a5f5c316b1f322c3a6f15061c5a450d49511a4b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GODTV.uk@SD",GOD TV (576p)
+https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MagnavisionTV.uk@SD",Magnavision TV (720p)
+https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="PanjabTV.uk@SD",Panjab TV (576p)
+https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MUTV.uk@SD",MUTV (720p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557104c425716030a5d40290504572211061f575e404b140a5d10432d5c574a77575f4d0b1c1415535e415c49355e161c33174249101c13115a5f43471e70405149714c0a017542416301063c1a6609261b30712d06314c634d76570c303a1a0918112116202541114f5a6e0d0d403d1c09190e10193b1f14724453112e02251d4f2d251b1a39565a377b64127e35261a3f6f0a1b384b0e150b2f0a1a7b160e043a1943293d0b38712c2b394864676d152209325b0d20280a090e39175d436a122b02291b4f7321121c13561c1967704f680f250a127b241c053e0e150b156a5f7a165b1b3a1a5b291239373a2a051756734e5c120b1e2658233419112534251066185050015d4a424f2d3d0d35172518196c63506d0c21422a4509452817020b0b3f575e7a7c205f1141582c110830332a023e0e70606d54380a3a1e0d37344d0d272e487240625e2f2b320b652c4312302d135f196c63156d0836093d5611042f2d115121027a526e702b0615220273350c0c140d0e4b7b6b4e7d55171f1b6775150a4f0c2e1d174c585756305a25007972222e1e192c5a010b05534803161f1a5f345e0915334d024b4a12.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="SetantaSports.uk@HD",Setanta Sports HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8P7MBSH7RRPL53/20074/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia",BBC Lifestyle Asia (720p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570a120d1c4c5e4b45027141594371535f480c05415d1106175c1e734052.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="MoonbugKids.uk@SD",Moonbug Kids (720p)
+https://mumbai-edge.smartplaytv.in/Moonbug/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@SouthAsia",BBC News South Asia (720p)
+https://go.skym3u.dev/live/7c92d/1b150d3010555710475649000e1a5e4924140457330e0e0a4b5a4f451b1b055d452e5c233b032d0a0f4c054a4a060a0b5d41730659.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD",BBC Earth Romania HD (576p)
+https://go.skym3u.dev/live/7c92d/1b150d305940575746501550585d155e25160e0d344d1b174f101b145a5f5c316b1f27091c1f34000a534e0c520b0b161c022d401441.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe (576p)
+https://go.skym3u.dev/live/7c92d/1b150d305940574c5e51164c0603075a28174f0b35595748071a0c46000c5c1a42241619572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="JimJamEurope.uk@SD",JimJam Europe (576p)
+https://go.skym3u.dev/live/7c92d/1b150d305940574c5e51164c0603075a28174f0b35595748071a0c6e0b023912416f1a0f1d251b41150c5f1b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="ViasatEpicDrama.uk@Ukraine",Viasat Epic Drama Ukraine (576p)
+http://195.189.60.253/118/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica",BabyTV Latin America (480p)
+http://181.78.12.119:16123/play/ch01/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="CBBC.uk@HD",CBBC HD
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f30233b034c071d49497c4d121b052c4133163e0f704d02085b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="CBeebies.uk@HD",CBeebies HD
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f30233c0521263d6c054b41140c2c1a5c34053e143306300e0f044e5406.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCAlba.uk@SD",BBC Alba
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f22233a7e054b41140c2c1a5c34053e143306300e0f044e5406.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCFour.uk@UK",BBC Four
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f25202d6d054b41140c2c1a5c34053e143306300e0f044e5406.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCOne.uk@London",BBC One
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f2c213d60666c6a26203d5c442505022629131b0e604750413d19435d413017.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCParliament.uk@SD",BBC Parliament
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f332e2a736362692721275c442505022629131b0e604750413d19435d413017.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCScotland.uk@SD",BBC Scotland
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f302c376b66626a26401b165a232c0809341530154c4f7c5252411e0348.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCThree.uk@HD",BBC Three HD
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f37272a7a6f0c4c0719102c45300717262d100a27491a0d49120b.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD",BBC Two HD
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f3738371042465201301a0358362c0c0a253c194811475340.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BabyTV.uk@LatinAmerica",BabyTV Latin America (1080p)
+http://38.44.109.41:8003/play/a0eh#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCEarth.uk@Poland",BBC Earth (1080p)
+http://57.128.231.171:8080/307/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCBrit.uk@Poland",BBC Brit (1080p)
+https://go.skym3u.dev/live/7c92d/1b150d305940570a1d0d1550575d411f715d504e71595748071a0c1752565c1a42241619572d501a40.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland",BBC Lifestyle Poland (1080p)
+http://57.128.231.171:8080/305/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCTwo.uk@Wales",BBC Two Wales
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f373837607d6268273c5c1b4936103e10301719275259467b145f5d1e5c24.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="Now90s00s.uk@Poland",Now 90s00s (576p)
+https://go.skym3u.dev/live/7c92d/1b150d30105557105d46464f1f011a41250313102d061b0e0d1a11124c001d01492e17040b6e000015105a4f451b031a00586e1e520c78.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="StarPlus.uk@SD",StarPlus (576p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BritAsiaTV.uk@HD",Brit Asia TV (576p)
+http://51.75.127.199:3141/britasia/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="GODTV.uk@SD",GOD TV (576p)
+https://cdn.pishow.tv/ott/live/1391/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="StarBharat.uk@SD",Star Bharat (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland",BBC Two Northern Ireland
+https://go.skym3u.dev/live/7c92d/1b150d301055571049474a4c1c071e45260a4f1a2f0e401a5d490c57161d1612416f31233a1f37383760646c7636273621621f3a333c0c22213c1042465201301a0358362c0c0a253c194811475340.m3u8?t=9092&s=9db&id=pgn3.m3u#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific",BBC News Asia Pacific (576p)
+http://103.151.60.162:2122/play/a0fl/index.m3u8?hls#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="NickelodeonGlobal.uk@SD",Nickelodeon Global (576p)
+http://103.151.60.162:2122/play/a017/index.m3u8?hls#fb:M3U_World_4K
+#EXTINF:-1 tvg-id="StarPlus.uk@SD",StarPlus (576p)
+http://103.151.60.162:2122/play/a0fo/index.m3u8?hls#fb:M3U_World_4K
