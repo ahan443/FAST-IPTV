@@ -1,0 +1,731 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Channel 1
+https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Star Jalsha HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Bangla [Backup 2]" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Zee Bangla [Backup 2]
+https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Max [Backup 1]" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Max [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Max [Backup 2]" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Max [Backup 2]
+https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Max 2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Entertainment TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Entertainment TV
+https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Ten 2 [Backup 1]" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Ten 2 [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Ten 5 [Backup 1]" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Ten 5 [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News 24 BD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",News 24 BD
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Somoy TV
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BTV CTG" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",RTV
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="My TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bangla Vision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="G Series Drama" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="T-SPORTS-HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",T-SPORTS-HD
+http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.SPORTS.1HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.SPORTS.1HD
+http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.SPORTS2.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.SPORTS2.HD
+http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.SPORTS.3" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.SPORTS.3
+http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.SPORTS.4" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.SPORTS.4
+http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY-SPORTS.5HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY-SPORTS.5HD
+http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.SPORTS.SEL.2.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.SPORTS.SEL.2.HD
+http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.SPORTS-SEL1.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.SPORTS-SEL1.HD
+http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.SPORTS2.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.SPORTS2.HD
+http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.SPORTS1.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.SPORTS1.HD
+http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR-SPORTS.3" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR-SPORTS.3
+http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.SPORTS.4K" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.SPORTS.4K
+http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="EUROSPORTS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",EUROSPORTS.HD
+http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="A.SPORTS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",A.SPORTS.HD
+http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PTV-SPORTS-HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",PTV-SPORTS-HD
+http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="GOLF.SPORTS" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",GOLF.SPORTS
+http://wdp.joycalls.com/get#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="UNITE8.2.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",UNITE8.2.HD
+http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="UNITE8.1.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",UNITE8.1.HD
+http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ETV.BANGLA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ETV.BANGLA.HD
+http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DEEPTOTV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DEEPTOTV.HD
+http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="GAZI.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",GAZI.TV.HD
+http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MADANI.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MADANI.TV.HD
+http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PEACE.TV.BANGLA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",PEACE.TV.BANGLA.HD
+http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NAGORIK.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NAGORIK.TV.HD
+http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR JALSHA HD
+http://198.195.239.50:8095/starJalsha/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="JALSHA MOVIES HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",JALSHA MOVIES HD
+http://198.195.239.50:8095/jalshaMovies/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZEE BANGLA  HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZEE BANGLA  HD
+http://198.195.239.50:8095/zeeBangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="COLOR BANGLA HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",COLOR BANGLA HD
+http://198.195.239.50:8095/colorsBangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="COLOR BANGLA CHINEMA HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",COLOR BANGLA CHINEMA HD
+http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY AATH
+http://198.195.239.50:8095/sonyAath/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ENTER 10 BANGLA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ENTER 10 BANGLA
+http://198.195.239.50:8095/enter10Bangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="COLORS.BANGLA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",COLORS.BANGLA.HD
+http://198.195.239.50:8095/COLORS.BANGLA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZEE.BANGLA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZEE.BANGLA.HD
+http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SUN.BANGLA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SUN.BANGLA.HD
+http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="JALSHA.MOVIES.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",JALSHA.MOVIES.HD
+http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.JALSHA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.JALSHA.HD
+http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZEE.BANGLA.CINEMA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZEE.BANGLA.CINEMA
+http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.AAT" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.AAT
+http://198.195.239.50:8095/SONY.AAT/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="COLORS.BANGLA.CINEMA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",COLORS.BANGLA.CINEMA
+http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ENTER10.BANGLA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ENTER10.BANGLA
+http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="COLORS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",COLORS.HD
+http://198.195.239.50:8095/COLORS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZEE.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZEE.TV.HD
+http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="COLORS.CINEPLEX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",COLORS.CINEPLEX.HD
+http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.ENT.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.ENT.HD
+http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZEE.CINEMA.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZEE.CINEMA.HD
+http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.GOLD.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.GOLD.HD
+http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.MAX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.MAX.HD
+http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.PLUS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.PLUS.HD
+http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.MOVIES.SEL.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.MOVIES.SEL.HD
+http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.PIX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.PIX.HD
+http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MNX.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MNX.HD
+http://198.195.239.50:8095/MNX.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ROMEDY.NOW" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ROMEDY.NOW
+http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MN.PLUS.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MN.PLUS.HD
+http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.MOVIES.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.MOVIES.HD
+http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MOVIES.NOW.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MOVIES.NOW.HD
+http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="AND.PRIVE.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",AND.PRIVE.HD
+http://198.195.239.50:8095/AND.PRIVE.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HUM.MASALA.TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",HUM.MASALA.TV
+http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="AXN.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",AXN.HD
+http://198.195.239.50:8095/AXN.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR.BHARAT.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",STAR.BHARAT.HD
+http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CARTOON NETWORK HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",CARTOON NETWORK HD
+http://198.195.239.50:8095/cartoonNetwork/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="POGO" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",POGO
+http://198.195.239.50:8095/POGO/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DURANTA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DURANTA
+http://198.195.239.50:8095/duranta/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DURANTA.TV.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DURANTA.TV.HD
+http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NICK" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NICK
+http://198.195.239.50:8095/NICK/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NICK JR
+http://198.195.239.50:8095/nickJr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONIC" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONIC
+http://198.195.239.50:8095/sonic/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY YAY" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY YAY
+http://198.195.239.50:8095/sonyYay/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HUNGAMA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",HUNGAMA
+http://198.195.239.50:8095/HUNGAMA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ETV.BAL.BHARAT" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ETV.BAL.BHARAT
+http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SUPER.HUNGAMA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SUPER.HUNGAMA
+http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DISCOVERY HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DISCOVERY HD
+http://198.195.239.50:8095/discovery/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NATIONAL GEOGRAPHIC HD
+http://198.195.239.50:8095/nationalGeographic/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NATGEO.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NATGEO.HD
+http://198.195.239.50:8095/NATGEO.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NATGEO.WILD.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NATGEO.WILD.HD
+http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ANIMAL PLANET HD
+http://198.195.239.50:8095/animalPlanet/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",TRAVEL XP
+http://198.195.239.50:8095/travelXp/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY.BBC.EARTH.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SONY.BBC.EARTH.HD
+http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BBC.Earth.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",BBC.Earth.HD
+http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TLC.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",TLC.HD
+http://198.195.239.50:8095/TLC.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HISTORY.TV.18.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",HISTORY.TV.18.HD
+http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="XPLOR.HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",XPLOR.HD
+http://198.195.239.50:8095/XPLOR.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="LOVE.NATURE" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",LOVE.NATURE
+http://wdp.joycalls.com/get#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SANGEET BANGLA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SANGEET BANGLA
+http://198.195.239.50:8095/sangeetBangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="9XM.MUSIC" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",9XM.MUSIC
+http://198.195.239.50:8095/9XM.MUSIC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZOOM.MUSIC" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZOOM.MUSIC
+http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZING.MUSIC" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZING.MUSIC
+http://198.195.239.50:8095/ZING.MUSIC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MTV.INDIA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MTV.INDIA
+http://198.195.239.50:8095/MTV.INDIA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MUSIC.INDIA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MUSIC.INDIA
+http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="beIN Sports 1" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",beIN Sports 1
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6123/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bein Sports 3
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6124/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="beIN SPORTS 6" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",beIN SPORTS 6
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6127/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="beIN SPORTS 7" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",beIN SPORTS 7
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/6128/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",beIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Sports" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FITE 24/7" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX Cricket 501" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",FOX Cricket 501
+http://1598364.joy664.space:80/live/4dfoydR2gZ/clever3still/4748.ts?token=ShJcU0BbQQNHXwJcUVYCDVsDAFNSDVUFVQAGD1xSAwABVgAFBgRTD1MbGBpEF0dcWF1vWQIXXlUGVlobRxFAV0NvXVYRCUEIUAAMCwFXFxUbRFldAxdeUAZbUwFRVgIKBRwWQlpXQQNHCwELAVUGCBscElUeQQETXwMOaAEBRVtSVRYIXUYPVUkbW1ZoB1BUWF5UElwXVEMdQAtEFUYJEGNfVlsRH0FbDE1GWUMGFwMbAwUIVhdIQ1INF1kRFkoQCxJ2dhEfQVwdTVFWRApaVxsKEkQVF0hDWBE9RQAXR0BUUVlXQRFZG1UbGBpaAk1mWl9eXgNWEAheDBEVX0YCEB0SWV1dWhdWF2ZEUVNBDxsNAQQFXwxRQx1AF0IMABEIEwgGUQIAWlgHDQ1cUlcBDQ4JBlZeBQdRVwcEVlFSC1FVEkk=#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fox Sports 1" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NHL Network" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NHL Network
+https://nhl-firetv.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PGA Tour" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",PGA Tour
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Real Madrid TV English" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Real Madrid TV English
+http://88.212.15.19/live/real_madrid_tv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sky Sports Action" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sky Sports Action
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9155/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sky Sports Cricket" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sky Sports Cricket
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9258/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sky Sports Football
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Sports Ten 3" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Sports Ten 3
+http://1598364.dancer18.space:80/live/4dfoydR2gZ/clever3still/98863.ts?token=ShJcU0BbQQNHX1FbA1AGCFxWBgVeDAJTAgNTAlBWBQcFAgMAAwZQXVAbGBpEF0dcWF1vWQIXXlgJWlQESUZGQVRCa1tXEVkbVAwNAARVARsVEkRZC1BGWwBVWwZTUAEACQEYEENaBxtfGwUNBFEDDg4SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBNiW1BaEU8bB1BASlYXUBsDEgMFUgxGTRMBDUILEEFLEwoWcHcRTxsAQUBdWRBcVlcSChISRkZNEwsRaBcBQEZDVVVfVkFBA0cJFhQVDlRBZlNfXghQBxVYDQxER14RAxMcFl9cXQpNCktrSF4HFwMbAQQDVARGTRMXF14BRgkQVwkGBQcLVgsECQVdUVEEWF1SVAhUUQFXVwFXVVJXUVMTTQ==#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ten Sports" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ten Sports
+http://1598364.joy664.space:80/live/4dfoydR2gZ/clever3still/98.ts?token=ShJcU0BbQQNHDQcAAQUBCFwFAghSBlNVVVQDA1NUB1ZTBlJUAFYGCwQbGBpEF0dcWF1vWQIXXlgJTkBCFgFBbVhUFggRAlYAXQoCDBVPF01QXVUSXARTWABUVgVXXQAeE0BdVhEJQQtSDQQPAlUXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVX0ZhXVNZFh4RUQpNF1hAXRVZFw0OCQASShcHDkQMFkUcRgkQc3QWHhFWG00AV0dRWA0XAxtEQxJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg1BAQgAAQcEVxdIQ0QXC1NHXhEGBVJWVwVSWltWAFBZDwAHCAxVB1VWAwBSAgQBUl0BURBM#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Wild TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Wipeout Xtra" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Wipeout Xtra
+https://d36nnn435goed2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skhf82opa3tf4/WipeoutXtraPoweredbyBanijay_GB.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ananda TV
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ATN Bangla
+http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ATN Bangla UK" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ATN Bangla UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bangla TV
+http://116.204.149.16/banglatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bijoy TV
+https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Boishakhi TV
+http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BTV National" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",BTV National
+http://198.195.239.50:8095/btv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 16" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Channel 16
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Channel 24
+http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Channel 9
+http://wdp.joycalls.com/get#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DBC News
+http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Deepto TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Deshi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ekhon TV
+http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Enter TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Global TV
+http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Independent TV
+http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jalsha Bangla BD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Jalsha Bangla BD
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Jamuna TV
+http://198.195.239.50:8095/JAMUNA.TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Matribhumi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Matribhumi TV
+http://live.playmax.live/matribhumi/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ME TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ME TV
+https://iptvbd.live/metv1080/1080.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NRB TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NTV Europe" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NTV Europe
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Probashi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Probashi TV
+http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SA TV
+http://116.204.149.16/satv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Somoy TV
+http://198.195.239.50:8095/somoyTv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Time Television" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Time Television
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Aakaash Aath" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Aakaash Aath
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Amar Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Amar Bangla Digital" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Amar Bangla Digital
+http://115.187.41.216:8080/hls/amardigital/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BHI Channel" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",BHI Channel
+https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Colors Bangla Cinema
+http://wdp.joycalls.com/get#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Dhoom Music Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Dhoom Music Bangla
+https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Jalsha Movies
+http://wdp.joycalls.com/get#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="JTV Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",JTV Bangla
+http://103.67.97.45:81/0.ts#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jtv Classic" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Jtv Classic
+http://103.67.97.46/0.ts#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Khushboo Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Khushboo Bangla
+https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kolkata TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mon Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mon Bangla
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="R Plus Gold" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",R Plus Gold
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ruposhi Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ruposhi Bangla
+https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sananda" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sananda
+https://live.sanandatelevision.in/sananda/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sangeet Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sangeet Bangla
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SNB Cinema" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",SNB Cinema
+http://103.182.83.246/hls/snbcinema.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Star Jalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Tara TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Tara TV
+https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="U Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",U Bangla
+https://stream.ottlive.co.in/ubangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZB Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee 24 Ghanta" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Bangla Sonar" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bhojpuri Cinema" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bollywood Film" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Bollywood Film
+https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Cineplex [UK]" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Colors Cineplex [UK]
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Colors Cineplex Bollywood
+http://wdp.joycalls.com/get#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekamra Cinema" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ekamra Cinema
+https://live.ekamraott.com/cynema/cynema/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Epic Bhojpuri" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Epic Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Epic Bhojpuri Digital" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Epic Bhojpuri Digital
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Goldmines" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Goldmines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Goldmines 2" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Goldmines 2
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Goldmines Action" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Goldmines Action
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Goldmines Bollywood" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Goldmines Bollywood
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Goldmines Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Goldmines Movies
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kairali We" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Kairali We
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Manoranjan Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Manoranjan Movies
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MBC Bollywood" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MH One Dil Se" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MH One Dil Se
+https://streams.tangotv.in/MHONEDILSE/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MH One Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MH One Movies
+https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NH BollyFlix" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NH BollyFlix
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NH BollyGold" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NH BollyGold
+https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pitaara TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Pitaara TV
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pocket Films" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Pocket Films
+https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Public Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Public Movies
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Roja Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Roja Movies
+https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Shemaroo Bollywood" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Shemaroo Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Shubh Cinema TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Shubh Cinema TV
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Max 2 [US]" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony Max 2 [US]
+http://lb59.1xtr.icu:25461/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts?token=ThFcUhFaQQwRAwYHBgcCBQNTU1VTB1NWB1pRCggDAQJRAAwGBgJVAVAQHkdBQURQV1g7WFQWCgNRV1QKDB8RR0ZWRmwLVkEMEQACVQMEBxcaFxBYXVESCFJVWgIPBwABAQQYERJbBxQJXEcJXhkUUE5BAUNeVVxtBwcVWlpWEQhbRlhfThAMWGxWVwhTW1IXDBdVExwWWUETQFldTF9fHhdRXUcQUxdTEQhcEF5ZGhdVWhFfREZJEFlAIXcbHxFXTUdRXRFbDFgRCBARQRcaF19GO0NVR0RABgMOVksRCRAFERgRD1MbaVBdXAtXVkJcWVsXEwoWBRBPQA5cV1pHXUdsRFoGEFlYRl5eGA==#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="South Station" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Gold" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Star Gold
+http://wdp.joycalls.com/get#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Maa Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="7S Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",7S Music
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="9X Jhakaas" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",9XM
+https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",B4U Music
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Balle Balle" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="E24" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",E24
+https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekamra Musiq" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ekamra Musiq
+https://live.ekamraott.com/musiq/musiq/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Epic Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Epic Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ETV Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ETV Music
+https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Hindi Hits" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Insync" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Insync
+https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kalika TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Kalika TV
+http://server.applelive.in/kalikatv/kalikatv.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kappa TV (Music)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Kappa TV (Music)
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mastiii" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mastiii
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Music India" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Music India
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NH BollyRaga" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NH BollyRaga
+https://cc-up9j649x4thrj.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-up9j649x4thrj/SBUM/RunnTV/BollyRaga_IN/BollyRaga_IN.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Only Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Only Music
+https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PTC Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Public Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Public Music
+https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Punjabi Hits" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Punjabi Hits
+https://stream.ottlive.co.in/punjabihits/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj Music Telugu" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Raj Music Telugu
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj Musix Kannada" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Raj Musix Kannada
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ramdhenu" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ramdhenu
+https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/mpegts#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sana Plus" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sana Plus
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sangeet Bhojpuri" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sangeet Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Tabbar Hits" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Tabbar Hits
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ultimate TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ultimate TV
+https://stream.ottlive.co.in/utvtamil/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zoom Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Zoom Music
+https://d2esfk1pb9cdob.cloudfront.net/chunklist_1.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="&TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",&TV
+https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Aaryaa TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Aaryaa TV
+https://stream.ottlive.co.in/aryatvtamil/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Amrita TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Anand TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Anand TV
+https://live.legitpro.co.in/anandtv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Kannada" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Colors Kannada
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Marathi" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Colors Marathi
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Rishtey" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Colors Rishtey
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Colors Tamil
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Dangal" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Dangal 2" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Darshana TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Darshana TV
+https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Arun Prabha" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Arun Prabha
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Assam" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Assam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Bharati" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Bharati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Chandana" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Chandana
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Girnar" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Girnar
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Goa" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Goa
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Haryana" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Haryana
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Himachal Pradesh" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Himachal Pradesh
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD India" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Jharkhand" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Jharkhand
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e8c3741f8c154d3185831f4e31777fb2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Kashir" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Kashir
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Madhya Pradesh" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Madhya Pradesh
+https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Malayalam" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Malayalam
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Manipur" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Manipur
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Meghalaya" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Meghalaya
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Nagaland" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Nagaland
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD National" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Odia" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Odia
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Punjabi" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Sahyadri" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Saptagiri" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Saptagiri
+https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Tamil" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Tripura" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Tripura
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Urdu" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DD Urdu
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekamra Bharat Odia" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ekamra Bharat Odia
+https://live.ekamraott.com/bharat/bharat/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekamra Manoranjan" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Ekamra Manoranjan
+https://live.ekamraott.com/manoranjan/manoranjan/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Epic Bharat" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Epic Bharat
+https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ETV Comedy" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ETV Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ETV Josh" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",ETV Josh
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fakt Marathi" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Fakt Marathi
+https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Flowers US" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Flowers US
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kairali Arabia" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Kairali Arabia
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kairali TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Kairali TV
+https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kalaignar Murasu" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Kalaignar Murasu
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mahaa Max" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mahaa Max
+https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mazhavil Manorama" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mei Alai TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mei Alai TV
+https://meialai.iptelevishion.com/meialai/2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MH One Prime" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MH One Prime
+https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MK Six" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MK Six
+https://mumt06.tangotv.in/qYyB8fXVMKSIX/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NKR TV Kannada" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NKR TV Kannada
+https://stream.ottlive.co.in/nkrtv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Oli TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Oli TV
+https://live.olidigital.in/olitv/olitv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="One Paschima" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",One Paschima
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Punjabi Shorts" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Punjabi Shorts
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Puthuyugam TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Puthuyugam TV
+https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Q TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Q TV
+https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sana TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sana TV
+https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Siri Kannada" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Siri Kannada
+https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Siri Kannada All Time" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Siri Kannada All Time
+https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Studio Yuva" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Studio Yuva
+https://mumt01.tangotv.in/O5aw8Zn3STUDIOYUVA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Subin TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Subin TV
+https://stream.galaxyott.live/live/subintv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Suriya TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Suriya TV
+https://stream.ottlive.co.in/suryatvtamil/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Vissa TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Vissa TV
+https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Zee TV
+https://drk6xq0vhn.gpcdn.net/live/zee_tv_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Falak TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Falak TV
+https://falak.rst.ae/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Geo News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Geo News
+http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pardesi TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Pardesi TV
+http://stream.pardesitv.online/pardesi/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="24 Hour Free Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Al Jazeera
+http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="AMC" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",AMC
+http://23.239.31.26:8989/amc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="AMC Triller" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",AMC Triller
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",BBC News
+http://198.195.239.50:8095/BBC.NEWS/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Circle" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Circle
+https://circle-roku.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DW News" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",DW News
+http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Enter-Film" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Enter-Film
+http://stream.mcquack.net/322/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FON Music" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",FON Music
+https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Gravitas Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="GREAT! movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",GREAT! movies
+https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="GREAT! romance" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",GREAT! romance
+https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Lotus TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Lotus TV
+http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MBC Drama USA" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MBC Drama USA
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MBC+ Drama" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MBC+ Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mei Ah Movie Channel" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mei Ah Movie Channel
+http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Metro TV (Honduras)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Metro TV (Honduras)
+https://s.emisoras.tv:8081/metrotv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Movies Thriller" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Movies Thriller
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MovieSphere AU" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MovieSphere AU
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MovieSphere Gold" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MovieSphere Gold
+https://amg01438-ewscrippscompan-ionmystery-tablo-lhsvm.amagi.tv/playlist/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MovieSphere UK" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MovieSphere UK
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MTV2" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MTV2
+http://198.58.104.90:8989/mtv2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Music Box Classic" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Music Box Classic
+http://88.212.15.19/live/mb_classic/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Music Box Dance" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Music Box Dance
+http://88.212.15.19/live/mb_dance/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Music Box Hits" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Music Box Hits
+http://88.212.15.19/live/mb_hits/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Music Box Sexy" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Music Box Sexy
+http://88.212.15.19/live/mb_sexy/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Music Channel
+http://media.boni-records.com/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",My Cinema
+https://mytime-tcl.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="My Cinema Europe" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",My Cinema Europe
+https://op-group1-densxvisionhd-1.dens.tv/h/h18/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mytime Movie" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Mytime Movie
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MyTime Movie Network" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MyTime Movie Network
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MyTime Movie Network BR" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MyTime Movie Network BR
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist360p.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MyTime Movie Network East" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",MyTime Movie Network East
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NOW Rock" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PowerTürk TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",PowerTürk TV
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Qello Concerts by Stingray" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rakuten Movies" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Rakuten Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rakuten TV Action Movies UK" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Rakuten TV Action Movies UK
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rakuten TV Comedy Movies UK" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Rakuten TV Comedy Movies UK
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rakuten TV Drama Movies UK" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Rakuten TV Drama Movies UK
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rakuten TV Family Movies UK" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Rakuten TV Family Movies UK
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Shanson TV" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Shanson TV
+http://catchup.videoline.ru/shanson/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony One Favoris" tvg-logo="https://tinyurl.com/mr2dec8v" provider="fb:M3U_World_4K",Sony One Favoris
+https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8#fb:M3U_World_4K
