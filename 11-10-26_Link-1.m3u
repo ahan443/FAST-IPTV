@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="SkyM3U Promo",Skym3u Official - Visit Skym3u.dev
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="STAR-SPORTS-1 (Hindi)" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",STAR-SPORTS-1 (Hindi)
 http://41.205.93.154/STARSPORTS1/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",Star Sports 2 HD
