@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1 xui-id="393" tvg-id="AnandaTV.bd" tvg-name="Ananda TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1" channel-id="AnandaTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Ananda TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h--ZmKHl8pVTZucnNBlNFCY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="387" tvg-id="AsianTV.bd" tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="60" channel-id="AsianTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Asian TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9gb33zpTZ8LfvVLW6vykp0#fb:M3U_World_4K
+#EXTINF:-1 xui-id="24589" tvg-id="ATNBangla.bd" tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="3" channel-id="ATNBangla.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",ATN Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h1spCurRZDlTQ-MPQ-dgLCg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="362" tvg-id="ATNNews.bd" tvg-name="ATN News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="4" channel-id="ATNNews.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",ATN News
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hz6ieuqL16nwquVinlnp02s#fb:M3U_World_4K
+#EXTINF:-1 xui-id="394" tvg-id="BanglaTV.bd" tvg-name="Bangla TV" tvg-chno="5" channel-id="BanglaTV.bd" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bangla TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hwnT42t0FcX0FRKTXerhEkg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="368" tvg-id="BanglaVision.bd" tvg-name="Bangla Vision" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="6" channel-id="BanglaVision.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Bangla Vision
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h1khZb2_UmCi9t6FvNahobQ#fb:M3U_World_4K
+#EXTINF:-1 xui-id="397" tvg-id="BijoyTV.bd" tvg-name="Bijoy TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="9" channel-id="BijoyTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Bijoy TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h7O7-UEfvYwHZvlpnnVYj9I#fb:M3U_World_4K
+#EXTINF:-1 xui-id="384" tvg-id="custom.bdix.boishakhai" tvg-name="BOISHAKHAI TV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="66" channel-id="custom.bdix.boishakhai" group-title="Bangladesh" provider="fb:M3U_World_4K",BOISHAKHAI TV HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2g6_rWfuFxgvWC65mBZfaM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="188373" tvg-id="custom.bdix.btvctg" tvg-name="BTV CTG" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="72" channel-id="custom.bdix.btvctg" group-title="Bangladesh" provider="fb:M3U_World_4K",BTV CTG
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_AC5diY9zoPDtnn10RTLCo#fb:M3U_World_4K
+#EXTINF:-1 xui-id="357" tvg-id="BTVNational.bd" tvg-name="BTV National" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="16" channel-id="BTVNational.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",BTV National
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9k2JufmTt1ob_ZNWpwfjKY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="358" tvg-id="custom.btv.news" tvg-name="BTV News" tvg-chno="17" channel-id="custom.btv.news" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",BTV News
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8YoekT0BdrjgEfQ4fmPrIo#fb:M3U_World_4K
+#EXTINF:-1 xui-id="179032" tvg-id="custom.channel.1" tvg-name="Channel 1" tvg-chno="19" channel-id="custom.channel.1" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 1
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h3hwJ_7dBno_QXXvQA_CF8g#fb:M3U_World_4K
+#EXTINF:-1 xui-id="382" tvg-id="Channel9.bd" tvg-name="Channel 9" tvg-chno="23" channel-id="Channel9.bd" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 9
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hz7XyihAYmQKXwDmgiEPYRY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18817" tvg-id="Channel24.bd" tvg-name="Channel 24" tvg-chno="22" channel-id="Channel24.bd" group-title="Bangladesh" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 24
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h1qqs5oS5S6n_LTBHjGVQGE#fb:M3U_World_4K
+#EXTINF:-1 xui-id="363" tvg-id="ChannelI.bd" tvg-name="Channel I" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="24" channel-id="ChannelI.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Channel I
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9llgrLKyIYwnVGkGOOW3dM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="93526" tvg-id="ChannelS.uk" tvg-name="Channel S" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="73" channel-id="ChannelS.uk" group-title="Bangladesh" provider="fb:M3U_World_4K",Channel S
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h48sWHQVW8piyRyVgWaPvQU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="16883" tvg-id="DBCNews.bd" tvg-name="DBC News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="11" channel-id="DBCNews.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",DBC News
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5jN8Wx3P7x7urmzEr9aaR0#fb:M3U_World_4K
+#EXTINF:-1 xui-id="372" tvg-id="DeeptoTV.bd" tvg-name="Deepto TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="27" channel-id="DeeptoTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Deepto TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h18EhdjdDwTLHbmw8rkFp7Y#fb:M3U_World_4K
+#EXTINF:-1 xui-id="4712" tvg-id="DeshTV.bd" tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="12" channel-id="DeshTV.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",Desh TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h7BDcaBwSVaziegk9GKZ8DM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="395" tvg-id="DurontoTV.bd" tvg-name="Duronto TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="13" channel-id="DurontoTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Duronto TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h23M1OlrCmj-1twv1Nj65lg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="364" tvg-id="EkattorTV.bd" tvg-name="Ekattor TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="35" channel-id="EkattorTV.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",Ekattor TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h6baLFdX295CP4kKvCLOKZ4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="386" tvg-id="EkhonTV.bd" tvg-name="Ekhon TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="15" channel-id="EkhonTV.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",Ekhon TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h1_qTaqzheoC6hrsY82ihjY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="378" tvg-id="EkusheyTV.bd" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="20" channel-id="EkusheyTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Ekushey TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5Hyp97ySKJF386PlteTyAc#fb:M3U_World_4K
+#EXTINF:-1 xui-id="374" tvg-id="custom.bdix.gazi" tvg-name="GAZI TV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="95" channel-id="custom.bdix.gazi" group-title="Bangladesh" provider="fb:M3U_World_4K",GAZI TV HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hyIswkYQkYxpxLpUA6jJDz8#fb:M3U_World_4K
+#EXTINF:-1 xui-id="385" tvg-id="GlobalTV.bd" tvg-name="Global TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="44" channel-id="GlobalTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Global TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hw1-M418p_34LWkHW71hNLY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="144334" channel-id="GreenTV.bd" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="GreenTV.bd" tvg-name="Green TV" tvg-chno="101" group-title="Bangladesh" provider="fb:M3U_World_4K",Green TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h6WCGh6FckhbXq5cpILPV30#fb:M3U_World_4K
+#EXTINF:-1 xui-id="105506" tvg-id="IndependentTV.bd" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="28" channel-id="IndependentTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Independent TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0KAaUN3Ii1ZSSkAoaxENO4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="69473" tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="29" channel-id="JamunaTV.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",Jamuna TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8aZm7WFpjb5ykTDAgHKjaI#fb:M3U_World_4K
+#EXTINF:-1 xui-id="376" tvg-id="MaasrangaTV.bd" tvg-name="Maasranga TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="52" channel-id="MaasrangaTV.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",Maasranga TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h81oqiCzgM7rvfNcdECO_1k#fb:M3U_World_4K
+#EXTINF:-1 xui-id="396" tvg-id="MohonaTV.bd" tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="36" channel-id="MohonaTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Mohona TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9OnjJK6n2TlrcDtRrFd2cc#fb:M3U_World_4K
+#EXTINF:-1 xui-id="391" tvg-id="MovieBangla.bd" tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="78" channel-id="MovieBangla.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Movie Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h6Mhv33l9Wkzw6UHqH9g_8U#fb:M3U_World_4K
+#EXTINF:-1 xui-id="16935" tvg-id="MyTV.bd" tvg-name="My TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="82" channel-id="MyTV.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",My TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h7VN4iD-rDnT-pU9H5_-TJ0#fb:M3U_World_4K
+#EXTINF:-1 xui-id="955" tvg-id="NagorikTV.bd" tvg-name="Nagorik TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="32" channel-id="NagorikTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Nagorik TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5Wd2pRZlMuRmE8wxVWqkwk#fb:M3U_World_4K
+#EXTINF:-1 xui-id="16884" tvg-id="News24.bd" tvg-name="News 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="129" channel-id="News24.bd.alt1" group-title="Bangladesh" provider="fb:M3U_World_4K",News 24
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4LCkKVp8ORiekktQSlc2kw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="388" tvg-id="NexusTV.bd" tvg-name="Nexus TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="161" channel-id="NexusTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Nexus TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h51cl1aB9jCjab_0xr3n19o#fb:M3U_World_4K
+#EXTINF:-1 xui-id="369" tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="184" channel-id="NTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",NTV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h604aic1Yo0bg3OZ59hg7OM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="180667" tvg-id="RajdhaniTV.bd" tvg-name="Rajdhani TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="40" channel-id="RajdhaniTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Rajdhani TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4lp8ogxihUq3UNmtbCXNyE#fb:M3U_World_4K
+#EXTINF:-1 xui-id="370" tvg-id="RTV.bd" tvg-name="RTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="217" channel-id="RTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",RTV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h1TKP2kx7lYCllLnpQsgNg8#fb:M3U_World_4K
+#EXTINF:-1 xui-id="375" tvg-id="custom.bdix.satv" tvg-name="SATV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="106" channel-id="custom.bdix.satv" group-title="Bangladesh" provider="fb:M3U_World_4K",SATV HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4N9d6ueEfggSXKfcYhz-Fg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="365" tvg-id="SomoyNewsTV.bd" tvg-name="Somoy TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="33" channel-id="SomoyNewsTV.bd" group-title="Bangladesh" provider="fb:M3U_World_4K",Somoy TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hzPjeg9u-ke5av5bSIG7PZg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="175336" tvg-id="custom.star.news" tvg-name="Star News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="223" channel-id="custom.star.news" group-title="Bangladesh" provider="fb:M3U_World_4K",Star News
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hycgULfkUpcYoqlSOXrYCBk#fb:M3U_World_4K
+#EXTINF:-1 xui-id="2881" tvg-id="custom.bdix.aakashaath" tvg-name="AAKASH AATH" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="201" channel-id="custom.bdix.aakashaath" group-title="Indian Bangla" provider="fb:M3U_World_4K",AAKASH AATH
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5DGYvfk7gqj2nKoZt0U8DE#fb:M3U_World_4K
+#EXTINF:-1 xui-id="1623" tvg-id="custom.bdix.abpananda" tvg-name="ABP ANANDA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="202" channel-id="custom.bdix.abpananda" group-title="Indian Bangla" provider="fb:M3U_World_4K",ABP ANANDA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4-tmDKCltDUTfS7qf-GYGk#fb:M3U_World_4K
+#EXTINF:-1 xui-id="461" tvg-id="custom.bdix.banglajago" tvg-name="BANGLA JAGO" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="203" channel-id="custom.bdix.banglajago" group-title="Indian Bangla" provider="fb:M3U_World_4K",BANGLA JAGO
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h3y71Npw1W9xlR1sbQ5bFUY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="2330" tvg-id="BanglaPlus.in" tvg-name="Bangla Plus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="241" channel-id="BanglaPlus.in" group-title="Indian Bangla" provider="fb:M3U_World_4K",Bangla Plus
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_EGUJv8Tqo3W8h5210Pv5o#fb:M3U_World_4K
+#EXTINF:-1 xui-id="453" tvg-id="Colors.Bangla.in" tvg-name="Colors Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="247" channel-id="Colors.Bangla.in" group-title="Indian Bangla" provider="fb:M3U_World_4K",Colors Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5EL9bM9UTmma5ZVF0rhCFk#fb:M3U_World_4K
+#EXTINF:-1 xui-id="454" tvg-id="ColorsBanglaCinema.in@SD" tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="248" channel-id="ColorsBanglaCinema.in@SD" group-title="Indian Bangla" provider="fb:M3U_World_4K",Colors Bangla Cinema
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8R8eEu9z_ZQndn_pvUFJYs#fb:M3U_World_4K
+#EXTINF:-1 xui-id="466" tvg-id="DDBangla.in@SD" tvg-name="DD Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="251" channel-id="DDBangla.in@SD" group-title="Indian Bangla" provider="fb:M3U_World_4K",DD Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h36-T1aOFds32t_y40kVcsA#fb:M3U_World_4K
+#EXTINF:-1 xui-id="94406" tvg-id="Enterr10 Bangla.in" tvg-name="ENTER 10 BANGLA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="204" channel-id="Enterr10 Bangla.in" group-title="Indian Bangla" provider="fb:M3U_World_4K",ENTER 10 BANGLA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hw6MN-lPmKrUpPVq8M9-2kM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="450" tvg-id="Star.Jalsha.Movies.in" tvg-name="Jalsha Movies" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="259" channel-id="Star.Jalsha.Movies.in" group-title="Indian Bangla" provider="fb:M3U_World_4K",Jalsha Movies
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h7XsqTj48GAzFkGbNZQwj9U#fb:M3U_World_4K
+#EXTINF:-1 xui-id="3664" tvg-id="RPlusGold.in@SD" tvg-name="R Plus Gold" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="273" channel-id="RPlusGold.in@SD" group-title="Indian Bangla" provider="fb:M3U_World_4K",R Plus Gold
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hyj3xSUY11c4KRmsOI-L4ZY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="7433" tvg-id="RupasiBangla.in@SD" tvg-name="Ruposhi Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="275" channel-id="RupasiBangla.in@SD" group-title="Indian Bangla" provider="fb:M3U_World_4K",Ruposhi Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hx9O6PFoRXu4LQXNBGMFUyU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="460" tvg-id="SangeetBangla.in@SD" tvg-name="Sangeet Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="283" channel-id="SangeetBangla.in@SD" group-title="Indian Bangla" provider="fb:M3U_World_4K",Sangeet Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_7wPmPTsXVGwUN6yfW44Og#fb:M3U_World_4K
+#EXTINF:-1 xui-id="161685" tvg-id="Sony.Aath.in" tvg-name="Sony AATH" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="230" channel-id="Sony.Aath.in" group-title="Indian Bangla" provider="fb:M3U_World_4K",Sony AATH
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2xUVU7TLP0ioAK33XDhXFo#fb:M3U_World_4K
+#EXTINF:-1 xui-id="449" tvg-id="Star.Jalsha.in" tvg-name="Star Jalsha" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="289" channel-id="Star.Jalsha.in" group-title="Indian Bangla" provider="fb:M3U_World_4K",Star Jalsha
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hyxuVtZ5OIMIFVHTYjs39O4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="463" tvg-id="custom.bdix.9bangla" tvg-name="TV 9 BANGLA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="209" channel-id="custom.bdix.9bangla" group-title="Indian Bangla" provider="fb:M3U_World_4K",TV 9 BANGLA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2N77Az6srrAbchmTBEB0ro#fb:M3U_World_4K
+#EXTINF:-1 xui-id="451" tvg-id="ZeeBangla.in@HD" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="45" channel-id="ZeeBangla.in@HD.alt1" group-title="Indian Bangla" provider="fb:M3U_World_4K",Zee Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9R_fUL8Uhe9SKJPLkwIHIg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18982" tvg-id="ZeeBanglaSonar.in@SD" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="306" channel-id="ZeeBanglaSonar.in@SD" group-title="Indian Bangla" provider="fb:M3U_World_4K",Zee Bangla Cinema
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hwXRgwvKvQTn4Nol11F44jU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="2319" tvg-id="BhojpuriCinema.in@SD" tvg-name="Bhojpuri Cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="310" channel-id="BhojpuriCinema.in@SD" group-title="Indian Movies" provider="fb:M3U_World_4K",Bhojpuri Cinema
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h76cxQ4yUHWthrG33yi5Fzw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="515" tvg-id="ColorsCineplex.in@SD" tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="48" channel-id="ColorsCineplex.in@SD" group-title="Indian Movies" provider="fb:M3U_World_4K",Colors Cineplex
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0afj5-wDFVIeR4D2HICXwM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="507" tvg-id="MBCBollywood.ae" tvg-name="MBC Bollywood" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="345" channel-id="MBCBollywood.ae" group-title="Indian Movies" provider="fb:M3U_World_4K",MBC Bollywood
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8nQLecNylgrBLkUaUiQAyw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18826" tvg-id="SonyMax.in@SD" tvg-name="Sony Max" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="384" channel-id="SonyMax.in@SD" group-title="Indian Movies" provider="fb:M3U_World_4K",Sony Max
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0yDhuPjajDECpj9_HmBbtk#fb:M3U_World_4K
+#EXTINF:-1 xui-id="495" tvg-id="StarGold.in@HD" tvg-name="Star Gold" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="392" channel-id="StarGold.in@HD" group-title="Indian Movies" provider="fb:M3U_World_4K",Star Gold
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h88Vwd-RYjQbJ-cqkeqI9-8#fb:M3U_World_4K
+#EXTINF:-1 xui-id="633" tvg-id="StarGold2.in@HD" tvg-name="Star Gold 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="302" channel-id="StarGold2.in@HD" group-title="Indian Movies" provider="fb:M3U_World_4K",Star Gold 2
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hznI48wytPPowStmefC_DCQ#fb:M3U_World_4K
+#EXTINF:-1 xui-id="2172" tvg-id="Star Gold Romance.in" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="303" channel-id="Star Gold Romance.in" group-title="Indian Movies" provider="fb:M3U_World_4K",STAR GOLD ROMANCE
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h777UehfaVIw3o6_OtJnQ7g#fb:M3U_World_4K
+#EXTINF:-1 xui-id="161673" tvg-id="ZeeCinema.in@HD" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="58" channel-id="ZeeCinema.in@HD" group-title="Indian Movies" provider="fb:M3U_World_4K",Zee Cinema
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_vN9qdjnhMZ7-2Sa_s0KD4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="519" tvg-id="9XJalwa.in" tvg-name="9X Jalwa" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="436" channel-id="9XJalwa.in" group-title="Indian Music" provider="fb:M3U_World_4K",9X Jalwa
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hyDISIvjt0sesuWEVKQD2d0#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18830" tvg-id="9XJhakaas.in@SD" tvg-name="9X Jhakaas" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="414" channel-id="9XJhakaas.in@SD" group-title="Indian Music" provider="fb:M3U_World_4K",9X Jhakaas
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5CxnMlH9VkWz8Cms-FPM5A#fb:M3U_World_4K
+#EXTINF:-1 xui-id="525" tvg-id="9XM.in@SD" tvg-name="9XM" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="417" channel-id="9XM.in@SD" group-title="Indian Music" provider="fb:M3U_World_4K",9XM
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4YTUJ64ZGaykjIzJygd9mg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="161681" tvg-id="B4UMusic.in@India" tvg-name="B4U Music" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="400" channel-id="B4UMusic.in@India" group-title="Indian Music" provider="fb:M3U_World_4K",B4U Music
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9nLa0farr-MQt0k2XYDnDM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="521" tvg-id="EpicMusic.in@SD" tvg-name="Epic Music" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="59" channel-id="EpicMusic.in@SD" group-title="Indian Music" provider="fb:M3U_World_4K",Epic Music
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hwF-NZsNjPvL20ydFosJO2E#fb:M3U_World_4K
+#EXTINF:-1 xui-id="6168" tvg-id="IsaiAruvi.in@SD" tvg-name="Isai Aruvi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="435" channel-id="IsaiAruvi.in@SD" group-title="Indian Music" provider="fb:M3U_World_4K",Isai Aruvi
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h11TeGb7b_2i0suToR_6qtw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18342" tvg-id="MusicIndia.in@SD" tvg-name="Music India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="444" channel-id="MusicIndia.in@SD" group-title="Indian Music" provider="fb:M3U_World_4K",Music India
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hz5xYY86NTkMiYayfpcZpVA#fb:M3U_World_4K
+#EXTINF:-1 xui-id="520" tvg-id="Zing.in@SD" tvg-name="Zing" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="460" channel-id="Zing.in@SD" group-title="Indian Music" provider="fb:M3U_World_4K",Zing
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9MYzfW9yl3vvthpUGactZg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="161665" tvg-id="AndTV.in@SD" tvg-name="&TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="468" channel-id="AndTV.in@SD" group-title="Indian Entertainment" provider="fb:M3U_World_4K",&TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h3OWFwPFM8a_zHaNPVE17TI#fb:M3U_World_4K
+#EXTINF:-1 xui-id="41284" tvg-id="Colors.in" tvg-name="Colors" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="475" channel-id="Colors.in" group-title="Indian Entertainment" provider="fb:M3U_World_4K",Colors
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4472KDgDFWiSEhOynXf4lE#fb:M3U_World_4K
+#EXTINF:-1 xui-id="490" tvg-id="Dangal2.in@SD" tvg-name="Dangal 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="480" channel-id="Dangal2.in@SD" group-title="Indian Entertainment" provider="fb:M3U_World_4K",Dangal 2
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h7K-VZyjuIj3-2YWZo1iuYw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="683" tvg-id="MTVIndia.in@SD" tvg-name="MTV India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1078" channel-id="MTVIndia.in@SD" group-title="Indian Entertainment" provider="fb:M3U_World_4K",MTV India
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_PYm_-onoMUFiKJd-0F1R4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="141830" tvg-id="SonySAB.in@HD" tvg-name="Sony SAB" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="682" channel-id="SonySAB.in@HD" group-title="Indian Entertainment" provider="fb:M3U_World_4K",Sony SAB
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4Q1vWDLG9pcFaMpqe3_YaA#fb:M3U_World_4K
+#EXTINF:-1 xui-id="141784" tvg-id="custom.bdix.sony" tvg-name="SONY TV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="530" channel-id="custom.bdix.sony" group-title="Indian Entertainment" provider="fb:M3U_World_4K",SONY TV HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-kr7S43-rs1iXDxXIMjkpU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="479" tvg-id="StarBharat.in" tvg-name="Star Bharat" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="688" channel-id="StarBharat.in" group-title="Indian Entertainment" provider="fb:M3U_World_4K",Star Bharat
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hx07P1jJU2-RGCFShsPRKq4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="143845" tvg-id="StarPlus.in@SD" tvg-name="Star Plus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="685" channel-id="StarPlus.in@SD" group-title="Indian Entertainment" provider="fb:M3U_World_4K",Star Plus
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-dIcdSPuu24_lvw5WC10RU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="161658" tvg-id="ZeeTV.in@SD" tvg-name="Zee TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="707" channel-id="ZeeTV.in@SD" group-title="Indian Entertainment" provider="fb:M3U_World_4K",Zee TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5mqlKV14xDuPAinM8qJFnI#fb:M3U_World_4K
+#EXTINF:-1 xui-id="518" tvg-id="Zoom.in" tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="407" channel-id="Zoom.in" group-title="Indian Entertainment" provider="fb:M3U_World_4K",ZOOM
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8MYGUZe1FR5QcCRXHOvR4s#fb:M3U_World_4K
+#EXTINF:-1 xui-id="94408" tvg-id="JooMusic.pk" tvg-name="Joo Music" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="438" channel-id="JooMusic.pk" group-title="Pakistani" provider="fb:M3U_World_4K",Joo Music
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_9_zPTSAJP5pNM8lqo4yDA#fb:M3U_World_4K
+#EXTINF:-1 xui-id="954" tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="714" channel-id="AlJazeera.qa@English" group-title="International" provider="fb:M3U_World_4K",Al Jazeera
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0Fl0HH0yjhLGehK-DJOHYQ#fb:M3U_World_4K
+#EXTINF:-1 xui-id="3517" tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1084" channel-id="BBCNews.uk" group-title="International" provider="fb:M3U_World_4K",BBC News
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5tNomOxfPYYqVNLZ6SNX6Q#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18597" tvg-id="custom.bdix.canadaone" tvg-name="CANADA ONE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="503" channel-id="custom.bdix.canadaone" group-title="International" provider="fb:M3U_World_4K",CANADA ONE
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hzcAZuSnjGHbiTAq77NAE40#fb:M3U_World_4K
+#EXTINF:-1 xui-id="2131" tvg-id="custom.bdix.cnninternationla" tvg-name="CNN INTERNATIONLA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="668" channel-id="custom.bdix.cnninternationla" group-title="International" provider="fb:M3U_World_4K",CNN INTERNATIONLA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h6hjUwTVqSndxV-WqwYokTs#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18678" tvg-id="MyTimeMovieNetwork.uk@SD" tvg-name="Mytime Movie" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="772" channel-id="MyTimeMovieNetwork.uk@SD" group-title="International" provider="fb:M3U_World_4K",Mytime Movie
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h4W1wae9lpkbSM2n2zReGf0#fb:M3U_World_4K
+#EXTINF:-1 xui-id="599" tvg-id="custom.bdix.ndtv24x7" tvg-name="NDTV 24x7" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="725" channel-id="custom.bdix.ndtv24x7" group-title="International" provider="fb:M3U_World_4K",NDTV 24x7
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hzeU3DHzU6FJTOW1a754ZgE#fb:M3U_World_4K
+#EXTINF:-1 xui-id="541" tvg-id="StarMovies.in@SD" tvg-name="Star Movies" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="744" channel-id="StarMovies.in@SD" group-title="International" provider="fb:M3U_World_4K",Star Movies
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2P7KTis24YpbThIup8TRyg#fb:M3U_World_4K
+#EXTINF:-1 xui-id="532" tvg-id="custom.bdix.tracelatina" tvg-name="TRACE LATINA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="746" channel-id="custom.bdix.tracelatina" group-title="International" provider="fb:M3U_World_4K",TRACE LATINA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hzun2IK-xgiodTUg3sGIkKs#fb:M3U_World_4K
+#EXTINF:-1 xui-id="517" tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="733" channel-id="TraceUrban.fr" group-title="International" provider="fb:M3U_World_4K",Trace Urban
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hy08ZM-HIJ-6QN92LUqZue4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="161686" tvg-id="AnimalPlanet.in@SD" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="93" channel-id="AnimalPlanet.in@SD" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",Animal Planet
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h81SRmKF440w516-hwztSxU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="576" tvg-id="DiscoveryChannel.in@SD" tvg-name="Discovery" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="94" channel-id="DiscoveryChannel.in@SD" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",Discovery
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hxMs67iMlv66NO8oTNi8lQc#fb:M3U_World_4K
+#EXTINF:-1 xui-id="145383" tvg-id="custom.bdix.discoverybangla" tvg-name="DISCOVERY BANGLA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="767" channel-id="custom.bdix.discoverybangla" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",DISCOVERY BANGLA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h55R3V66zdEe5IT1wskSUbY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="579" tvg-id="Discovery Science.in" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="769" channel-id="Discovery Science.in" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",DISCOVERY SCIENCE
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hwZrelAleTZyiEQQwQjERpA#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18069" tvg-id="InvestigationDiscovery.in@SD" tvg-name="Investigation Discovery" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="875" channel-id="InvestigationDiscovery.in@SD" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",Investigation Discovery
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h97ktYc0NXs5OZfmuIMV27U#fb:M3U_World_4K
+#EXTINF:-1 xui-id="142365" tvg-id="NationalGeographicWild.in@SD" tvg-name="Nat Geo Wild" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="96" channel-id="NationalGeographicWild.in@SD" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",Nat Geo Wild
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9QWYs3csqbwMBgT4G-Yz9s#fb:M3U_World_4K
+#EXTINF:-1 xui-id="593" tvg-id="TLC.in@HD" tvg-name="TLC" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="98" channel-id="TLC.in@HD" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",TLC
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-b6GEqO-rwf3EcaAKXZXAw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="588" tvg-id="custom.bdix.travelxp" tvg-name="TRAVEL XP HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="785" channel-id="custom.bdix.travelxp" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",TRAVEL XP HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0tVFpbXcwZ9FZ_8b3j62Ek#fb:M3U_World_4K
+#EXTINF:-1 xui-id="589" tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="787" channel-id="WildEarth.za" group-title="Documentary & Wildlife" provider="fb:M3U_World_4K",WildEarth
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9Zd4xALlv8VrX-0MomDBVQ#fb:M3U_World_4K
+#EXTINF:-1 xui-id="956" tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="927" channel-id="CartoonNetwork.uk" group-title="Kids" provider="fb:M3U_World_4K",Cartoon Network
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5pT0VbhMoGSXq6CXo1wJac#fb:M3U_World_4K
+#EXTINF:-1 xui-id="671" tvg-id="Disney Junior.in" tvg-name="DISNEY JUNIOR" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="801" channel-id="Disney Junior.in" group-title="Kids" provider="fb:M3U_World_4K",DISNEY JUNIOR
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hzQr1GDXRIEYG_ejdeShuFU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="179128" tvg-id="custom.bdix.nickbangla" tvg-name="NICK BANGLA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="806" channel-id="custom.bdix.nickbangla" group-title="Kids" provider="fb:M3U_World_4K",NICK BANGLA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8mW-NsTzyKt5adBiEMhkzw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="569" tvg-id="NickJr.in@SD" tvg-name="Nick Jr" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="897" channel-id="NickJr.in@SD" group-title="Kids" provider="fb:M3U_World_4K",Nick Jr
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h7mKDW05Zl9RrOXIffrM3Pc#fb:M3U_World_4K
+#EXTINF:-1 xui-id="135044" tvg-id="ZooMoo.sg" tvg-name="ZooMoo" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="970" channel-id="ZooMoo.sg" group-title="Kids" provider="fb:M3U_World_4K",ZooMoo
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hytkFqVyOS_EkSsPDq9sDq4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="620" tvg-id="custom.bdix.madanibangla" tvg-name="MADANI TV BANGLA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="909" channel-id="custom.bdix.madanibangla" group-title="Religious" provider="fb:M3U_World_4K",MADANI TV BANGLA
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0wqnMHHBPvHGJhgtORo8x4#fb:M3U_World_4K
+#EXTINF:-1 xui-id="180977" tvg-id="custom.bdix.madinalive" tvg-name="MADINA LIVE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="913" channel-id="custom.bdix.madinalive" group-title="Religious" provider="fb:M3U_World_4K",MADINA LIVE
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0EbZhJyPxgSIRv5Bty-zHM#fb:M3U_World_4K
+#EXTINF:-1 xui-id="619" tvg-id="custom.makkah.live" tvg-name="Makkah Live" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="982" channel-id="custom.makkah.live" group-title="Religious" provider="fb:M3U_World_4K",Makkah Live
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h57EXli3ltdSDRMe5A7FgXk#fb:M3U_World_4K
+#EXTINF:-1 xui-id="180666" tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="100" channel-id="PeaceTVBangla.ae" group-title="Religious" provider="fb:M3U_World_4K",Peace TV Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9Q2_bokiVuN2G5pnzIbRWU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="143712" tvg-id="QuranTV.iq" tvg-name="Quran TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="989" channel-id="QuranTV.iq" group-title="Religious" provider="fb:M3U_World_4K",Quran TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h9WWNogV-lEyk1odd1vFOYI#fb:M3U_World_4K
+#EXTINF:-1 xui-id="3826" tvg-id="DDSports.in@SD" tvg-name="DD Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="999" channel-id="DDSports.in@SD" group-title="Sports" provider="fb:M3U_World_4K",DD Sports
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_UZjwt4ii540pP_yKK-8j8#fb:M3U_World_4K
+#EXTINF:-1 xui-id="2919" tvg-id="Star Sports 1 Hindi HD.in" tvg-name="IN: -HINDI- STAR SPORTS 1 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="951" channel-id="Star Sports 1 Hindi HD.in" group-title="Sports" provider="fb:M3U_World_4K",IN: -HINDI- STAR SPORTS 1 HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hywBolAuPWciNugFDxZTz5g#fb:M3U_World_4K
+#EXTINF:-1 xui-id="94584" tvg-id="custom.bdix.eurosport" tvg-name="IN: EUROSPORT HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="957" channel-id="custom.bdix.eurosport" group-title="Sports" provider="fb:M3U_World_4K",IN: EUROSPORT HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h1UKxZ3U_ug1yEUTQyGgzcs#fb:M3U_World_4K
+#EXTINF:-1 xui-id="404" tvg-id="SONY SPORTS TEN 1 HD.in" tvg-name="IN: SONY SPORTS TEN 1 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="959" channel-id="SONY SPORTS TEN 1 HD.in" group-title="Sports" provider="fb:M3U_World_4K",IN: SONY SPORTS TEN 1 HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-5apqPjs1fh8FeKf74zWmI#fb:M3U_World_4K
+#EXTINF:-1 xui-id="405" tvg-id="SONY SPORTS TEN 2 HD.in" tvg-name="IN: SONY SPORTS TEN 2 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="966" channel-id="SONY SPORTS TEN 2 HD.in" group-title="Sports" provider="fb:M3U_World_4K",IN: SONY SPORTS TEN 2 HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-dcvq-XfJ4ydiY6s7n7TcU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="933" tvg-id="custom.bdix.geosuper" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-name="PK: GEO SUPER" tvg-chno="985" channel-id="custom.bdix.geosuper" group-title="Sports" provider="fb:M3U_World_4K",PK: GEO SUPER
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h3pN_WKoD6bywWFiKXBamjo#fb:M3U_World_4K
+#EXTINF:-1 xui-id="419" tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1024" channel-id="PTVSports.pk" group-title="Sports" provider="fb:M3U_World_4K",PTV Sports
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_ln_hLNabHp3cvuyxzFtAo#fb:M3U_World_4K
+#EXTINF:-1 xui-id="984" tvg-id="custom.bdix.redbulltv" tvg-name="Red Bull TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="783" channel-id="custom.bdix.redbulltv" group-title="Sports" provider="fb:M3U_World_4K",Red Bull TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8wAfgcfcQ7FGSf-LR4MZF8#fb:M3U_World_4K
+#EXTINF:-1 xui-id="415" tvg-id="SkySportsCricket.ie" tvg-name="Sky Sports Cricket" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1032" channel-id="SkySportsCricket.ie" group-title="Sports" provider="fb:M3U_World_4K",Sky Sports Cricket
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-cA1ojhGxsZd4B7gRUs9Qo#fb:M3U_World_4K
+#EXTINF:-1 xui-id="942" tvg-id="SkySportsFootball.ie" tvg-name="Sky Sports Football" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1033" channel-id="SkySportsFootball.ie" group-title="Sports" provider="fb:M3U_World_4K",Sky Sports Football
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h8YyRwRMsXYRgfu8S9J4vdI#fb:M3U_World_4K
+#EXTINF:-1 xui-id="406" tvg-id="SonySportsTen3.in" tvg-name="Sony Sports Ten 3" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1034" channel-id="SonySportsTen3.in" group-title="Sports" provider="fb:M3U_World_4K",Sony Sports Ten 3
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hytMSPioHZ_31Jyjlvv94V0#fb:M3U_World_4K
+#EXTINF:-1 xui-id="398" tvg-id="StarSports1.in@HD" tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1047" channel-id="StarSports1.in@HD" group-title="Sports" provider="fb:M3U_World_4K",Star Sports 1
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h6efRS_KR0UaJqw2Dh2J--A#fb:M3U_World_4K
+#EXTINF:-1 xui-id="400" tvg-id="StarSports3.in@SD" tvg-name="Star Sports 3" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1048" channel-id="StarSports3.in@SD" group-title="Sports" provider="fb:M3U_World_4K",Star Sports 3
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h_cHFO6bXeIHtWyrLfjwehY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="403" tvg-id="StarSportsSelect1.in@SD" tvg-name="Star Sports Select 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1049" channel-id="StarSportsSelect1.in@SD" group-title="Sports" provider="fb:M3U_World_4K",Star Sports Select 1
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-w1b4vLdHaAoWAJu0IeXBU#fb:M3U_World_4K
+#EXTINF:-1 xui-id="408" tvg-id="TSports.bd" tvg-name="T Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1051" channel-id="TSports.bd" group-title="Sports" provider="fb:M3U_World_4K",T Sports
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hwIvxfIqKFN9kIqnm8JUh_M#fb:M3U_World_4K
+#EXTINF:-1 xui-id="1473" tvg-id="TenSports.pk" tvg-name="Ten Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="1041" channel-id="TenSports.pk" group-title="Sports" provider="fb:M3U_World_4K",Ten Sports
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h3gLsr4pXr53C_Ha9NkcB1w#fb:M3U_World_4K
+#EXTINF:-1 xui-id="145283" tvg-id="custom.bdix.tracesportstars" tvg-name="TRACE Sport Stars HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="986" channel-id="custom.bdix.tracesportstars" group-title="Sports" provider="fb:M3U_World_4K",TRACE Sport Stars HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h5YpvjhOm0Mx3nSSzAbC0e8#fb:M3U_World_4K
+#EXTINF:-1 xui-id="435" tvg-id="DUPWCHD" tvg-name="US: WILLOW SPORTS HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="987" channel-id="DUPWCHD" group-title="Sports" provider="fb:M3U_World_4K",US: WILLOW SPORTS HD
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h7G6zFWjtRP7-p-r4gz_RJw#fb:M3U_World_4K
+#EXTINF:-1 xui-id="180692" channel-id="DeshTV.bd" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="DeshTV.bd" tvg-name="Bangla Vision" tvg-chno="9002" group-title="Test" provider="fb:M3U_World_4K",Bangla Vision
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h0EAkQOueiiCZTbLETkVKTc#fb:M3U_World_4K
+#EXTINF:-1 xui-id="180691" channel-id="DBCNews.bd" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="DBCNews.bd" tvg-name="Bangla Vision" tvg-chno="9001" group-title="Test" provider="fb:M3U_World_4K",Bangla Vision
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hwKGioRgBBM_T2ZY3xq5V88#fb:M3U_World_4K
+#EXTINF:-1 xui-id="180693" channel-id="EkattorTV.bd" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="EkattorTV.bd" tvg-name="Bangla Vision" tvg-chno="9003" group-title="Test" provider="fb:M3U_World_4K",Bangla Vision
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hxEWuc54O2yLyNM8DUK1ZDQ#fb:M3U_World_4K
+#EXTINF:-1 xui-id="180690" channel-id="News24.bd" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-id="News24.bd" tvg-name="Bangla Vision" tvg-chno="9005" group-title="Test" provider="fb:M3U_World_4K",Bangla Vision
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hy0cW31faNC_qsapRrurR9k#fb:M3U_World_4K
+#EXTINF:-1 xui-id="18816" tvg-id="JamunaTV.bd" tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" channel-id="JamunaTV.bd.alt2" tvg-chno="9004" group-title="Test" provider="fb:M3U_World_4K",Jamuna TV
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h-Xm6s-o-nOQZF4Zk2wUQYY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="473" tvg-id="StarPlus.in@SD" tvg-name="Star Plus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" channel-id="StarPlus.in@SD.alt1" tvg-chno="9007" group-title="Test" provider="fb:M3U_World_4K",Star Plus
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_hwmu9Ab7aOz-zzAofxVfRJY#fb:M3U_World_4K
+#EXTINF:-1 xui-id="409" tvg-id="TSports.bd" tvg-name="T Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" channel-id="TSports.bd.alt1" tvg-chno="9008" group-title="Test" provider="fb:M3U_World_4K",T Sports
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h2Z43Y-5YC3Rn1M5srhtdyc#fb:M3U_World_4K
+#EXTINF:-1 xui-id="2329" tvg-id="ZeeBangla.in@HD" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" tvg-chno="9006" channel-id="ZeeBangla.in@HD" group-title="Test" provider="fb:M3U_World_4K",Zee Bangla
+http://dvltv.cc/play/uxN8_xYmP3o_GFqK372_h3jFPPTCVGq1jXsPhYq-pn4#fb:M3U_World_4K
