@@ -3,8 +3,8 @@
 #EXTENC: UTF-8
 
 # Playlist Name: Z BDIX
-# Last Update: 06:10 PM 16-10-2026
-# Facebook Page: https://www.facebook.com/m3uworld4k/
+# Last Update: 05:10 PM 17-10-2026
+# Original Facebook Page: https://www.facebook.com/m3uworld4k/
 # Telegram: t.me/+dck4ykylk0kwyzk1
 
 
@@ -174,7 +174,8 @@ http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla Cinema
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Kc7BJRCy/20240823-020704.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sananda Tv
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+http://27.124.71.27/Animal_Planet/index.m3u8
+#http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="PROMO",Program Promo
 https://raw.githubusercontent.com/ahan443/ahan-live/refs/heads/main/promo/index.m3u8
